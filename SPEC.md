@@ -193,6 +193,28 @@ class Scenario:
 `{"torch": ..., "arkham": "ahlcg.scenarios.night_of_the_zealot.the_midnight_masks:TheMidnightMasks",
   "tentacles": "ahlcg.scenarios.night_of_the_zealot.the_devourer_below:TheDevourerBelow"}`
 
+## 五、接口增补（实现后的实际形态）
+
+Web 端点（`ahlcg/web/app.py`，均已在测试与实机验证）：
+
+| 方法 | 路径 | 说明 |
+|---|---|---|
+| GET | `/` | 单页前端 |
+| GET | `/api/pool` | 调查员/难度/剧本列表 |
+| POST | `/api/campaign/new` | `${investigator_code, difficulty, seed?, deck_codes?}`；deck_codes 提供时走自由组卡校验 |
+| GET | `/api/state?session=&lang=` | 完整视图；`lang=en` 切换英文原文 |
+| POST | `/api/choice` | `${session_id, choice_id, selected, cancelled}` |
+| POST | `/api/campaign/next` | 结算并进入下一幕 |
+| POST | `/api/campaign/spend` | 经验购买 |
+| GET | `/api/campaign/upgrades?session=` | 可购买卡列表（基础包、按组卡许可过滤） |
+| GET | `/api/deck-options?investigator=` | 自由组卡候选（等级 0、按许可过滤） |
+| GET | `/api/card-image/{code}` | 卡图按需下载并缓存 |
+| POST | `/api/ping` · `/api/bye` | 页面在线心跳 / 告别（自动退出用） |
+
+视图新增字段：`scenario.story`（本幕开场剧情）、`act/agenda.flavor`（叙事）、
+`locations[].connections/enemies/investigators`（地图）、`discard`、`deck_count`、
+`victory_display`、`investigator.text/code`（立绘与卡面）。
+
 ## 五、验收
 
 每个代理交付：(1) 代码；(2) 自己的 pytest 文件；(3) `python -m pytest -q` 全绿（不得让既有 112 个测试变红）；
