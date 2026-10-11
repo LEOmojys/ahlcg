@@ -1,0 +1,20 @@
+[project]
+name = "ahlcg"
+version = "0.1.0"
+description = "Arkham Horror: The Card Game - open rules engine, scenario content and web client"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.110",
+    "uvicorn>=0.29",
+    "websockets>=12",
+    "pydantic>=2.6",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "httpx>=0.27"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q --tb=short"
+filterwarnings = ["error::DeprecationWarning:ahlcg.*"]

@@ -1,0 +1,215 @@
+
+===== page 1 =====
+CHALLENGE SCENARIO
+RED TIDE RISING
+Red Tide Rising  is a special challenge scenario for Arkham Horror: The Card 
+Game designed to be played with Wendy Adams. This scenario can be played 
+as either a standalone scenario or as a side-story inserted into any campaign. In 
+order to play this scenario, a copy of the Arkham Horror: The Card Game 
+Core Set and The Innsmouth Conspiracy  Deluxe Expansion are required.
+Parallel Investigators
+Parallel investigators are alternate, print-and-play versions of investigators 
+from existing Arkham Horror: The Card Game products. These investigators, 
+along with their advanced signature cards, are fully playable in any scenario 
+or campaign.
+ Æ When building a Wendy Adams deck, you may choose whether to use 
+the original version or the parallel version of both her front side and 
+her back side. Each version has its own advantages and disadvantages. 
+You can also mix and match the two versions. This means that you can 
+use both original sides, both parallel sides, the original front side and 
+parallel back side, or the parallel front side and original back side.
+ Æ Regardless of which version of Wendy you use, you may also optionally 
+upgrade Wendy’s signature cards to her new advanced signature cards 
+(replacing the original versions). These versions are indicated by the 
+Advanced keyword on both signature cards. These are included only as 
+a set—if you choose to upgrade Wendy’s Amulet, you must also upgrade 
+Abandoned and Alone. Doing so costs no experience, and may be done 
+at any point during a campaign. However, once this upgrade is made, it 
+cannot be undone unless you are instructed otherwise.
+Challenge Scenarios
+Challenge scenarios are special print-and-play scenarios that utilize existing 
+products in the Arkham Horror: The Card Game  collection, along with 
+additional print-and-play cards, to create new content. These scenarios are 
+designed with certain prerequisites in mind, in order to craft a challenging 
+puzzle-like experience.
+The Red Tide Rising  challenge scenario centers around the investigator 
+Wendy Adams, and therefore has the following prerequisite:
+ Æ Wendy Adams  must be chosen as one of the investigators when playing 
+this scenario.
+Standalone Mode
+When played as a standalone scenario, follow the steps for Standalone Mode 
+in the Rules Reference. Refer to the section below for additional setup 
+instructions. When played as a standalone scenario, Red Tide Rising  has four 
+difficulty modes. Construct the chaos bag with the following tokens:
+ Æ Easy: +1, +1, 0, 0, 0, –1, –1, –1, –2, –2, , , , , , , , .
+ Æ Standard:  +1, 0, 0, –1, –1, –1, –2, –2, –3, –4, , , , , , , , .
+ Æ Hard: 0, 0, –1, –1, –2, –2, –3, –4, –5, –6, , , , , , , , .
+ Æ Expert:  0, –1, –2, –3, –4, –5 –6, –7, –8, , , , , , , , .
+Challenge Scenario: Red Tide Rising
+People don’t care about the ones who get left behind. That’s the first thing you 
+learned on the street, after you left the orphanage. You’ve had to fend for yourself, 
+do whatever you can to scrape by. So far, with just your wits and the amulet Mama 
+left you before they took her away, you’ve managed to survive. Occasionally, 
+someone will show some compassion and throw a coin or two into your cup. One 
+glorious morning, a nice lady leaving Velma’s gave you her leftover sausage and 
+eggs. But for the most part, you’ve only had yourself to rely on. The other street rats 
+might be in the same boat as you, but you would hesitate to call any of them friends, 
+save for maybe James, and that is a stretch. No—hunger, loneliness, boredom, and 
+doubt are your best and only friends. And despite all that, it’s still somehow better 
+than the orphanage.
+Then the fateful day arrived. It began like any other, with you and James working 
+your way through Rivertown, “collecting” anything you might be able to sell to 
+Oliver Thomas. The rest would surely go to Marvin’s gang—a bunch of street 
+kids who banded together to bully the rest—but there is one trinket among your 
+earnings that sparks your eye: a photograph. Not just any photograph, but one of 
+your father.
+It is unmistakable. There is no doubt in your mind. In the photo, your father stands 
+in front of a building you don’t recognize. The sign behind him looks to be in a 
+different language, so probably someplace far, far away. There’s no way of telling 
+how recently the photo was taken. It is worn, dirty, and nicked in several places. 
+You turn it over and there, scrawled in familiar handwriting, you read: “Soon the 
+Red Tide rises. Stay safe, my little girl.”
+You beg James to tell you where the photo came from, and he claims a man in a long 
+wool coat and a dark brown derby dropped it in your cup sometime before you ran 
+into Marvin’s gang. You set off at once, asking around to find the man in the derby. 
+Your only lead is that he hopped on a bus near Easttown. The decrepit, unmarked 
+bus that runs to the harbor town of Innsmouth. You scrounge up as many coins as 
+you can and board the only bus to the old, forsaken seaport. If Dad is still out there, 
+you have to find him. You have to!
+Proceed to Setup.
+Side-story (Campaign Mode)
+A side-story is a scenario that may be played between any two scenarios of 
+an Arkham Horror: The Card Game campaign. Playing a side-story costs each 
+investigator in the campaign a certain amount of experience. Weaknesses, 
+trauma, experience, and rewards granted by playing a side-story stay with the 
+investigators for the remainder of the campaign. Each side-story may only be 
+played once per campaign.
+When this scenario is played as a side-story during a campaign, play it as if 
+you are setting up the next scenario in the campaign, with the same chaos bag, 
+weaknesses, trauma, and story assets previously earned.
+Playing the Red Tide Rising side‑story costs Wendy Adams 3 experience, 
+and each other investigator only 1 experience.
+Expansion Symbol
+The cards in the “parallel investigator” series can 
+be identified by this symbol before each card’s 
+collector number.
+===== page 2 =====
+DO NOT READ  
+until the end of the scenario
+If no resolution was reached because each investigator 
+resigned: Proceed to Resolution 1 .
+If no resolution was reached because each investigator was 
+defeated: Proceed to Resolution 2 .
+Resolution 1:  You didn’t find Dad, but you were able to find the next 
+best thing: the man in the brown derby. You approach casually, hoping 
+he’ll ignore you like everyone else tends to do, so you can confront him. 
+You follow him into a dark alley and immediately realize he’s leading 
+you somewhere hidden away from prying eyes. “Didn’t think you’d 
+follow me,” he says once you’re alone.
+The questions come pouring out of you. Does he know your father? 
+Where is he? Why the photo? What is the Red Tide? But he simply 
+holds up a finger to his lips. “Shhh, kid. You’re gonna get me killed.” He 
+sighs, removes his cap, and runs his trembling fingers through oily hair. 
+“Look, all I can tell you is...your Dad, he fell in with some bad people. 
+Some real scary people. But he wanted out. And the only way out...” he 
+grimaces and shakes his head. “You gotta understand. He can’t come 
+home. You’d be in danger. So would he. But...he still wanted you to 
+know that he loves you. So...” 
+You wipe a stray tear that threatens to crawl down your cheek. The 
+man looks terrified. He’s either a world-class actor, or he’s telling the 
+truth. You ask him one last question—who are the bad people Dad fell 
+in with?—but the moment you ask, he shakes his head and backs away. 
+“I’ve already said too much!” is the last thing he says before he flees.
+ Æ Ignore the Victory X value of each Suspect  and Hideout card in 
+the victory display. Instead…
+ = …Wendy Adams earns 1 experience for each card in the 
+victory display beyond the 3rd.
+ = …Each other investigator earns 1 experience for each card 
+in the victory display beyond the 5th.
+ Æ If Wendy Adams was defeated, she must either upgrade 
+Abandoned and Alone to its advanced version, or downgrade 
+the advanced version of Wendy’s Amulet to its original version.
+ Æ If Wendy Adams was not defeated, she may either upgrade 
+Wendy’s Amulet to its advanced version, or downgrade 
+the advanced version of Abandoned and Alone to its 
+original version.
+Resolution 2:  You wait for your pursuers to round the corner before 
+making your way stealthily back to the bus stop and getting on the next 
+bus to Arkham. You crumple the sides of Dad’s photo in anger. A stray 
+teardrop trails down your cheek. You still have no real leads. Who was 
+the man in the derby and the wool coat that morning? What have you 
+gotten yourself mixed up with? But, glancing once more at the photo, 
+one hope still lingers in your mind: Dad is alive. He has to be.
+ Æ Ignore the Victory X value of each Suspect  and Hideout card in 
+the victory display. Instead…
+ = …Wendy Adams earns 1 experience for each card in the 
+victory display beyond the 3rd.
+ = …Each other investigator earns 1 experience for each card 
+in the victory display beyond the 5th.
+ Æ Wendy Adams must either upgrade Abandoned and Alone to 
+its advanced version, or downgrade the advanced version of 
+Wendy’s Amulet to its original version.
+Scenario Setup
+ Æ Gather all cards from the following encounter sets: Red Tide Rising, The 
+Vanishing of Elina Harper, Agents of Dagon, Fog over Innsmouth, The Locals, 
+Chilling Cold, Locked Doors, Nightgaunts, and The Midnight Masks. These sets 
+are indicated by the following icons: 
+ 
+ 
+ 
+ 
+ 
+When gathering The Midnight Masks encounter set, only gather the five 
+treachery cards (2x False Lead and 3x Hunting Shadow). Do not gather any 
+of the other cards from that encounter set.
+ Æ Remove the scenario reference card from the The Vanishing of Elina Harper 
+encounter set from the game. Use the new scenario reference card provided 
+in the Red Tide Rising encounter set.
+ Æ Remove all of the acts and agendas from The Vanishing of Elina Harper 
+encounter set from the game. Build the act and agenda decks using only the 
+new act and agenda cards provided in the Red Tide Rising encounter set. 
+ Æ Put the following locations into play: Innsmouth Square, Marsh Refinery, 
+Innsmouth Harbour, Fish Street Bridge, First National Grocery, Gilman 
+House, and The Little Bookshop.
+ Æ Prepare the Leads deck. This is done by performing the following steps:
+ = Find the 6 unique enemies with the Suspect trait and the 6 single-sided 
+locations with the Hideout trait. 
+ = Shuffle these 12 cards together to form a deck. This deck is called the 
+Leads deck. Place it near the scenario reference card.
+ Æ Draw the top card of the Leads deck, resolving its revelation ability.
+ = If it is a location, Wendy Adams begins play at that location.
+ = If it is an enemy, Wendy Adams begins play at that enemy’s location.
+ = Each other investigator begins play at Innsmouth Square.
+ Æ Set each of the following Monster enemies aside, out of play: Winged One 
+and both copies of Hunting Nightgaunt.
+ Æ Set Angry Mob aside, out of play (can be found on the other side of the Finding 
+Agent Harper reference card).
+ Æ Depending on the number of investigators (treat the number of investigators 
+as 1 higher if playing Hard difficulty, and 2 higher if playing Expert):
+ = If there is only 1 investigator, no change is made.
+ = If there are 2 investigators, begin with 1 doom on agenda 1.
+ = If there are 3 investigators, begin with 2 doom on agenda 1.
+ = If there are 4 investigators, shuffle 1 random set-aside Monster enemy into 
+the Leads deck.
+ = If there are 5 investigators (but not really), shuffle 1 random set-aside 
+Monster enemy into the Leads deck and begin with 1 doom on agenda 1.
+ = If there are 6 investigators (but not really), shuffle 1 random set-aside 
+Monster enemy into the Leads deck and begin with 2 doom on agenda 1.
+ Æ Remove the Thomas Dawson and Elina Harper story assets from the game.
+ Æ Put the double-sided Mysterious Photo story asset (provided in the Red Tide 
+Rising encounter set) into play, under the control of Wendy Adams.
+ = Wendy Adams may choose which side it enters play on.
+ = Mysterious Photo cannot leave play except if Wendy Adams is eliminated. 
+(If Mysterious Photo leaves play in this way, each surviving investigator should 
+resign, as they have no method by which to continue their objective.)
+ Æ Shuffle the remainder of the encounter cards to build the encounter deck. 
+ Æ You are now ready to begin.
+© 2021 Fantasy Flight Games. Arkham Horror, Fantasy Flight 
+Games, the FFG logo, Living Card Game, LCG, and the LCG logo 
+are ® Fantasy Flight Games. Fantasy Flight Games is located at 1995 
+West County Road B2, Roseville, Minnesota, 55113, USA, 651-639-
+1905. Actual components may vary from those shown.Permission granted to photocopy for personal use only.  
+Also available for download at www.FantasyFlightGames.com
+FANTASY
+FLIGHT
+GAMES

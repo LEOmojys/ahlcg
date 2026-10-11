@@ -1,0 +1,1391 @@
+
+===== page 1 =====
+1
+  = Easy: 
++1, +1, 0, 0, 0, –1, –1, –1, –2, –2, 󲅻, 󲅻, 󲅻, 󲅽, 󲅿.
+  = Standard: 
++1, 0, 0, –1, –1, –1, –2, –2, –3, –4, 󲅻, 󲅻, 󲅻, 󲅽, 󲅿.
+  = Hard: 
+0, 0, 0, –1, –1, –2, –2, –3, –4, –5, –6, 󲅻, 󲅻, 󲅻, 󲅽, 󲅿.
+  = Expert: 
+0, –1, –2, –3, –4, –5, –6, –7, –8, 󲅻, 󲅻, 󲅻, 󲅽, 󲅿.
+Side-story (Campaign Mode)
+A side-story is a scenario that may be played between any two 
+scenarios of an Arkham Horror: The Card Game campaign. Playing a 
+side-story costs each investigator in the campaign a certain amount 
+of experience. Weaknesses, trauma, experience, and rewards granted 
+by playing a side-story stay with the investigators for the remainder of 
+the campaign. Each side-story may only be played once per campaign.
+When this scenario is played as a side-story during a campaign, play 
+it as if you are setting up the next scenario in the campaign, with the 
+same chaos bag, weaknesses, trauma, and story assets previously 
+earned.
+Playing the Machinations Through Time side‑story costs each 
+investigator 2 experience.
+Additional Rules & Clarifications
+Eras
+Machinations Through Time has three separate eras: past, 
+present, and future. In Single Group Mode, you play all three eras 
+simultaneously and may travel through all eras. In Epic Multiplayer 
+Mode, each group is confined to a separate era.
+  ´ A Past asset cannot enter a non-Past location.
+  ´ A Present asset cannot enter a non-Present location.
+  ´ A Future non-Item asset cannot enter a non-Future location.
+MACHINATIONS  
+THROUGH TIME
+There Has Been a Distortion in Time...
+Something is wrong. Nobel  
+Award-winning scientists and their 
+revolutionary discoveries have 
+vanished. This ripple in reality is a loss 
+for humanity, and it must be restored. 
+Time is of the essence. Machinations 
+Through Time is a unique scenario for 
+Arkham Horror: The Card Game, designed for a fun and interactive 
+experience for 1–12 players.
+Expansion Symbol
+The cards in this expansion can be identified by this symbol before 
+each card’s collector number.
+Game Modes
+Machinations Through Time can be played as either a standalone 
+scenario or as a side-story inserted into any campaign. When played 
+standalone, it can be played in one of two ways: with a single group of 
+1–4 players in Single Group Mode, or with 3–12 players split into three 
+groups of 1–4 players each in Epic Multiplayer Mode.
+Pages 1–2 include additional rules and clarifications for both versions 
+of the scenario, while page 2 includes special rules pertaining to Epic 
+Multiplayer Mode.
+Standalone Mode
+When played as a standalone scenario, follow the steps for Standalone 
+Mode in the Rules Reference. This booklet is the campaign guide for 
+Machinations Through Time. This scenario has four difficulty modes. Each 
+group may play on its own difficulty mode. Construct the chaos bag with 
+the following tokens:
+
+===== page 2 =====
+2
+Time Paradox
+During Machinations Through Time, you may be confronted 
+with seemingly impossible tasks. Some tasks require the help of 
+investigators in another era to complete. Communication is key.
+Story Cards
+Story cards are a cardtype in this scenario. These cards serve as an 
+avenue for additional narrative and game text. During setup, resolve 
+the Setup text on each story card in play. Abilities on story cards in 
+play can be triggered by any investigator.
+Announce
+When a card instructs you to “announce” a key phrase, if you are 
+playing in Epic Multiplayer Mode, clearly communicate that phrase 
+to the other two groups. Some abilities require an announcement to 
+have been made before they can be triggered. See page 8 for a list of all 
+announcements.
+Abducted and Rescued
+When a Scientist asset is abducted (via card or game text), remove 
+all counters from it and set it aside, out of play. It remains out of play 
+until it is rescued (via card or game text).
+Alert
+Each time an investigator fails a skill test while attempting to evade an 
+enemy with the alert keyword, after applying all results for that skill 
+test, that enemy performs an attack against the evading investigator. 
+An enemy does not exhaust after performing an alert attack. This 
+attack occurs whether the enemy is engaged with the evading 
+investigator or not.
+Patrol
+Some enemies have the patrol keyword. During the enemy phase (in 
+framework step 3.2), each ready, unengaged enemy with the patrol 
+keyword moves to a connecting location along the shortest path 
+toward the designated location (as described in parentheses next to 
+the word patrol).
+  ´ If there are multiple locations that qualify as the designated 
+location, the lead investigator may choose which location the 
+enemy moves toward.
+  ´ If an enemy with patrol would be compelled to move to a 
+location that is blocked by a card ability, the enemy does not 
+move.
+Global Values
+Global values are calculated based on the total number of 
+participating players among all groups at the start of the game.
+For example: 12 total players are split between three groups of four. The 
+story card A Bitter Rivalry reads, “If you succeed, spend X clues, as a group, 
+where X is the global number of players.” In this example, X is 12.
+The Tyr’thrha enemy has a global health pool of 6 󲆃. In this example, 
+its global health pool is 72. In Epic Multiplayer Mode, this global health 
+pool is shared among all groups. 
+Epic Multiplayer Mode
+T o play Machinations Through Time in Epic Multiplayer Mode, first 
+divide the investigators into three separate groups— Past Group, 
+Present Group, and Future Group. At least one investigator must be 
+assigned to each group, and no more than four investigators may be 
+assigned to a single group. While it is possible to play with groups of 
+differently numbered players, split players between groups as evenly 
+as possible. Each group requires one copy of this product in order to 
+play. During gameplay, observe the following additional rules:
+  ´ Each group has its own play area, and plays the game separately 
+from the other groups. Rules, actions, and card effects cannot 
+affect investigators in other groups, unless explicitly stated 
+otherwise.
+  ´ Each group can proceed to the next round or agenda 
+independently of one another; there is no need to wait until all 
+groups have reached the same point before proceeding.
+  ´ Investigators may freely communicate between groups.
+Time Limit
+When playing in Epic Multiplayer Mode, the players (or your event 
+organizer) may impose a time restriction for the game. The default 
+time limit is 180 minutes. The players (or your event organizer) may 
+impose a different time restriction, often depending on the number 
+of players. When this time limit has passed, any groups that are still 
+playing must immediately advance to agenda 2b.
+===== page 3 =====
+3
+Machinations Through Time
+“The sciences, each straining in its own direction, have hitherto 
+harmed us little; but some day the piecing together of dissociated 
+knowledge will open up such terrifying vistas of reality, and of 
+our frightful position therein, that we shall either go mad from 
+the revelation or flee from the deadly light into the peace and 
+safety of a new dark age.” 
+– H.P . Lovecraft, The Call of Cthulhu
+The newspaper headline reads, “Local scientists win Nobel Prize!” Below 
+it, two elderly physicists are pictured standing proudly in front of a large 
+telescope. You glance at the newspaper’s date, your jaw agape. This issue 
+of the Arkham Advertiser is dated December 5, 1956. But how is this 
+possible?
+Surprised and curious, you eagerly read the entire newspaper and learn of 
+two remarkable scientists and their journey to winning a Nobel Prize in 
+physics.
+Born in 1877 in Arkham to Irish immigrants, Thomas Corrigan’s earliest 
+memory is when his crayons, left on an outdoor table, melted together 
+under the hot summer sun. From then on, his curiosity and thirst for 
+knowledge grew more rapidly than his height. His wonder at the world 
+around him, from fierce New England thunderstorms to the canvas of stars 
+in the night sky, fueled his passion for the sciences.
+Thomas’ desire to attend Miskatonic University is almost as old as his love 
+for learning, as its acclaimed College of Sciences and close proximity made 
+it a natural choice. After getting degrees in undergraduate physics and 
+graduate astrophysics at Miskatonic, he began working at the University’s 
+Warren Observatory researching astronomical objects and phenomena.
+Born in 1877 in Warsaw, Poland, Mary Zielinski is the youngest child 
+of two teachers. She has fond memories as a little girl helping her mother 
+with cooking and baking, using cups and teaspoons to measure a variety 
+of ingredients, then mixing those ingredients together to create something 
+entirely new. Thereafter, she began experimenting on her own, which 
+propelled her down the path of chemistry and physics. 
+Impressed with Mary’s credentials, Miskatonic University offered her a full 
+scholarship. Quiet and introverted, she spent much 
+of her time in the laboratories of the Science building doing various 
+experiments. Her hard work and dedication earned her an undergraduate 
+chemistry degree, and she stayed on at the University to achieve a graduate 
+degree in physics.
+Having common interests, Thomas and Mary eventually became 
+acquainted and a relationship followed. Their shared passion for the 
+sciences encouraged and motivated each other, and they collaborated on 
+several projects. 
+Years later, one of their most intriguing projects took off: the possibility 
+of a whole new paradigm based on general relativity, which connects 
+the curvature of spacetime to gravity. They began testing the theory that 
+spacetime could be warped, resulting in a discontinuity. Such a warping 
+could result in portals that lead to distant places across the universe, or 
+even to their own location in another era–in effect, time travel.  
+This type of groundbreaking work drew the attention of colleagues from 
+campus and beyond. One of these associates was the brilliant and eccentric 
+Edwin Bennet. A rapidly rising star in the field of quantum physics, Edwin 
+became a professor at his alma mater, Miskatonic University. Young and 
+unpublished, he was eager to prove his knowledge would be invaluable to 
+their project, but others on campus expressed substantial concerns, labeling 
+him as “reckless” and “unstable.”
+After hitting multiple barriers and looking for inspiration, Thomas and 
+Mary welcomed Edwin’s offer to collaborate, and the team was confident 
+they were on the verge of a breakthrough–but it never came. It’s unclear 
+what exactly transpired next, though some sort of disagreement or conflict 
+resulted in Edwin being replaced by 
+an even more eccentric scientist, Ezra Graves. Thomas and Mary 
+acknowledged and thanked Edwin for his role in their research.
+Ezra’s boundless creativity was integral to Thomas and Mary’s new 
+approach to their problems, and this fresh perspective allowed them to 
+overcome the barriers. While Ezra soon moved on to his own projects, his 
+contributions were invaluable and greatly appreciated.
+Over the years, Thomas and Mary’s research progressed with success after 
+success, culminating in the discovery of teleportation. They published their 
+remarkable findings on February 23, 1955, to much acclaim. And now—
+or rather, thirty years from now—they are being awarded with the Nobel 
+Prize in Physics.
+Though suspect, your intuition tells you this mysterious newspaper is real. 
+In awe of the future notoriety two local scientists will eventually receive, 
+you go to Miskatonic University to meet them. However, you’re informed 
+they are not affiliated with the University and, tragically, both of them 
+disappeared years ago.
+===== page 4 =====
+4
+Unbeknownst to the rest of the world, a momentous change has occurred. 
+Prominent scientists have vanished without a trace. Notable inventions 
+have become un-invented. A historic discovery has suddenly been 
+undiscovered. Humanity may never be the same.
+You believe you know the truth, even if it’s stranger than fiction. You’re 
+quite familiar with the notion of portals–you’ve been through them 
+yourself. For unknown reasons, Arkham, Massachusetts is rife with such 
+portals, but traveling through them is dangerous and not for the faint of 
+heart.
+Within these portals lies the realm of Tindalos, where countless suspended 
+paths, angular and curved, above and below, wind away in all directions. 
+Here and there, they intersect with ramps and spirals. Prowling along these 
+paths are malevolent minions: ghastly satyrs and Hounds of Tindalos, 
+among other monstrosities. The beasts are eager to savage their prey, or, 
+perhaps worse, abduct and imprison them in Tindalos.
+There has been a distortion in time, and its effects have rippled across the 
+ensuing years. These scientists are two such unfortunate souls, and you’ll 
+have to find them and repair the broken timeline. Just remember: traveling 
+through time may cause unintended consequences, some of which will have 
+severe repercussions.
+If you are playing in Single Group Mode, proceed to Setup for Single 
+Group Mode. 
+If you are playing in Epic Multiplayer Mode, proceed to Setup for 
+Epic Multiplayer Mode.
+Setup for Single Group Mode 
+  ´ Gather all cards from the Machinations Through Time and Single 
+Group Mode encounter sets. These sets are indicated by these 
+icons:
+  ´ Set the Corrigan Industries location aside, out of play. Put the 
+Tindalos location into play, using the side with the Single Group 
+Mode encounter set icon. Put the remaining fourteen locations 
+into play (see the location placements on pages 6, ignoring the 
+placement for Tindalos).
+  = Each investigator begins play at Tindalos.
+  ´ Put the A Noble Legacy (Past), A Noble Legacy (Present), and 
+A Noble Legacy (Future) story cards into play, one at a time, and 
+resolve the Setup text on each of them. (Hint–When playing, first 
+focus on completing A Noble Legacy (Past), then focus on A Noble 
+Legacy (Present), and, lastly, A Noble Legacy (Future).).
+  ´ Choose one of the three Machination story cards at random, 
+put it into play, and resolve its Setup text. Remove the other two 
+Machination story cards from the game..
+  ´ Choose one of the three Plot story cards at random, put it into 
+play, and resolve its Setup text. Remove the other two Plot story 
+cards from the game.
+  ´ Add 1 󲆃 doom to agenda 1a. Then, if you are not playing on 
+Standard difficulty, check the difficulty level:
+  =  If it is Easy difficulty, remove 1 doom from agenda 1a. 
+  = If it is Hard difficulty, add 1 doom to agenda 1a.
+  = If it is Expert difficulty, add 2 doom to agenda 1a.
+  ´ Shuffle the remaining 33 encounter cards to form the encounter 
+deck.
+  ´ Y ou are now ready to begin.
+Setup for Epic Multiplayer Mode
+  ´ Gather all cards from the Machinations Through Time and Epic 
+Multiplayer Mode encounter sets. These sets are indicated by 
+these icons:
+  ´ Depending on which group you are in (Past Group, Present 
+Group, or Future Group), follow the setup instructions for that 
+group, on pages 4–5.
+Setup for Past Group
+  ´ Put the Tindalos location into play, using the side with the 
+Epic Multiplayer Mode encounter set icon. Put the five Past 
+locations into play (see location placement on page 6). Remove the 
+remaining locations from the game.
+  = Each investigator begins play at Tindalos.
+  ´ Put the A Noble Legacy (Past) story card into play and resolve its 
+Setup text. Remove the other two A Noble Legacy story cards 
+from the game.
+  ´ Remove all Present and Future story assets from the game.
+===== page 5 =====
+5
+  ´ Choose one of the three Machination story cards at random, 
+announce its title, put it into play, and resolve its Setup text. 
+Remove the other two Machination story cards from the game.
+  ´ Choose one of the three Plot story cards at random, announce its 
+title, put it into play, and resolve its Setup text. Remove the other 
+two Plot story cards from the game.
+  ´ Add 1 󲆃 doom to agenda 1a. Then, if you are not playing on 
+Standard difficulty, check the difficulty level:
+  = If it is Easy difficulty, remove 1 doom from agenda 1a. 
+  = If it is Hard difficulty, add 1 doom to agenda 1a.
+  = If it is Expert difficulty, add 2 doom to agenda 1a.
+  ´ Shuffle the remaining 33 encounter cards to form the encounter 
+deck.
+  ´ Y ou are now ready to begin.
+Setup for Present Group
+  ´ Put the Tindalos location into play, using the side with the 
+Epic Multiplayer Mode encounter set icon. Put the five Present 
+locations into play (see location placement on page 6). Remove the 
+remaining locations from the game.
+  = Each investigator begins play at Tindalos.
+  ´ Put the A Noble Legacy (Present) story card into play and 
+resolve its Setup text. Remove the other two A Noble Legacy 
+story cards from the game.
+  ´ Remove all Past and Future story assets from the game.
+  ´ Put the announced Machination story card into play and resolve 
+its Setup text. Remove the other two Machination story cards 
+from the game. 
+  ´ Put the announced Plot story card into play and resolve its Setup 
+text. Remove the other two Machination story cards from the 
+game.
+  ´ Add 1 󲆃 doom to agenda 1a. Then, if you are not playing on 
+Standard difficulty, check the difficulty level:
+  = If it is Easy difficulty, remove 1 doom from agenda 1a. 
+  = If it is Hard difficulty, add 1 doom to agenda 1a.
+  = If it is Expert difficulty, add 2 doom to agenda 1a.
+  ´ Shuffle the remaining 33 encounter cards to form the encounter 
+deck.
+  ´ Y ou are now ready to begin.
+Setup for Future Group
+  ´ Put the Tindalos location into play, using the side the Epic 
+Multiplayer Mode encounter set icon. Set the Corrigan Industries 
+location aside, out of play. Put the four Future locations into 
+play (see location placement on page 6). Remove the remaining 
+locations from the game.
+  = Each investigator begins play at Tindalos.
+  ´ Put the A Noble Legacy (Future) story card into play and resolve 
+its Setup text. Remove the other two A Noble Legacy story cards 
+from the game.
+  ´ Remove all Past and Present story assets from the game.
+  ´ Put the announced Machination story card into play and resolve 
+its Setup text. Remove the other two Machination story cards 
+from the game. 
+  ´ Put the announced Plot story card into play and resolve its Setup 
+text. Remove the other two Machination story cards from the 
+game.
+  ´ Add 1 󲆃 doom to agenda 1a. Then, if you are not playing on 
+Standard difficulty, check the difficulty level:
+  = If it is Easy difficulty, remove 1 doom from agenda 1a. 
+  = If it is Hard difficulty, add 1 doom to agenda 1a.
+  = If it is Expert difficulty, add 2 doom to agenda 1a.
+  ´ Shuffle the remaining 33 encounter cards to form the encounter 
+deck.
+  ´ Y ou are now ready to begin.
+===== page 6 =====
+6
+Location Placement for the Past 
+DO NOT READ 
+until the end of the scenario
+If no resolution was reached (each investigator was 
+defeated): Countless Hounds burst through the portals and 
+angles of space, cornering you. Bewildered and terrified, you 
+stare down your demise...
+Each remaining investigator in all eras is defeated and 
+suffers 1 mental trauma.
+  ´ If the Edwin Bennet asset is in play in any era, proceed 
+to Resolution 2.
+  ´ If the Edwin Bennet enemy is in play in any era, 
+proceed to Resolution 3.
+  ´ Otherwise, proceed to Resolution 4.
+Resolution 1: The discoveries of Thomas Corrigan and 
+Mary Zielinski are highly influential to the advancement of 
+© 2021 FFGIllus. Pixoloid Studios Ltd
+Arkham. Portal. Past.
+LO CA TION
+handsheet publicizing local notices and businesses. 
+e
+Revolutionary era, when the newspaper was a single 
+ goes all the way back to the 
+beyond Arkham.
+Industrialization led to the Gaz ’s
+Arkham Gazette
+© 2021 FFG 5b1/2Illus. Hai Hoang
+LO CA TION
+vic
+T
+e ve
+ind
+rsa. 
+alos is conne
+Pas
+ct
+t
+e
+. P
+d t
+res
+o e
+en
+a
+t
+ch 
+. F
+P
+ut
+or
+ur
+ta
+e.
+l location, and 
+: P
+of 1 clue on a T
+lace 1 of y
+ind
+our clue
+alos locat
+s on T
+ion in a
+ind
+ny er
+alos, or t
+a.
+ake control 
+Tindalos
+an a
+: Te
+bduct
+st 
+ed Sc
+ (3) or 
+ientist as
+ (3). I
+set a
+f you s
+nd put it in
+ucceed
+t
+, r
+o p
+e
+l
+s
+a
+c
+y a
+ue 
+t 
+0055
+© 2021 FFGIllus. Pixoloid Studios Ltd
+LO CA TION
+Exq
+ado
+u
+r
+isit
+n t
+e
+h
+l
+e w
+y cr
+alls of O
+d tim
+’M
+epie
+alle
+ce
+y’
+s of a
+s Wa
+ll s
+tc
+ha
+h Sh
+pe
+op
+s, si
+. Ea
+ze
+c
+s, a
+h c
+n
+lo
+d s
+c
+ty
+k is 
+les 
+O ’Malley ’s Watch Shop
+Arkham. Portal. Past.
+ringing of various bells and chimes every few minutes.
+© 2021 FFGIllus. Pixoloid Studios Ltd
+LOCA TION
+t
+W
+h
+h
+e b
+ir
+a
+li
+n
+n
+k
+g w
+s of t
+it
+h
+h ac
+e M
+tiv
+is
+it
+ka
+y a
+ton
+t a
+ic a
+ll h
+r
+o
+e t
+ur
+h
+s, t
+e h
+h
+ea
+e R
+r
+iv
+t of t
+er D
+h
+o
+e M
+ck
+er
+s a
+ch
+lo
+a
+n
+n
+g 
+t 
+Ri ver Docks
+Arkham. Portal. Past.
+Eastern Seaboard pass through the harbor every day.
+© 2021 FFGIllus. Pixoloid Studios Ltd
+LO CA TION
+F
+o
+o
+n
+unde
+e of N
+d i
+ew E
+n 1690, t
+nglan
+h
+d’
+e pr
+s m
+e
+o
+s
+s
+tig
+t n
+io
+ota
+us M
+ble i
+is
+n
+k
+s
+a
+t
+t
+it
+o
+u
+n
+tio
+ic U
+n
+ni
+s of h
+ver
+ig
+sit
+her 
+y is 
+le ct 
+Misk atonic Uni versit y
+Arkham. Portal. Past.
+© 2021 FFGIllus. Pixoloid Studios Ltd
+LO CA TION
+r
+h
+Bor
+is f
+n a
+ath
+n
+er
+d raise
+om
+d in a s
+as Co
+m
+rr
+a
+ig
+ll y
+an a
+et co
+n
+z
+d h
+y h
+is lo
+o
+v
+use bu
+e fo
+ilt i
+r science g
+n 1858 b
+rew 
+y 
+Childhood  Home
+Arkham. Past.
+apidly as the ever-changing seasons of New England passed.
+Location Placement for the Present
+Location Placement for the Future
+© 2021 FFGIllus. Pixoloid Studios Ltd
+LO CA TION
+A
+Sit
+dv
+ua
+er
+t
+t
+e
+is
+d n
+er
+o
+’s
+rt
+hea
+h of t
+dq
+h
+ua
+e M
+rter
+iska
+s is h
+ton
+om
+ic R
+e t
+iver
+o a cr
+, th
+a
+e 
+c
+A
+k t
+rk
+ea
+ha
+m of 
+m 
+i
+uncovering the truth. Readers consider the newspaper a 
+Arkham Advertiser
+Arkham. Portal. Present.
+© 2021 FFG 5b1/2Illus. Hai Hoang
+LO CA TION
+vic
+T
+e ve
+ind
+rsa. 
+alos is conne
+Pas
+ct
+t
+e
+. P
+d t
+res
+o e
+en
+a
+t
+ch 
+. F
+P
+ut
+or
+ur
+ta
+e.
+l location, and 
+: P
+of 1 clue on a T
+lace 1 of y
+ind
+our clue
+alos locat
+s on T
+ion in a
+ind
+ny er
+alos, or t
+a.
+ake control 
+Tindalos
+an a
+: Te
+bduct
+st 
+ed Sc
+ (3) or 
+ientist as
+ (3). I
+set a
+f you s
+nd put it in
+ucceed
+t
+, r
+o p
+e
+l
+s
+a
+c
+y a
+ue 
+t 
+0055
+© 2021 FFGIllus. Pixoloid Studios Ltd
+LO CA TION
+T
+T
+u
+ic
+ck
+k-
+e
+To
+d a
+c
+w
+k C
+a
+l
+y i
+u
+n th
+b is a p
+e ba
+o
+c
+pu
+k a
+la
+lle
+r sp
+y n
+e
+e
+ak
+xt t
+e
+o a
+asy w
+n o
+h
+l
+er
+d w
+e j
+a
+az
+tc
+z
+h s
+, la
+h
+u
+o
+g
+p
+h
+, t
+t
+h
+er, 
+e 
+Tick-Tock Club
+Arkham. Portal. Present.
+© 2021 FFGIllus. Pixoloid Studios Ltd
+LO CA TION
+t
+W
+h
+h
+e b
+ir
+a
+li
+n
+n
+k
+g w
+s of t
+it
+h
+h ac
+e M
+tiv
+is
+it
+ka
+y a
+ton
+t a
+ic a
+ll h
+r
+o
+e t
+ur
+h
+s, t
+e h
+h
+ea
+e R
+r
+iv
+t of t
+er D
+h
+o
+e M
+ck
+er
+s a
+ch
+lo
+a
+n
+n
+g 
+t 
+country pass through the harbor every day, creating ideal 
+contraband unnoticed.
+circumstances for bootleggers and smugglers to move 
+Ri ver Docks
+Arkham. Portal. Present.
+© 2021 FFGIllus. Pixoloid Studios Ltd
+LO CA TION
+m
+a
+ul
+mong these has been the construction of the state-of-th
+a
+e-
+ble t
+A
+itu
+n incr
+de of pr
+ease i
+ojec
+n do
+ts a
+na
+t M
+tio
+is
+n
+ka
+s h
+ton
+as le
+ic U
+d t
+ni
+o t
+v
+h
+er
+e f
+sit
+u
+y
+nd
+. M
+in
+ost n
+g of a 
+ot
+on campus.
+Misk atonic Uni versit y
+Arkham. Portal. Present.
+art Warren Observatory, perched high atop the eastern hill 
+© 2021 FFGIllus. Nele Diel
+LO CA TION
+s Be
+J
+e
+us
+ch
+t so
+er’
+u
+s n
+t
+ov
+h of M
+elty s
+isk
+h
+a
+o
+tonic U
+lle
+ni
+d w
+ver
+it
+is
+h v
+ty i
+ario
+n Up
+us a
+to
+r
+w
+ca
+n
+n
+, M
+e o
+i
+d
+ri
+d
+a
+it
+m 
+ie
+her store.
+Ye Olde  Magick Shopp e
+Arkham. Present.
+of work, Miriam ponders retirement and perhaps the sale of 
+© 2021 FFGIllus. Pixoloid Studios Ltd
+LO CA TION
+A
+si
+s t
+ze o
+h
+v
+e bu
+er t
+il
+h
+di
+e y
+ng
+ea
+s a
+r
+n
+s, a
+d fa
+ll bu
+ctor
+t o
+ie
+ne is r
+s of A
+e
+r
+l
+k
+at
+h
+i
+a
+ve
+m
+l
+’
+y si
+s No
+len
+rt
+t b
+hsi
+y n
+de g
+igh
+r
+t
+o
+fa
+w i
+ll: 
+n 
+the Arkham Advertiser
+the constant bustling of reporters, editors, and operators as 
+Arkham Advertiser
+Arkham. Portal. Future.
+© 2021 FFG 5b1/2Illus. Hai Hoang
+LO CA TION
+vic
+T
+e ve
+ind
+rsa. 
+alos is c  location, and onne
+Pas
+ct
+t
+e
+. P
+d t
+res
+o e
+en
+a
+t
+ch 
+. F
+P
+ut
+or
+ur
+ta
+e.
+l
+: P
+of 1 clue on a T
+lace 1 of y
+ind
+our clue
+alos locat
+s on T
+ion in a
+ind
+ny er
+alos, or t
+a.
+ake control 
+Tindalos
+an a
+: Te
+bduct
+st 
+ed Sc
+ (3) or 
+ientist as
+ (3). I
+set a
+f you s
+nd put it in
+ucceed
+t
+, r
+o p
+e
+l
+s
+a
+c
+y a
+ue 
+t 
+0055
+© 2021 FFGIllus. Pixoloid Studios Ltd
+LO CA TION
+Tick-Tock Club
+Arkham. Portal. Future.
+Lo
+po
+ca
+pu
+te
+la
+d i
+r n
+n t
+ig
+h
+htc
+e M
+lu
+er
+b w
+ch
+h
+an
+ere j
+t Dis
+az
+tr
+z
+ic
+, ro
+t, t
+c
+h
+k-n
+e T
+-ro
+ic
+ll
+k-
+, l
+T
+a
+o
+u
+c
+gh
+k C
+t
+l
+er
+u
+, an
+b is a 
+d 
+© 2021 FFGIllus. Pixoloid Studios Ltd
+LO CA TION
+t
+W
+h
+h
+e b
+ir
+a
+li
+n
+n
+k
+g w
+s of t
+it
+h
+h ac
+e M
+tiv
+is
+it
+ka
+y a
+ton
+t a
+ic a
+ll h
+r
+o
+e t
+ur
+h
+s, t
+e h
+h
+ea
+e R
+r
+iv
+t of t
+er D
+h
+o
+e M
+ck
+er
+s a
+ch
+lo
+a
+n
+n
+g 
+t 
+River Docks
+world pass through the harbor every day.
+Arkham. Portal. Future.
+© 2021 FFGIllus. Pixoloid Studios Ltd
+LO CA TION
+s
+enrollment. But by twilight, eerie shadows blanket the quiet 
+I
+pr
+n t
+a
+i
+w
+m
+lin
+e, co
+g ca
+nt
+m
+inue
+pus a
+d do
+t M
+na
+is
+t
+k
+io
+at
+n
+o
+s a
+n
+n
+ic U
+d co
+ni
+n
+v
+s
+er
+tr
+sit
+uc
+y
+tio
+, wit
+n h
+h r
+av
+eco
+e le
+rd
+d t
+-hig
+o a 
+h
+campus, and rumors mount of late-night taboo experiments 
+within the laboratories. 
+Miskatonic University
+Arkham. Portal. Future.
+===== page 7 =====
+7
+the Sciences. With their help, you’re able to seal all portals 
+leading to Tindalos from Arkham, and Edwin Bennet and his 
+machinations are no longer a threat to the world. You purchase 
+a copy of the newspaper depicting the two scientists, and 
+realization strikes you: there is still one thing left to do. You fire 
+up the machine and place the newspaper on the platform. You 
+have to close the loop, or all of this will have been in vain...
+  ´ For each of the following assets that are in play (Nikola 
+T esla, Ezra Graves, and Dimensional Beam Machine), 
+any one investigator may choose to add that asset to 
+their deck. It does not count toward that investigator’s 
+deck size.
+  ´ Each investigator earns experience equal to the Victory 
+X value of each card in the victory display.
+Resolution 2: Against all odds, you manage to escape 
+the clutches of the beasts, but with them pursuing you, it is 
+impossible for you to repair the broken timeline. Hope is not 
+forsaken. Although leery, you place your trust in Edwin Bennet 
+to repair all that was broken. He has the ability, but does he 
+have the integrity?
+  ´ For each of the following assets that are in play (Nikola 
+T esla, Ezra Graves, and Dimensional Beam Machine), 
+any one investigator may choose to add that asset to 
+their deck. It does not count toward that investigator’s 
+deck size.
+  ´ Each investigator earns experience equal to the Victory 
+X value of each card in the victory display.
+Resolution 3: Paralyzed with fear and nauseated by the 
+stench of the baying beasts, you faint. When you next open 
+your eyes, you find yourself in a sickly gloom under a green 
+moon, buried to your neck in fetid soil as permanent residents 
+of Tindalos. Humanity has suffered a profound loss. Thomas 
+Corrigan and Mary Zielinski are also imprisoned on Tindalos, 
+and their lifelong works disappear along with them. Worse 
+still, the conniving Edwin Bennet and his machinations ripple 
+through time, unimpeded. You’re repulsed by the thought of 
+what the psychopath is scheming next.
+  ´ Each surviving investigator is driven insane.
+Resolution 4: gainst all odds, you manage to escape the 
+clutches of the beasts, but with them pursuing you, it is 
+impossible for you to repair the broken timeline. Humanity has 
+suffered a profound loss. Thomas Corrigan and Mary Zielinski 
+are imprisoned on Tindalos, and their lifelong works disappear 
+along with them. The only saving grace is Edwin Bennet is 
+nowhere to be found. His machinations have ceased and the 
+world is for the better. But deep down, one thought lingers: the 
+possibility of his return..
+  ´ For each of the following assets that are in play (Nikola 
+T esla, Ezra Graves, and Dimensional Beam Machine), 
+any one investigator may choose to add that asset to 
+their deck. It does not count toward that investigator’s 
+deck size.
+  ´ Each investigator earns experience equal to the Victory 
+X value of each card in the victory display. 
+Optional Variants
+For a more challenging and thematic experience, try playing with any 
+number of the following variants:
+  ´ When a Past version of the Thomas Corrigan or Mary Zielinski 
+asset is abducted, announce that their Present version (in the 
+present era) is also abducted. When a Present version of the 
+Thomas Corrigan or Mary Zielinski asset is abducted, announce 
+that their Future version (in the future era) is also abducted.
+  ´ During setup, instead of choosing one Plot story card, choose 
+two Plot story cards at random, put them into play, one at a time, 
+and resolve the Setup text on each of them (instead of removing 
+enemies from the game, set them aside). Remove the other Plot 
+story card from the game. For an extra challenging experience, 
+put all three Plot story cards into play!
+Single Group Mode
+  ´ When two or more Scientist assets with the same title are in play 
+at Tindalos, they all faint from seeing one another. Deal 5 horror 
+to each of those assets.
+===== page 8 =====
+8
+© 2021 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, the FFG logo, Living Card Game, LCG, and the LCG logo are ® Fantasy Flight Games. Fantasy Flight 
+Games is located at 1995 West County Road B2, Roseville, Minnesota, 55113, USA, 651-639-1905. Actual components may vary from those shown. THIS PRODUCT IS 
+NOT A TOY. NOT INTENDED FOR USE BY PERSONS 13 YEARS OF AGE OR YOUNGER.
+FANTASY
+FLIGHT
+GAMES
+Credits
+Expansion Design and Development: Jeremy Zwirn with  
+MJ Newman
+Producer: Molly Glover
+Editing: B.D. Flory
+Card Game Manager: Jim Cartwright
+Arkham Horror Story Review: Kara Centell-Dunk and  
+Philip D. Henry
+Creative Director of Story and Setting: Katrina Ostrander
+Expansion Graphic Design: Neal W . Rasmussen
+Graphic Design Coordinator: Joseph D. Olson
+Graphic Design Manager: Christopher Hosch
+Art Direction: Jeff Lee Johnson
+Managing Art Director: Tony Bradt
+QA Coordination: Zach Tewalthomas
+Production Management: Justin Anger and Tim Najmolhoda
+Visual Creative Director: Brian Schomburg
+Senior Project Manager: John Franz-Wichlacz
+Senior Manager of Product Development: Chris Gerber
+Executive Game Designer: Nate French
+Head of Studio: Chris Gerber
+Playtesters
+Kayli Ammen, Dalia Berkowitz, Julius Besser, Dane Bicott, Shannon 
+Bicott, Cady Bielicki, Joe Bielicki, Jeremy Fredin, Matt Froese, Josiah 
+“Duke” Harrist, Nate Langreder, Cayce Lent, Brian Lewis, Jamie 
+Lewis, Kenny Ling, Josh McCluey, Chad Reverman, Devin Stinchcomb, 
+Aaron “The Arborist” Strunk, and Mike “Father Time” Strunk.
+Additional Layout: Clayton Grey
+Announcements
+The following is a list of announcements that can be made as the 
+investigators play the Machinations Through Time scenario. As the 
+investigators complete each of these announcements, check the box 
+next to them.
+☐ “Thomas and Mary have met. ”
+☐ “Thomas and Mary have been inspired by Nikola T esla. ”
+☐ “Funding for an observatory has begun. ”
+☐  “The observatory is built. ”
+☐ “T eleportation research has begun. ”
+☐ “Corrigan Industries has been founded. ”
+☐ “Thomas and Mary have made a historic discovery. ”
+☐ “Thomas and Mary have won a Nobel Prize. ”
+☐ “ A tree seed has been planted. ”
+☐ “Thomas and Mary have married. ”
+☐ “The debt has been paid. ”

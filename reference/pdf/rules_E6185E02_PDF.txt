@@ -1,0 +1,185 @@
+
+===== page 1 =====
+CHALLENGE SCENARIO
+READ OR DIE
+Read or Die  is a special challenge scenario for Arkham Horror: The Card 
+Game designed to be played with Daisy Walker. This scenario can be played 
+as either a standalone scenario or as a side-story inserted into any campaign. In 
+order to play this scenario, a copy of the Arkham Horror: The Card Game 
+Core Set and The Dunwich Legacy  Deluxe Expansion  are required.
+Parallel Investigators
+Parallel investigators are alternate, print-and-play versions of investigators 
+from existing Arkham Horror: The Card Game products. These investigators, 
+along with their advanced signature cards, are fully playable in any scenario 
+or campaign.
+ Æ When building a Daisy Walker deck, you may choose whether to use 
+the original version or the parallel version of both her front side and 
+her back side. Each version has its own advantages and disadvantages. 
+You can also mix and match the two versions. This means that you can 
+use both original sides, both parallel sides, the original front side and 
+parallel back side, or the parallel front side and original back side.
+ Æ Regardless of which version of Daisy you use, you may also optionally 
+upgrade Daisy’s signature cards to her new advanced signature cards 
+(replacing the original versions). These versions are indicated by the 
+Advanced keyword on Daisy’s Tote Bag and the “Advanced Weakness” 
+subtitle bar on The Necronomicon. These are included only as a set—if 
+you choose to upgrade Daisy’s Tote Bag, you must also upgrade The 
+Necronomicon. Doing so costs no experience, and may be done at any 
+point during a campaign. However, once this upgrade is made, it cannot 
+be undone unless you are instructed otherwise.
+Challenge Scenarios
+Challenge scenarios are special print-and-play scenarios that utilize existing 
+products in the Arkham Horror: The Card Game  collection, along with 
+additional print-and-play cards, to create new content. These scenarios are 
+designed with certain prerequisites in mind, in order to craft a challenging 
+puzzle-like experience.
+The Read or Die  challenge scenario centers around the investigator Daisy 
+Walker, and therefore has the following prerequisites:
+ Æ Daisy Walker must be chosen as one of the investigators when playing 
+this scenario.
+ Æ Daisy Walker’s deck must include at least 4 Tome assets. Tome 
+weaknesses do not count toward this total.
+Standalone Mode
+When played as a standalone scenario, follow the steps for Standalone Mode 
+in the Rules Reference. Refer to the section below for additional setup 
+instructions. When played as a standalone scenario, Read or Die  has four 
+difficulty modes. Construct the chaos bag with the following tokens:
+ Æ Easy: +1, +1, 0, 0, 0, –1, –1, –1, –2, –2, , , , , , , .
+ Æ Standard:  +1, 0, 0, –1, –1, –1, –2, –2, –3, –4, , , , , , , .
+ Æ Hard: 0, 0, –1, –1, –2, –2, –3, –4, –5, –6, , , , , , , .
+ Æ Expert:  0, –1, –2, –3, –4, –5 –6, –7, –8, , , , , , , .
+Challenge Scenario: Read or Die
+You’ve spent your entire life reading. As a child, it was but a simple interest 
+in harmless stories. Grisly stories, to be sure, but harmless nonetheless. Your 
+fascination with horror and the macabre earned you the nickname “Spooks” 
+among your friends and classmates. But as you grew, so too did this fascination, 
+until it bordered on obsession. Your appetite for horror evolved from mystery and 
+make-believe to something more. Something real .
+When you discovered John Dee’s translation of The Necronomicon, you knew 
+you’d finally found the true horror you had been secretly yearning for. If only 
+you’d known what would be in store for you once you’d read that dreadful tome. 
+You would have locked it back up in Henry Armitage’s restricted collection in the 
+Orne Library and never opened it again.
+Or so you like to think. But even you cannot doubt the allure of the Kitab al-Azif . 
+The Book of the Dead. That is why, when Dr. Armitage summoned you to the 
+Orne Library, the dread in your bones predicted precisely what had occurred.
+“I don’t understand how this could have happened,” Dr. Armitage says as he 
+surveys the destruction. The entire restricted collection is in tattered disarray. 
+The Necronomicon lies open on a nearby table, its metal clasps broken apart. 
+You run your fingers along its leathery, skin-like pages. Your eyes flit along the 
+words in a familiar dance:
+“They walk unseen and foul in lonely places where the Words have been 
+spoken and the Rites howled through at their Seasons. The wind gibbers 
+with Their voices, and the earth mutters with Their consciousness.”
+Your throat tightens as you realize what must have occurred. Something has been 
+unleashed, and you are the only one who can figure out how to stop it…
+Proceed to Setup.
+Side-story (Campaign Mode)
+A side-story is a scenario that may be played between any two scenarios of 
+an Arkham Horror: The Card Game campaign. Playing a side-story costs each 
+investigator in the campaign a certain amount of experience. Weaknesses, 
+trauma, experience, and rewards granted by playing a side-story stay with the 
+investigators for the remainder of the campaign. Each side-story may only be 
+played once per campaign.
+When this scenario is played as a side-story during a campaign, play it as if 
+you are setting up the next scenario in the campaign, with the same chaos bag, 
+weaknesses, trauma, and story assets previously earned.
+Investigators can only play Read or Die as a side-story if Daisy Walker is 
+in the campaign. Playing the Read or Die side-story costs Daisy Walker 
+3 experience, and each other investigator only 1 experience.
+Expansion Symbol
+The cards in the “parallel investigator” series can be identified by this symbol 
+before each card’s collector number.
+===== page 2 =====
+DO NOT READ  
+until the end of the scenario
+If no resolution was reached because each investigator was 
+defeated: Proceed to Resolution 2 .
+Resolution 1:  When you wake, the floor of the library is a mess of 
+scattered paper and torn books. The Necronomicon lies in front of you, 
+its metal clasp sealing it shut once more. Hopefully, whatever presence 
+had been unleashed is safely stored within. But you can’t risk the 
+grimoire staying here—it is far too dangerous to be left alone. You stuff 
+the tome into your tote bag, knowing only you can keep it safe...or keep 
+others safe from it.
+ Æ Daisy Walker earns experience equal to either the combined 
+Victory X value of each card in the victory display, or equal 
+to the number of Tome assets she had in play at the end of the 
+game, whichever is higher.
+ Æ Each other investigator only earns experience equal to the 
+combined Victory X value of each card in the victory display.
+ Æ Daisy Walker may either upgrade Daisy’s Tote Bag to its 
+advanced version, or downgrade the advanced version of The 
+Necronomicon (John Dee Translation)  to its original version.
+Resolution 2:  You stuff the tome back into your tote bag. You can only 
+hope that the entity that was unleashed won’t cause further harm...
+ Æ Daisy Walker earns experience equal to either the combined 
+Victory X value of each card in the victory display, or equal 
+to the number of Tome assets she had in play at the end of the 
+game, whichever is higher.
+ Æ Each other investigator only earns experience equal to the 
+combined Victory X value of each card in the victory display.
+ Æ Daisy Walker must either upgrade The Necronomicon (John 
+Dee Translation) to its advanced version, or downgrade the 
+advanced version of Daisy’s Tote Bag to its original version.
+Investigator Setup
+ Æ Remove each non-weakness Tome asset from Daisy Walker’s deck. Set 
+each of these assets aside, out of play.
+Scenario Setup
+ Æ Gather all cards from the following encounter sets: Read or Die, 
+Extracurricular Activity , Sorcery, The Beyond, Bishop’s Thralls, 
+Whippoorwills , Ancient Evils, Locked Doors, Agents of Yog-Sothoth, and 
+Armitage’s Fate. Each of these sets except for Read or Die can be found in 
+The Dunwich Legacy Deluxe Expansion . These sets are indicated by the 
+following icons: 
+ 
+ 
+ 
+ 
+ Æ Remove the original scenario reference card from the Extracurricular 
+Activity encounter set from the game. Use the new scenario reference card 
+provided in the downloadable Read or Die encounter set.
+ Æ Remove the original act and agenda deck from the Extracurricular Activity 
+encounter set from the game. Build the act and agenda decks using only 
+the new act and agenda cards provided in the downloadable Read or Die 
+encounter set.
+ Æ Remove the Faculty Offices (The Hour is Late) location, the Alchemy Labs 
+location, the Alchemical Concoction story asset, The Experiment enemy, 
+and the Professor Warren Rice story asset from the game. These cards are 
+not used in this challenge scenario.
+ Æ Put each of the remaining locations into play: Miskatonic Quad, Orne 
+Library, Humanities Building, Student Union, Science Building, 
+Administration Building, Dormitories, and Faculty Offices (The Night is 
+Still Young).
+ = Daisy Walker begins play at the Orne Library.
+ = Each other investigator begins play at the Miskatonic Quad.
+ = Since Dormitories and Faculty Offices start the game in play 
+and Alchemy Labs is removed from the game, ignore any Forced 
+abilities that would put these locations into play.
+ Æ Shuffle each of the set-aside Tome assets previously removed from Daisy 
+Walker’s deck and place 1 of them facedown beneath each location 
+except for the Miskatonic Quad, starting with the locations farthest from 
+the Orne Library. Place each remaining set-aside Tome asset facedown 
+beneath the Orne Library.
+ = For example, if Daisy Walker previously set 12 Tome assets aside, 
+1 would be placed facedown beneath each location except for Miskatonic 
+Quad, and the remaining 6 would be placed beneath Orne Library.
+ Æ Put the “Jazz” Mulligan story asset into play at the Science Building.
+ Æ Place the Namer of the Dead enemy (provided in the downloadable 
+Read or Die encounter set) into play at the Orne Library, unengaged 
+and exhausted.
+ Æ Daisy Walker takes control of the Dr. Henry Armitage story asset. (If 
+Dr. Henry Armitage is already part of an investigator’s deck, search that 
+investigator’s deck for Dr. Henry Armitage and put him into play under 
+Daisy Walker’s control.)
+ Æ Shuffle the remainder of the encounter  
+cards to build the encounter deck.
+ Æ You are now ready to begin.
+© 2020 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, the FFG logo, Living Card Game, LCG, 
+and the LCG logo are ® Fantasy Flight Games. Fantasy Flight Games is located at 1995 West County Road B2, 
+Roseville, Minnesota, 55113, USA, 651-639-1905. Actual components may vary from those shown.
+Permission granted to photocopy for personal use only.  
+Also available for download at www.fantasyflightgames.com
+FANTASY
+FLIGHT
+GAMES

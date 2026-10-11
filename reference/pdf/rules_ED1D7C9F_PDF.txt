@@ -1,0 +1,209 @@
+
+===== page 1 =====
+CHALLENGE SCENARIO
+LAID TO REST
+Laid to Rest is a special challenge scenario for Arkham Horror: The Card Game 
+designed to be played with Jim Culver. This scenario can be played as either a 
+standalone scenario or as a side-story inserted into any campaign. In order to 
+play this scenario, a copy of the Arkham Horror: The Card Game core set 
+and The Circle Undone Campaign Expansion  are required.
+Parallel Investigators
+Parallel investigators are alternate, print-and-play versions of investigators 
+from existing Arkham Horror: The Card Game products. These investigators, 
+along with their advanced signature cards, are fully playable in any scenario or 
+campaign.
+ Æ When building a Jim Culver deck, you may choose whether to use the 
+original version or the parallel version of both his front side and back side. 
+Each version has its own advantages and disadvantages. You can also mix 
+and match the two versions (This means you can use both original sides, both 
+parallel sides, or any combination of either original and parallel sides).
+ Æ Regardless of which version of Jim you use, you may also optionally 
+upgrade Jim’s signature cards to his new advanced signature cards 
+(replacing the original versions). These versions are indicated by the 
+advanced keyword. These are included only as a set—if you choose to 
+upgrade Jim’s Trumpet you must also upgrade Final Rhapsody. Doing 
+so costs no experience, and may be done at any point between scenarios 
+during a campaign. However, once this upgrade is made, it cannot be 
+undone unless you are instructed otherwise.
+Challenge Scenarios
+Challenge scenarios are special print-and-play scenarios that utilize existing 
+products in the Arkham Horror: The Card Game collection, along with 
+additional print-and-play cards, to create new content. These scenarios are 
+designed with certain prerequisites in mind, in order to craft a challenging, 
+puzzle-like experience.
+The Laid to Rest challenge scenario centers around the investigator Jim Culver, 
+and therefore has the following prerequisites:
+ Æ Jim Culver must be chosen as one of the investigators when playing this 
+scenario.
+ Æ Regardless of which version of Jim Culver is being played, the Jim Culver 
+player must build a separate spirit deck according to the deckbuilding 
+requirements on the parallel Jim Culver investigator card back.
+Side-story (Campaign Mode)
+A side-story is a scenario that may be played between any two scenarios of 
+an Arkham Horror: The Card Game campaign. Playing a side-story costs each 
+investigator in the campaign a certain amount of experience. Weaknesses, trauma, 
+experience, and rewards granted by playing a side-story stay with the investigators 
+for the remainder of the campaign. Each side-story may only be played once per 
+campaign. When this scenario is played as a side-story during a campaign, play 
+it as if you are setting up the next scenario in the campaign, with the same chaos 
+bag, weaknesses, trauma, and story assets previously earned.
+Investigators can only play Laid to Rest as a side-story if Jim Culver is in the 
+campaign. Playing the Laid to Rest side-story costs Jim Culver 3 experience, 
+and each other investigator 1 experience.
+Standalone Mode
+When played as a standalone scenario, follow the steps for Standalone Mode in 
+the Rules Reference. Refer to the section below for additional setup instructions. 
+When played as a standalone scenario, Laid to Rest has four difficulty modes. 
+Construct the chaos bag with the following tokens:
+ Æ Easy: +1, +1, 0, 0, 0, –1, –1, –1, –2, –2, , , , , , , , .
+ Æ Standard: +1, 0, 0, –1, –1, –1, –2, –2, –3, –4, , , , , , , , .
+ Æ Hard: 0, 0, –1, –1, –2, –2, –3, –4, –5, –6, , , , , , , , .
+ Æ Expert: 0, –1, –2, –3, –4, –5 –6, –7, –8, , , , , , , , .
+Challenge Scenario: Laid to Rest
+The dead don’t rest. No matter where you go, you hear them talking, whispering, 
+weeping, screaming. Sometimes to each other, sometimes alone. They ramble 
+on about the people they loved, or their job, or the money they hid under the 
+floorboards before they died. Usually it’s about food or drink. The dead are always 
+hungry. Sometimes when they realize you can hear them, they crowd ’round real 
+close and whisper in your ear. Last wishes and such. You try to help when you can, 
+but usually the folks they want you to take care of are dead, too. You make a lot of 
+empty promises, but at least it keeps them quiet.
+It wasn’t always this way. The dead started talking the day your father died in 
+his shotgun house in the French Quarter. You saw him standing over his own 
+body in the living room when you came home; he vanished before you could say a 
+word. From then on, whenever you played your father’s trumpet, you could hear 
+a cacophany of voices. Some of them were human. But there were others, too. 
+Piercing wails from inhuman lips. Gutteral cries. And a crowd of shimmering, 
+spectral faces peering out from the shadows.
+Jean helped you make sense of it all. He stopped to listen to you busking on a 
+Bourbon Street corner and noticed the long look you gave to the ghost lying at your 
+feet. He saw it too. Jean introduced himself as a medium and told you to meet him 
+at his shop in Broadmoor. He told you all about the dead, and the things beyond 
+the grave, and the price you’d pay if you kept company with ’em for too long.
+It was the dead who led you to Arkham. You eke out a living playing your father’s 
+trumpet. The dead get louder when you play. Sometimes they even compliment 
+your music. Last night, Jean found you busking outside the Clover Club, almost 
+like the first time you met. You could tell something was wrong: his face was 
+haggard, and he looked like he hadn’t slept for days. Jean tells you that your father 
+wants to see you, and that you need to go where the boundary between here and 
+thereafter is thin. You tell him you know just the place. Hangman’s Hill is rife with 
+spirits. Maybe if you do them a few favors, they’ll do you one in return.
+Proceed to Setup.
+Expansion Symbol
+The cards in the parallel investigator series can be identified by this symbol 
+before each card’s collector number:
+===== page 2 =====
+DO NOT READ  
+until the end of the scenario
+If no resolution was reached (each investigator resigned or was 
+defeated): Proceed to Resolution 2 .
+Resolution 1:  Phantasmagoric shapes form and recede in the mist 
+around you. As you take Jean’s hands, the medium falls into a dead 
+faint. In the dark, you glimpse your father’s face: his laugh lines, his 
+kind eyes, his smile. Your father is with you at last.
+The moment is broken by a sudden, gasping breath as Jean awakens. 
+Before you can react, your father’s face winks out of sight, leaving you 
+alone. Despite the knot in your stomach, you feel a sense of relief in 
+knowing that your father was here, however briefly, and that he saw 
+you. As you help Jean to his feet, you hear your father’s voice in your ear, 
+whispering encouragement over the riot of ghosts bickering in your ears. 
+You hope he never goes quiet.
+ Æ Jim Culver earns experience equal to the combined Victory X 
+value of each enemy in the victory display.
+ Æ Each other investigator earns experience equal to the combined 
+Victory X value of each location in the victory display.
+ Æ Jim Culver may either upgrade Jim’s Trumpet to its 
+advanced version, or downgrade the advanced version of Final 
+Rhapsody to its original version.
+Resolution 2:  Jean cusses as you stumble away from Hangman’s Hill, 
+head hung low. “Sorry, my friend,” he says. “The dead speak, but they 
+don’t always listen.” A mordant call from inhuman lips sweeps across 
+the expanse, underscoring the medium’s words.
+ Æ Jim Culver earns experience equal to the combined Victory X 
+value of each enemy in the victory display.
+ Æ Each other investigator earns experience equal to the combined 
+Victory X value of each location in the victory display.
+ Æ Jim Culver must either upgrade Final Rhapsody to its advanced 
+version, or downgrade the advanced version of Jim’s Trumpet 
+to its original version.
+Scenario Setup
+ Æ Regardless of which version of Jim Culver is being played in this scenario, 
+construct the spirit deck using the deckbuilding requirements on the 
+parallel version of Jim Culver’s investigator card. Put The Beyond signature 
+asset along with the spirit deck into play in Jim Culver’s play area.
+ Æ Gather all cards from the following encounter sets: Laid to Rest, The Wages 
+of Sin, Anette’s Coven, City of Sins, Inexorable Fate, Realm of Death, Trapped 
+Spirits, and Witchcraft. Each of these sets except for Laid to Rest can be found 
+in The Circle Undone Campaign Expansion.  These sets are indicated by the 
+following icons: 
+ 
+ 
+ Æ Remove the original scenario reference card, acts, agendas, and Spectral 
+Web story assets from The Wages of Sin encounter set from the game. 
+Use the new scenario reference card, acts, and agendas provided in the 
+downloadable Laid to Rest encounter set when setting up the game.
+ Æ Randomly choose one of the two The Gallows locations, one of the two 
+Heretics’ Graves locations, and one of the two Chapel Crypt locations and 
+put them into play, along with Chapel Attic (  176a) . Remove the other 
+versions of The Gallows, Heretics’ Graves, Chapel Crypt, and Chapel Attic   
+(  175a) from the game. Then, put Haunted Fields, Abandoned Chapel, 
+and Hangman’s Brook into play.
+ = Put each location into play on its non-Spectral side. Note: Flipping a 
+location over from one side to another during this scenario does not “reveal” 
+the new location. 
+ = Place clues on each location without clues until each location has at least 
+1  clues on it.
+ = Each investigator begins play in Hangman’s Brook. 
+ Æ Remove two of the Heretic enemies from the game at random. Shuffle each 
+remaining Heretic enemy into the spirit deck, enemy side faceup.
+ Æ Spawn the double-sided Jean Devereux enemy at Hangman’s Brook, 
+(Seeking Closure) side faceup.
+ Æ Place a Ravenous Spirit enemy facedown beneath the following locations: 
+The Gallows, Heretics’ Graves, Chapel Attic, and Chapel Crypt.
+ Æ This scenario utilizes two separate encounter decks.
+ = Separate each of the remaining cards with the Spectral trait and shuffle 
+them together to build the spectral encounter deck.
+ = Shuffle each of the remaining cards without the Spectral trait together to 
+build the standard encounter deck.
+ Æ You are now ready to begin.
+© 2023 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, the FFG logo, Living Card Game, LCG, 
+and the LCG logo are ® Fantasy Flight Games. Fantasy Flight Games is located at 1995 West County Road B2, 
+Roseville, Minnesota, 55113, USA, 651-639-1905. Actual components may vary from those shown.
+Permission granted to photocopy for personal use only.  
+Also available for download at www.FantasyFlightGames.com
+The Spectral Encounter Deck
+During the setup of this scenario, two encounter decks are constructed: 
+a “standard” encounter deck and a “spectral” encounter deck. Generally 
+speaking, whenever an investigator would interact with the encounter deck, that 
+investigator should use the standard encounter deck.
+However, during this scenario, locations may flip over to their Spectral side. 
+While an investigator is at a location with the Spectral trait, that investigator 
+should use the spectral encounter deck instead of the standard encounter deck 
+for all purposes, unless otherwise noted. This includes drawing cards from 
+the encounter deck, as well as searching, looking at, revealing, or otherwise 
+interacting with the encounter deck (or encounter discard pile) in any way. This 
+also includes abilities that trigger when the encounter deck runs out of cards. If 
+an effect specifically refers to the standard encounter deck or spectral encounter 
+deck, it interacts with the specified deck regardless of the investigator’s location.
+Each of the two encounter decks has its own discard pile. Whenever an 
+encounter card with the Spectral trait would be discarded, it is placed in the 
+discard pile for the spectral encounter deck. All other encounter cards are 
+discarded to the discard pile for the standard encounter deck.
+Haunted
+Haunted is an ability that appears on some locations. Each time an investigator 
+fails a skill test while investigating a location, after applying all results for 
+that skill test, that investigator must resolve all “ Haunted –” abilities on that 
+location. A location is “haunted” for the purposes of other card effects if it has at 
+least one “Haunted –” ability (printed or otherwise).
+The Beyond and The Spirit Deck
+The double-sided The Beyond signature asset included in this set allows Jim Culver 
+to attach Ally assets from the spirit deck to it, as spirits. The spirit deck is a separate 
+deck that is shuffled facedown next to The Beyond when the game begins. It is 
+immune to all player card effects except for the forced effect on The Beyond.
+Spirits are in play but only retain their names and text boxes. Spirits do not take 
+up any slots and do not have health or sanity values. When a unique spirit enters 
+play, discard any assets that share its name. If an attached spirit would be discarded, 
+it is placed on the bottom of the spirit deck, instead.
+FANTASY
+FLIGHT
+GAMES

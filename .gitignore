@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# 运行时数据（卡图缓存、会话存档）——不属于代码
+assets/
+
+# 参考数据：仅保留运行时需要的文件；
+# 下面这些是提取/抓取的中间产物，体积大且游戏不读取
+reference/tts_objects.json
+reference/carddb.json
+reference/cards_raw.json
+reference/arkhamdb_cards.json
+reference/arkhamdb_fetched.jsonl
+reference/zh_worklist.txt
+reference/pdf/*.pdf
+
+# 系统
+Thumbs.db
+.DS_Store

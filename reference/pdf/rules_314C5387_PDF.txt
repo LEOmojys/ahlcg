@@ -1,0 +1,184 @@
+
+===== page 1 =====
+CHALLENGE SCENARIO
+ALL OR NOTHING
+All or Nothing  is a special challenge scenario for Arkham Horror: The Card 
+Game designed to be played with “Skids” O’Toole. This scenario can be 
+played as either a standalone scenario or as a side-story inserted into any 
+campaign. In order to play this scenario, a copy of the Arkham Horror: 
+The Card Game Core Set and The Dunwich Legacy  Deluxe Expansion are 
+required.
+Parallel Investigators
+Parallel investigators are alternate, print-and-play versions of investigators 
+from existing Arkham Horror: The Card Game products. These investigators, 
+along with their advanced signature cards, are fully playable in any scenario 
+or campaign.
+ Æ When building a “Skids” O’Toole deck, you may choose whether to 
+use the original version or the parallel version of both his front side and 
+his back side. Each version has its own advantages and disadvantages. 
+You can also mix and match the two versions. This means that you can 
+use both original sides, both parallel sides, the original front side and 
+parallel back side, or the parallel front side and original back side.
+ Æ Regardless of which version of “Skids” you use, you may also optionally 
+upgrade his signature cards to his new advanced signature cards 
+(replacing the original versions). These versions are indicated by the 
+Advanced keyword. These are included only as a set—if you choose to 
+upgrade On the Lam, you must also upgrade Hospital Debts. Doing so 
+costs no experience, and may be done after playing any scenario during 
+a campaign. However, once this upgrade is made, it cannot be undone 
+unless you are instructed otherwise.
+Challenge Scenarios
+Challenge scenarios are special print-and-play scenarios that utilize existing 
+products in the Arkham Horror: The Card Game  collection, along with 
+additional print-and-play cards, to create new content. These scenarios are 
+designed with certain prerequisites in mind, in order to craft a challenging 
+puzzle-like experience.
+The All or Nothing  challenge scenario centers around the investigator 
+“Skids” O’Toole, and therefore has the following prerequisites:
+ Æ “Skids” O’Toole must be chosen as one of the investigators when playing 
+this scenario.
+Standalone Mode
+When played as a standalone scenario, follow the steps for Standalone Mode 
+in the Rules Reference. Refer to the section below for additional setup 
+instructions. When played as a standalone scenario, All or Nothing  has four 
+difficulty modes. Construct the chaos bag with the following tokens:
+ Æ Easy: +1, +1, 0, 0, 0, –1, –1, –1, –2, –2, , , , , , , .
+ Æ Standard:  +1, 0, 0, –1, –1, –1, –2, –2, –3, –4, , , , , , , .
+ Æ Hard: 0, 0, –1, –1, –2, –2, –3, –4, –5, –6, , , , , , , .
+ Æ Expert:  0, –1, –2, –3, –4, –5 –6, –7, –8, , , , , , , .
+Challenge Scenario: All or Nothing
+You’re willing to do whatever it takes to make things right. Your mother’s massive 
+hospital debts won’t pay themselves off, so you’ve come up with a plan: gambling. 
+The adrenaline rush of going all in and risking everything on the mercy of the 
+cards is also a nice perk. Lately it feels as though life has dealt you a bad hand, but 
+you’re often able to turn terrible hands into winning ones. Who needs skill when 
+Lady Luck is on your side?  
+Your game of choice is blackjack. Somehow the right cards tend to come up at the 
+right time, and you try to hide your elation when the dealer busts yet again. You 
+seem to go on a hot streak every night as stacks of chips grow ever taller in front 
+of you. Such hot streaks go a long way in paying your debts, but your luck often 
+draws the ire of both the dealer and fellow players alike. You know when to stop.
+Over the years, you’ve acquired a reputation for winning that some call “cheating.” 
+As a result, you’ve been forced to keep a low profile and gamble at a rotating list of 
+venues. There is one venue which you revel winning at over all others: the Clover 
+Club. Vast amounts of money are at stake every night at the speakeasy, but it’s 
+controlled by the O’Bannion gang. Intimidating. Unscrupulous. Ruthless. No one 
+wants to draw the attention of the gang, as your reputation surely does. 
+But the Clover Club has a bottom line that, above all else, must be maintained. 
+The brazen O’Bannions are not fond of being taken advantage of, and will use 
+any means necessary to prevent it. Here, the house always wins. 
+Surely that will change tonight. You pull your collar up and walk into La Bella 
+Luna. The restaurant is virtually empty. A faint sound of bombastic music is 
+coming from the back of the establishment. It’s clear where all the patrons are. All 
+you can think about is getting a drink and winning big…
+Proceed to Setup.
+Side-story (Campaign Mode)
+A side-story is a scenario that may be played between any two scenarios of 
+an Arkham Horror: The Card Game campaign. Playing a side-story costs each 
+investigator in the campaign a certain amount of experience. Weaknesses, 
+trauma, experience, and rewards granted by playing a side-story stay with the 
+investigators for the remainder of the campaign. Each side-story may only be 
+played once per campaign.
+When this scenario is played as a side-story during a campaign, play it as if 
+you are setting up the next scenario in the campaign, with the same chaos bag, 
+weaknesses, trauma, and story assets previously earned.
+Investigators can only play All or Nothing as a side-story if “Skids” O’T oole 
+is in the campaign. Playing the All or Nothing side-story costs “Skids” 
+O’T oole 3 experience, and each other investigator only 1 experience.
+Expansion Symbol
+The cards in the “parallel investigator” series can be identified by this symbol 
+before each card’s collector number.
+===== page 2 =====
+DO NOT READ  
+until the end of the scenario
+If no resolution was reached because each investigator was 
+defeated: Proceed to Resolution 2 .
+Resolution 1:  Heart pounding and exhilaration coursing through 
+your veins, you don’t know what gives you more of a rush: winning 
+money from the O’Bannions or escaping from them. This night is proof 
+of what you’ve always thought: “Skids” O’Toole always wins...
+ Æ Each investigator earns experience equal to the combined 
+Victory X value of each card in the victory display.
+ Æ If the number of resources on Act 2a is (choose one)... 
+ = 10 or more, “Skids” O’Toole begins the next scenario with 
+1 additional resource.
+ = 20 or more, “Skids” O’Toole begins the next scenario with 
+2 additional resources.
+ = 30 or more, “Skids” O’Toole begins the next scenario with 
+3 additional resources.
+ = 40 or more, “Skids” O’Toole earns 1 bonus experience and 
+begins the next scenario with 4 additional resources.
+ = 50 or more, “Skids” O’Toole earns 2 bonus experience and 
+begins the next scenario with 5 additional resources.
+ = 60 or more resources, “Skids” O’Toole earns 3 bonus 
+experience and begins the next scenario with 6 additional 
+resources.
+ Æ “Skids” O’Toole may either upgrade On the Lam to its 
+advanced version, or downgrade the advanced version of 
+Hospital Debts to its original version.
+Resolution 2:  You’ve failed to go unnoticed. Within minutes, you are 
+surrounded by the O’Bannion’s heartless enforcers and dragged into a 
+dark room. The brutes clench their fists and roll up their sleeves. You close 
+your eyes and brace for the hard lesson they’re about to teach you: Lady 
+Luck is no use at the Clover Club. 
+You end up in a heap of trash outside the back alley entrance of the 
+club. All things considered, it could have been worse. Bruised and 
+battered, you remove the Clover Club from your rotating list. Gambling 
+isn’t worth it if the stake is your life. You know firsthand that, at the 
+Clover Club, the house always wins...
+ Æ Each investigator earns experience equal to the combined 
+Victory X value of each card in the victory display.
+ Æ “Skids” O’Toole must either upgrade Hospital Debts to its 
+advanced version, or downgrade the advanced version of On 
+the Lam to its original version.
+Scenario Setup
+ Æ Gather all cards from the following encounter sets: All or Nothing, The 
+House Always Wins , Bad Luck , Naomi’s Crew, The Midnight Masks , and 
+Rats . Each of these sets except for All or Nothing can be found in the Core 
+Set and The Dunwich Legacy Deluxe Expansion. These sets are indicated 
+by the following icons: 
+ 
+ 
+ 
+When gathering The Midnight Masks encounter set, only gather the 5 
+treachery cards (2x False Lead and 3x Hunting Shadow). Do not gather 
+the locations, act, agenda, and scenario reference cards from that set.
+ Æ You may optionally decide to gather the cards included in the 
+Return to the House Always Wins encounter set, as well, if your 
+collection includes them. This set is indicated by the icon to the 
+right. If you do, perform the following additional steps:
+ = Remove the “Return to” setup card from the game.
+ = Remove the original version of the Clover Club Lounge from 
+the game and use the new version of the Clover Club Lounge instead.
+ = Set the Clover Club Stage aside, out of play.
+ = Include the new treachery cards with the remainder of the 
+encounter cards.
+ = Remember that “Skids” O’Toole has “cheated.”
+ Æ Remove the original scenario reference card from The House Always 
+Wins encounter set from the game. Use the new scenario reference card 
+provided in the downloadable All or Nothing encounter set.
+ Æ Remove the original act and agenda deck from The House Always Wins 
+encounter set from the game. Build the act and agenda decks using only 
+the new act and agenda cards provided in the downloadable All or Nothing 
+encounter set.
+ Æ Remove the Peter Clover asset and the Dr. Francis Morgan story asset 
+from the game. These cards are not used in this challenge scenario.
+ Æ Set the following cards aside, out of play: each copy of the Back Hall 
+Doorway location, each copy of the Clover Club Bouncer enemy, and 
+the Siobhan Riley enemy.
+ Æ Put each of the remaining locations into play: Darkened Hall, Clover 
+Club Lounge, Clover Club Bar, Clover Club Cardroom, and La 
+Bella Luna.
+ = Each investigator begins play in La Bella Luna.
+ Æ Put the Clover Club Pit Boss enemy into play in the Clover 
+Club Lounge.
+ Æ Shuffle the remainder of the encounter cards to build the encounter deck.
+ Æ You are now ready to begin.
+© 2020 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, the FFG logo, Living Card Game, LCG, 
+and the LCG logo are ® Fantasy Flight Games. Fantasy Flight Games is located at 1995 West County Road B2, 
+Roseville, Minnesota, 55113, USA, 651-639-1905. Actual components may vary from those shown.
+Permission granted to photocopy for personal use only.  
+Also available for download at www.fantasyflightgames.com
+FANTASY
+FLIGHT
+GAMES

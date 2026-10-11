@@ -1,0 +1,2291 @@
+
+===== page 1 =====
+Notes, Errata, and Frequently Asked Questions 
+V.2.2 February 2024—The Feast of Hemlock Vale Edition
+This document contains card clarifications, errata, rule clarifications, and frequently asked questions for Arkham Horror: The Card Game.  
+The most recent version of this document is considered a supplement to the Arkham Horror: The Card Game  Rules Reference. All changes 
+and additions to this document since the previous version are marked in red.
+New Content (v2 .2): Errata, Rules and Clarification (1.24, 1.28, 1.29, 2.25), Frequently Asked Questions, The List of Taboos, 
+Quick Reference
+===== page 2 =====
+2
+FREQUENTLY ASKED QUESTIONS
+Twisting, Warping, Changing
+The sciences, each straining in its own direction, have hitherto 
+harmed us little; but some day the piecing together of dissociated 
+knowledge will open up such terrifying vistas of reality, and of our 
+frightful position therein, that we shall either go mad from the 
+revelation or flee from the deadly light into the peace and safety of 
+a new dark age.
+ —H. P. Lovecraft, The Call of Cthulhu
+Notes and Errata
+This section contains notes and errata pertaining to specific cards or 
+sections of the rulebook. The document version number in which an entry 
+first appeared is listed with that entry in order to establish a history of when 
+each change was made.
+Errata overrides the originally printed information on the card it applies to. 
+Unless errata for a card appears below, the original English product printing 
+of that card and all of its information is considered accurate, and overrides 
+all other printings. This includes translated cards, promotional or organized 
+play cards, and printings which may appear in alternate products.
+Rulebook Errata
+(v1.0) Rules Reference page 7, column 1, “Costs”  
+The third bullet point should read: “When a player is exhausting, 
+sacrificing, or otherwise using cards to pay costs, only cards that are in play 
+and under that player’s control  may be used…”
+(v1.0) Rules Reference page 10, column 1, “Elimination”  
+Add the following, as step 0 (i.e. before step 1): “0. For the purpose 
+of resolving weakness cards, the game has ended for the eliminated 
+investigator. Trigger any “when the game ends” abilities on each weakness 
+the eliminated investigator owns that is in play. Then, remove those 
+weaknesses from the game.”
+(v1.0) Rules Reference page 21, column 2, “Weakness”  
+The fifth bullet point should read: “If a weakness is added to a player’s deck, 
+hand, or threat area  during the play of a scenario, that weakness remains 
+a part of that investigator’s deck for the rest of the campaign. (Unless it is 
+removed from the campaign by a card ability or scenario resolution.)
+(v1.1) Rules Reference page 16, column 2, “Permanent”  
+The fourth bullet point should read: “A card with the permanent keyword 
+cannot leave play (except by elimination) .”
+(v2.0) Rules Reference page 16, column 2,”Permanent”  
+Add the following bullet point: “Once added to your deck, permanent cards 
+cannot be removed from your deck or swapped out of your deck unless 
+explicitly stated otherwise.”
+(v1.3) Rules Reference page 19, column 1, “Slots”  
+The last paragraph should read: “If playing or gaining control of an asset 
+would put an investigator above their slot limit for that type of asset, the 
+investigator must choose and discard other assets under their control 
+simultaneously with the new asset entering the slot.”
+(v2.0) Hidden rules (from The Path to Carcosa & The Dream-Eaters)  
+The third bullet point (or sixth sentence, depending on your printing) 
+should read: “A hidden card counts toward your hand size, but it cannot 
+leave your hand by any means except those described on the card.”
+Campaign Guide Errata
+(v1.1) Blood on the Altar, resolutions section ( ) 
+In the “If no resolution was reached” resolution, between the third and 
+fourth bullet points, add the following bullet point: “If Dr. Henry Armitage 
+is not listed under ‘Sacrificed to Yog-Sothoth’ in your Campaign Log, record 
+that Dr. Henry Armitage survived The Dunwich Legacy .”
+(v1.2) Echoes of the Past, resolutions section ( ) 
+The final bullet point in Resolution 2 should read: “Then, add 2  tokens to 
+the chaos bag.”
+(v2.0) The Last King, Resolutions 1–3 ( ) 
+The Unspeakable Oath, setup ( ) 
+The “Lunatic ” trait should read “ Possessed ” wherever it appears, instead.
+(v2.0) Interlude I: Lunacy’s Reward ( ) 
+The Last King, Resolutions 1–3 ( ) 
+The name of Interlude I should read “Skeptic’s Reward,” instead.
+(v1.2) The Unspeakable Oath, “Interlude II: Lost Soul” section ( ) 
+The first part of this interlude should read:  
+“If an investigator resigned with the asset version of Daniel Chesterfield 
+under their control, proceed to Daniel Survived . 
+If the enemy version of Daniel Chesterfield was in play when the scenario 
+ended, proceed to Daniel Was Possessed . 
+If neither of the above are true, proceed to Daniel Did Not Survive .”
+(v1.41) The Depths of Yoth, “Intro 8” section ( ) 
+After the game text in this intro, add the following text:  
+“In your Campaign Log, cross off the investigators found the missing relic  and 
+record the relic is missing .”
+(v1.5) The Boundary Beyond, “Silent Journey” intro sidebar ( ) 
+The effect of this sidebar should read:  
+“Each investigator begins this scenario with 2 fewer cards in their opening 
+hand.”
+(v1.5) Interlude V: The Darkness, “Growing Concern” sidebar ( ) 
+The effect of this sidebar should read:  
+“Depending on your difficulty mode, add the following chaos token to the 
+chaos bag for the remainder of the campaign: Easy: –3, Standard: –4, Hard: 
+–5, Expert: –7”
+(v1.5) The Witching Hour, Setup ( ) 
+The third bullet point should read: 
+“Put 5 Witch-Haunted Woods locations into play as follows:
+In player order, each investigator puts 1 random Witch-Haunted Woods 
+location into play in front of him or her , until there are exactly 5 Witch-
+Haunted Woods locations in play (see “Lost and Separated,” below). For 
+example: In a 1-player game, there should be 5 Witch-Haunted Woods in front 
+of that investigator. In a 2-player game, there should be 3 Witch-Haunted Woods 
+in front of the lead investigator and 2 Witch-Haunted Woods in front of the 
+other investigator. In a 3-player game, there should be 2 Witch-Haunted Woods 
+in front of the lead investigator, 2 Witch-Haunted Woods in front of the next 
+investigator, and 1 Witch-Haunted Woods in front of the final investigator. In 
+a 4-player game, there should be 2 Witch-Haunted Woods in front of the lead 
+investigator, and 1 Witch-Haunted Woods in front of each other investigator.”
+(v1.5) The Wages of Sin, resolutions section ( ) 
+The first line should read: “ If no resolution was reached and at least one 
+investigator resigned:  Proceed to Resolution 1 .”
+(v2.0) Interlude IV: Twist of Fate ( ) 
+The effect of both the second and third bullets should read:  
+“Depending on your difficulty mode, add the following chaos token to the 
+chaos bag for the remainder of the campaign: Easy: –3, Standard: –4, Hard: 
+–5, Expert: –7”
+===== page 3 =====
+3
+FREQUENTLY ASKED QUESTIONS
+(v1.6) The Blob That Ate Everything, resolutions section ( ) 
+Resolution 3 should read “ Resolution 2. ”
+(v2.2) The Blob That Ate Everything, Resolution 2 ( ) 
+Add “Alien Instruments”, “Corrosive Cloud”, and “G-Men” to the list of 
+assets in play that can be added to an investigator’s deck. (Note: These assets 
+are found in The Blob That Ate Everything ELSE.)
+(v1.8) Return to Threads of Fate ( ) 
+Add the following bullet point to the resolution of this scenario:
+ Æ If the Harbinger of Valusia entered play during this scenario:
+ = If it is in the victory display, cross out “the Harbinger is still alive” in 
+your Campaign Log.
+ = If it is still in play or is set aside, next to “the Harbinger is still alive” in 
+your Campaign Log, record in parentheses how much damage is on 
+the Harbinger of Valusia, replacing the number that was previously in 
+parentheses.
+(v2.0) Return to Before the Black Throne ( ) 
+Resolution 5 should read “ Resolution 6. ”
+(v2.0) Red Tide Rising, resolutions section ( ) 
+The first sentence should read “ If no resolution was reached and at least 
+one investigator resigned… ”
+(v2.1) Sanguine Shadows, Setup ( ) 
+Replace the seventh bullet point with the following:
+ Æ Find the double-sided La Chica Roja card, flip her to her enemy side, 
+and resolve her concealed keyword, distributing each of those concealed 
+mini-cards as evenly as possible among each location with a target.
+(v2.1) Dogs of War, Resolution 6 ( ) 
+Replace the second bullet point with the following  (including its sub-bullets) :
+ Æ In your Campaign Log, record the following:
+ = You haven’t seen the last of the Claret Knight.
+ = You haven’t seen the last of the Beast in a Cowl of Crimson.
+(v2.2) On Thin Ice, Resolution 2 ( ) 
+Add the following text to the third bullet of this resolution:
+ Æ If no investigator controlled the Sable Glass at the end of the scenario, 
+choose an investigator to be its bearer. Update the Campaign Log 
+accordingly.
+(v2.2) Shades of Suffering, Setup ( ) 
+Add the following after the fourth bullet point:
+ Æ Gather each decoy mini-card and the Tzu San Niang mini-card and set 
+them aside, out of play.
+(v2.1) Congress of the Keys, Setup (v.I) ( ) 
+(v2.1) Congress of the Keys, Setup (v.III) ( ) 
+The bullet points that instructs players to “Gather each decoy mini-card and 
+each of the following mini-cards” should come before the bullet point that 
+instructs you to “Find each Coterie  e n e m y…”
+(v2.2) Congress of the Keys, Setup (v.II) ( ) 
+Add the following sub-bullet after the fourth bullet point: 
+ = Remove all other Coterie enemies from the game.
+(v2.2) The Twisted Hollow ( ) 
+Add the following rules text before Intro 1: 
+You cannot play this scenario unless it is Night 1.
+(v2.2) The Longest Night ( ) 
+Add the following rules text before Intro 1: 
+You cannot play this scenario unless it is Night 2 .
+(v2.2) Prelude: The Final Evening, Codex 6 ( ) 
+The first line of this codex should read “If Gideon told the tale of …” 
+Card Errata
+(v1.0) Roland’s .38 Special (  6) 
+Daisy’s Tote Bag (  8) 
+On the Lam (  10) 
+Heirloom of Hyperborea (  12) 
+Wendy’s Amulet (  14) 
+These cards have no level (instead of being level 0).
+(v1.9) Wendy’s Amulet (  14) 
+This card’s Forced ability should read: “Forced – After you play an event or 
+discard an event from play:…”
+(v1.4) Barricade (level 3) (  4) 
+This card’s constant ability should read: “Each time a non- Elite enemy would 
+spawn at attached location, spawn it at a connecting location instead, if able.”
+(v1.5) Zoey Samaras (  1) 
+This card’s Deckbuilding Options  should read: “ …up to five other level 0 
+cards from any other classes (, , , and/or ).”
+(v1.5) Rex Murphy (  2) 
+This card’s Deckbuilding Options  should read: “ …up to five other level 0 
+cards from any other classes (, , , and/or ).”
+(v1.5) Jenny Barnes (  3) / (Novella Promo 1) 
+This card’s Deckbuilding Options  should read: “ …up to five other level 0 
+cards from any other classes (, , , and/or ).”
+(v1.5) Jim Culver (  4) 
+This card’s Deckbuilding Options  should read: “ …up to five other level 0 
+cards from any other classes (, , , and/or ).”
+(v1.5) “Ashcan” Pete (  5) 
+This card’s Deckbuilding Options  should read: “ …up to five other level 0 
+cards from any other classes (, , , and/or ).”
+(v1.0) Smite the Wicked (  7) 
+This card’s Forced ability should read: “When the game ends, if attached 
+enemy is in play: Zoey Samaras suffers 1 mental trauma.”
+(v1.0) Searching for Izzie (  11) 
+This card’s Forced ability should read: “When the game ends, if Searching for 
+Izzie is in play: Jenny Barnes suffers 1 mental trauma.”
+(v1.6) Laboratory Assistant (  20) 
+This card’s first ability should read: “Your maximum hand size is increased by 2.”
+(v1.3) Henry Armitage (  40) 
+This card’s  ability should read: “After you draw a non-weakness card, 
+discard that card… ”
+(v1.2) Clover Club Pit Boss (  78) 
+This enemy’s traits should be “Humanoid. Criminal. Elite. ”
+(v1.2) Peter Clover (  79) 
+O’Bannion’s Thug (  97) 
+Mobster (  98) 
+The “Human” trait on each of these cards should read “Humanoid” instead.
+(v1.1) Burned Ruins (revealed) (  2 05) 
+This card’s first ability should read: “ Forced – After you fail a skill test while 
+investigating the Burned Ruins: Flip 1 clue token on the Burned Ruins to its 
+doom side. ”
+===== page 4 =====
+4
+FREQUENTLY ASKED QUESTIONS
+(v1.1) Lucky Dice (  230) 
+This card’s  ability should read: “When you reveal a non- chaos token, 
+spend 2 resources: Ignore that chaos token and reveal another one to resolve. 
+If that token has a  symbol, remove Lucky Dice from the game (cannot be 
+ignored/canceled).”
+(v2.0) Strange Solution (Restorative Concoction) (  262) 
+Strange Solution (Acidic Ichor) (  2 63) 
+Strange Solution (Freezing Variant) (  264) 
+Strange Solution (Empowering Elixer) (  262) 
+Archaic Glyphs (Guiding Stones) (  192) 
+Archaic Glyphs (Prophecy Foretold) (  193) 
+Archaic Glyphs (Markings of Isis) (  4) 
+Ancient Stone (Knowledge of the Elders) (  230) 
+Ancient Stone (Minds in Harmony) (  2 31) 
+Ancient Stone (Transient Thoughts) (  4) 
+Dream Diary (Dreams of an Explorer) (  236) 
+Dream Diary (Dreams of a Madman) (  237) 
+Dream Diary (Dreams of a Child) (  238) 
+Cryptic Grimoire (Text of the Elder Herald) (  191) 
+Cryptic Grimoire (Text of the Elder Guardian) (  192) 
+Forbidden Tome (Dark Knowledge) (  29) 
+Forbidden Tome (Secrets Revealed) (  30) 
+The purchase restriction on each of these cards should be replaced with the 
+keyword: “Researched.”
+(v1.6) Act 1b—A Sacrifice Made (  277) 
+The two instructions on this card should be reversed, as follows:  
+“Remove all clues from each location in play. The arcane presence masking the 
+path further up the hill has faded. Reveal Ascending Path.”
+(v1.2) Dr. William T. Maleson (  302) 
+This card’s  ability should read: “When you draw an encounter card from 
+the encounter deck…”
+(v1.2) The Gold Pocket Watch (  305) 
+Each of this card’s  symbols should be  symbols, instead.
+(v1.6) Drawing the Sign (  41) 
+This card’s second ability should read: “Your maximum hand size is reduced 
+by 5.”
+(v2.0) The Last King scenario reference card (  61) 
+Dance of the Yellow King (  97) 
+Agenda 1b—The Patients  (  160) 
+Asylum Halls (  168–170) 
+Gift of Madness (Pity) (  186) 
+The “Lunatic ” trait in each of these card’s effects should read 
+“Possessed ” wherever it appears, instead.
+(v2.0) Constance Dumaine (  65) 
+Jordan Perry (  66) 
+Ishimaru Haruko (  67) 
+Sebastien Moreau (  68) 
+Ashleigh Clarke (  69) 
+Maniac (  95) 
+Young Psychopath (  96) 
+Daniel Chesterfield (  182) 
+Mad Patient (  184) 
+Catacombs Docent (  258) 
+The “Lunatic ” trait on each of these cards should read “ Possessed ” instead.
+(v2.0) Maniac (  95) 
+Young Psychopath (  96) 
+Mad Patient (  184) 
+The titles for these cards should be Seer of the Sign (  95), Puppet of 
+Hastur (  96), and Haunted Patient (  184) instead, respectively.
+(v1.2) Corrosion (  102) 
+This card’s Revelation  ability should read: “Discard Item assets from your 
+play area and/or from your hand…”
+(v1.2) Agenda 1a—The Truth is Hidden (  121) 
+Agenda 2a—Ransacking the Manor (  122) 
+Agenda 3a—Secrets Better Left Hidden (  123) 
+The first ability on each of these agendas should read: “Skip the ‘Place 
+1 doom on the current agenda’ step of the Mythos phase. ”
+(v1.2) Historical Society (Historical Museum)  (  130 & 132) 
+This location’s ability should read: “While investigating this location, your  
+cannot be increased. ”
+(v2.0) Storm of Spirits (level 0) (  153) 
+Storm of Spirits (level 3) (  8) 
+Mk 1 Grenades (  273) 
+These cards’ Fight abilities should read: “at the attacked enemy’s location” 
+instead of “at your location” in all instances.
+(v1.2) Patient Confinement (  178 -181) 
+Each of these locations should not have the “ Arkham Asylum ” trait.
+===== page 5 =====
+5
+FREQUENTLY ASKED QUESTIONS
+(v1.4) Shortcut (level 2) (  232) 
+This card’s  ability should read: “ …Any investigator at this location 
+may trigger this ability.”
+(v1.3) Candlelit Tunnels (  252) 
+This location’s ability should read: “ …If you succeed, look at the revealed 
+side of any Catacombs location in play.”
+(v1.3) Catacombs Docent (  258) 
+This enemy’s ability should read: “ …If you succeed, look at the revealed side 
+of any Catacombs location in play.”
+(v2.0) Stick to the Plan (  264) 
+This card’s  ability should read: “ …attach them facedown to Stick to 
+the Plan.”
+(v1.4) Time Warp (  311) 
+The second part of this card’s ability should read: “Undo that action (return 
+the game state to exactly the way it was before that action was performed, 
+except for the playing of Time Warp and its costs).”
+(v1.3) Madness Dies (  319) 
+This act’s second ability should read: “Hastur cannot be defeated unless an 
+investigator ‘knows the secret.’”
+(v1.4) Realm of Madness (  338) 
+This card’s Revelation  ability should read: “Discard cards from your play 
+area and/or from your hand…”
+(v1.4) Father Mateo (  4) 
+This card’s  ability should read: “When an investigator reveals an  
+c h a o s t ok e n…”
+(v1.4) Yaotl (  35) 
+This card’s  ability should read: “Discard the top card of your deck. 
+(Limit once per phase.)”
+(v1.41) The Skeleton Key (  270) 
+This card’s  ability should read: “If The Skeleton Key is in your play area, 
+attach it to your location…”
+(v1.9) Norman Withers (  7) 
+This card ’s Deckbuilding Options  should read: “ …up to other 5 Mystic 
+cards () level 0.”
+(v1.5) Carolyn Fern (  10) 
+This card’s Deckbuilding Options  should read: “Guardian cards ( ) level 
+0-3, Neutral cards level 0-5, cards that ‘heal horror’ level 0-5, up to 15 other 
+Seeker and/or Mystic cards level 0-1 (  a nd/or ).”
+(v1.9) Yaztaroth (  18) 
+This card’s constant ability should read: “You cannot play assets or put 
+assets into play.”
+(v1.5) Eldritch Inspiration (  33) 
+This card’s play requirement should read: “Play when you would resolve an 
+effect on a  card that triggers “when,” “if,” or “after” a , , , , or  
+symbol is revealed.”
+(v1.6) Agenda 2a—Death’s Approach (  163) 
+This card’s ability should read: “Locations cannot be flipped to their 
+non-Spectral side.”
+(v1.6) Act 1a—In Pursuit of the Dead (  164) 
+This card’s ability should read: “Locations cannot be flipped to their 
+Spectral side.”
+(v1.6) Unfinished Business (Bring me to him… ) (  178b) 
+(v1.6) Unfinished Business (Burn…let it burn… ) (  178b) 
+(v1.6) Unfinished Business (They stole it from me… ) (  178b) 
+(v1.6) Unfinished Business (My bones… ) (  178b) 
+This card’s first ability should read: “Keep this card in your threat area (this 
+side faceup). If you are eliminated, flip it over.”
+(v1.6) Unfinished Business (My bones… ) (  178b) 
+This card’s  ability should read: “If you are at Heretics’ Graves…”
+(v1.6) Guiding Spirit (  236) 
+This card’s Forced ability should read: “When Guiding Spirit is defeated by 
+horror: Exile it.”
+(v1.9) Bait and Switch (level 3) (  282) 
+This card’s trait should be Trick instead of Tactic.
+(v2.0) Hallowed Mirror (  313) 
+Occult Lexicon (  316) 
+Miss Doyle (  30) 
+The last line of these cards’ Forced effects should read: “ …set them aside, 
+out of play” instead of “remove them from the game.”
+===== page 6 =====
+6
+FREQUENTLY ASKED QUESTIONS
+(v1.7) Act 1b—Palace of the Old Ones (  329) 
+This card’s second line of game text should read: “Shuffle each empty space 
+into its owner’s deck and each location in play other than Hideous Palace 
+into the Cosmos.”
+(v1.7) Act 2b—Nucleus of the Universe (  330) 
+This card’s second line of game text should read: “Shuffle each empty space 
+into its owner’s deck and each location in play other than Court of the Great 
+Old Ones into the Cosmos.”
+(v2.1) Wine Cellar (  27a) 
+(v2.1) Wine Cellar (  27 b) 
+(v2.1) Wine Cellar (  28a) 
+(v2.1) Wine Cellar (  2 8b) 
+This card’s ability should read: “Victorian Halls is connected to Wine Cellar, 
+and vice versa.” 
+(v2.0) Witchweed (  40) 
+This card’s second bullet point should end with: “Otherwise, place it in the 
+spectral encounter discard pile.”
+(v2.0) Winding Gulf (  60) 
+The last sentence of this card’s Cosmos ability should instead read: “You 
+may choose not to move to Winding Gulf and instead place 1 doom 
+on Azathoth.”
+(v2.0) Unstable Energies (  68) 
+The triggering condition on this card’s first Forced ability read: “After you 
+leave attached location” instead of “when you leave attached location.”
+(v1.9) The Hungering Blade (  18) 
+(v1.9) Crystallizer of Dreams (  2 4) 
+The additional cost on each of these cards should read: “As an additional cost 
+to play this card…”
+(v2.0) Virgil Gray (both versions) (  144 & 224) 
+The triggering condition on these cards’ Forced abilities should read: “If 
+Virgil Gray leaves play” instead of “if Virgil Gray is defeated.”
+(v1.7) .35 Winchester (  195) 
+This card’s ability should read: “  Spend 1 ammo: Fight…”
+(v1.9) The Black Expanse (  253) 
+This card’s Forced ability should read: “After an enemy with 1 or more clues 
+on it is defeated: Take control of each of those clues.”
+(v1.7) Otherworldly Meddler (  29) 
+This card’s first ability should read: “ Forced – When Otherworldly Meddler 
+would take damage from an attack: Remove 1 doom from Otherworldly 
+Meddler. Then, reduce the damage dealt by 1.”
+(v1.8) Randall Cho (  2) 
+This card ’s  symbol should be a  symbol, instead.
+(v1.9) Seeking Answers  (level 2) (  27) 
+This card’s ability should read:  “ …If you succeed, instead of discovering a 
+clue at your location, discover 2 total clues from among your location and 
+connecting locations.”
+(v1.8) Amanda Sharpe (  2) 
+This card ’s  symbol should be “ Forced –” instead.
+(v1.9) Guided by the Unseen (  223) 
+This card ’s  ability should read “ …(Limit once per test.)”
+(v2.0) Shrine of the Moirai (  310) 
+The  ability granted by this card should read: “ …Any investigator at 
+this location may trigger this ability.”
+(v1.9) Act 1a—Back into the Depths (  315) 
+This card’s Objective ability should read: “ …you may choose to advance” 
+instead of “ …advance.”
+(v2.0) Dagon (Deep in Slumber), Hydra (Deep in Slumber) (  330a, 331a) 
+The triggering condition on each of these cards’ Forced abilities should read: 
+“At the end of the investigation phase” instead of “at the end of the round.”
+(v2.0) Geared Up (  19) 
+This card’s effect should read: “One at a time, play…”
+(v2.1) Eon Chart (  100) 
+This card’s  ability should now read: “ …choose and take 2 different 
+actions of the following, in any order (move, evade, or investigate).”
+(v2.1) To the Forbidden Peaks (  96a) 
+This card’s  effect should read “If you fail, after this test ends…”
+(v2.1) To the Forbidden Peaks (  96 b) 
+This card’s  effect should read “After this test ends…”
+(v2.1) Map Room (  135) 
+This card’s ability should read: “Choose 3 locations other than Hidden 
+Tunnel and reveal them…”
+===== page 7 =====
+7
+FREQUENTLY ASKED QUESTIONS
+(v2.2) Burden of Leadership (  20) 
+This card’s Revelation  ability should read: “ …Otherwise, for each Ally 
+asset you control, you must either exhaust it or deal it 1 direct damage and 1 
+direct horror.”
+(v2.1) Protoplasmic Mass (  169) 
+This card’s Forced ability should read: “ …activated seal: Protoplasmic Mass 
+readies and resolves the enemy phase again (it resolves its hunter keyword and 
+attacks a second time) . (Limit once per phase.)”
+(v2.2) Agenda 1b—The Risen Dead (  21) 
+This card’s first sentence should end with: “ …for a Risen  or Ghoul enemy 
+and spawn it at a random location.”
+(v2.1) Agenda 1b—Bamboozled! (  46) 
+This card’s second paragraph should read: “Find the location with a target 
+on it nearest to La Chica Roja (or her mini-card)…”
+(v2.1) Special Agenda—Seeing Red (  62) 
+This card loses all story text and gains: “ Forced – When this agenda would 
+advance by reaching its doom threshold: Each investigator is defeated and 
+suffers 1 mental trauma.”
+(v2.1) Agenda 1b—In a Shadow of Voidlight (  67) 
+This card’s first paragraph, starting on line 3, should read: “ …or search the 
+encounter deck and discard pile for a Cultist  enemy and draw it; it gains 
+concealed 1… ”
+(v2.1) Act 2b—Talisman Discovered (  69) 
+The last line of this act’s third paragraph should read: “Set each concealed 
+mini-card aside, out of play,” instead of “Remove each concealed mini-card 
+from the game.”
+(v2.1) Special Agenda—The Chase (  70) 
+This card’s second objective now reads: “If an enemy with The Twisted 
+Antiprism is at Galata Docks, or if the investigator with The Twisted 
+Antiprism is defeated, proceed…”
+(v2.1) Agenda 2b—Truths Untold (  98) 
+The last line of this act’s first paragraph should read: “Set each concealed 
+mini-card aside, out of play,” instead of “Remove each concealed mini-card 
+from the game.”
+(v2.1) Court of the Outsiders (  188) 
+This card’s ability should read: “ …end of your turn. If each surviving 
+investigator has resigned, immediately advance to act 3b.”
+Definitions and Terms
+This section provides definitions for important terms that serve a precise 
+function in the game. The terms are presented in alphabetical order.
+“Record in your Campaign Log…”
+Often the players will be instructed to record a key phrase in the Campaign 
+Log. This should be written under “Campaign Notes” unless specified 
+otherwise. Because the players may be instructed to check the Campaign 
+Log for this phrase at a later time in the campaign, the indicated phrase 
+should be recorded as it appears, without alteration.  
+For example: If the players are instructed to record in the Campaign Log that 
+“the investigators were four hours late,” this shouldn’t be rewritten as “the 
+investigators were pretty late,” because the exact number of hours might be 
+important in a later scenario.
+“Remember that…”
+Sometimes a scenario card will instruct the investigators to “remember” 
+a key phrase, often based on an action they have taken or a decision they 
+have made within that scenario. This phrase may come up later during that 
+scenario, and may trigger additional or different effects. There is no need 
+to record this phrase in the Campaign Log, because it will only ever matter 
+during that scenario, or during that scenario’s resolution. The players do not 
+need to “remember” any such instruction beyond the end of the scenario in 
+which it appears.
+If a “remember” effect uses the word “you,” it is specific to the investigator 
+resolving the effect.
+Signature Cards
+An investigator’s “signature cards” are the cards that are only available to 
+that investigator, and cannot be included in another investigator’s deck. This 
+includes player cards with the text “(Investigator Name) deck only,” as well 
+as non-basic weaknesses that are listed under “Deckbuilding Requirements” 
+and therefore can only be included in that investigator’s deck.
+Signature cards are governed by the following additional  rules:
+ = The number of each signature card listed under an investigator’s 
+“Deckbuilding Requirements” is the exact number of copies of that 
+card that is to be included in that investigator’s deck. If no number 
+is specified, that number is 1. For example: Under “Deckbuilding 
+Requirements” for Roland Banks, the following cards are listed: “Roland’s 
+.38 Special, Cover Up, 1 random basic weakness.” Roland Banks must 
+
+===== page 8 =====
+8
+FREQUENTLY ASKED QUESTIONS
+include exactly 1 copy of his signature cards—Roland’s .38 Special and 
+Cover Up. He is not permitted to include more than 1 copy of either of 
+these cards.
+ = An investigator cannot play another investigator’s signature cards, 
+control another investigator’s signature cards while they are in play, 
+or possess another investigator’s signature cards in their hand. If a 
+game effect would force a player to take control of a card with another 
+investigator’s signature card attached to it, that signature card is 
+discarded. For example: Roland has the Roland’s .38 Special card in 
+play. He has the card “Teamwork” which can allow investigators at the 
+same location to trade or give assets among one another. However, because 
+Roland’s .38 Special is one of Roland’s signature cards, he cannot give it 
+to another investigator.
+ = Signature cards need not abide by typical deckbuilding restrictions, 
+and do not count toward any deckbuilding limitations if other cards 
+share the same title.
+Rulings and Clarifications
+This section contains additions and clarifications to the core game rules. 
+Each entry is presented with a unique section number so it can be easily 
+identified when making rulings, answering questions, or otherwise referring 
+to the entry.
+It should be used in conjunction with the Rules Reference to establish the 
+rules of play. If the text of this document directly contradicts the text of the 
+Rules Reference, the text of this document takes precedence.
+1. Game Play
+(1.1) Attacks of Opportunity  
+Attacks of Opportunity are only triggered when 1 or more of an investigator’s 
+actions are being spent or used to trigger an ability or action.  abilities 
+with a bold action designator do not provoke attacks of opportunity.
+(1.2) Triggered Abilities  
+An investigator is permitted to use triggered abilities ( , , and  
+abilities) from the following sources:
+ = A card in play and under their control. This includes their 
+investigator card.
+ = A scenario card that is in play and at the same location as the 
+investigator. This includes the location itself, encounter cards placed 
+at that location, and all encounter cards in the threat area of any 
+investigator at that location.
+ = The current act or current agenda card.
+ = Any card that explicitly allows the investigator to activate its ability.
+===== page 9 =====
+9
+FREQUENTLY ASKED QUESTIONS
+(1.3) Reaction () Opportunities  
+When a triggering condition resolves, investigators are granted the 
+opportunity to resolve  abilities in response to that triggering condition. 
+It is only after all investigators have passed their reaction opportunity that 
+the game moves forward.
+Using a  ability in response to a triggering condition does not prevent other 
+ abilities from being used in response to that same triggering condition.
+For example: Roland has just defeated an enemy and wishes to trigger his 
+ ability: “After you defeat an enemy: Discover 1 clue at your location.” He 
+discovers 1 clue at his location. He may then play Evidence! (  22) in response 
+to defeating that same enemy. As both cards have the same triggering condition 
+(“After you defeat an enemy”), triggering one of these reactions does not prevent 
+Roland from triggering the other.
+(1.4) Nested Sequences 
+Each time a triggering condition occurs, the following sequence is followed: 
+(1) execute “when…” effects that interrupt that triggering condition, 
+(2) resolve the triggering condition, and then, (3) execute “after…” effects in 
+response to that triggering condition.
+Within this sequence, if the use of a  or Forced ability leads to a new 
+triggering condition, the game pauses and starts a new sequence: (1) execute 
+“when…” effects that interrupt the new triggering condition, (2) resolve the 
+new triggering condition, and then, (3) execute “after…” effects in response 
+to the new triggering condition. This is called a nested sequence . Once 
+this nested sequence is completed, the game returns to where it left off, 
+continuing with the original triggering condition’s sequence.
+It is possible that a nested sequence generates further triggering conditions 
+(and hence more nested sequences). There is no limit to the number of 
+nested sequences that may occur, but each nested sequence must complete 
+before returning to the sequence that spawned it. In effect, these sequences 
+are resolved in a Last In, First Out (LIFO) manner.
+For example: Roland and Agnes are embroiled in a fierce battle. Roland has a 
+Guard Dog in his play area, and is engaged with a Goat Spawn with 2 damage 
+on it. Agnes is engaged with a Ghoul Minion. Roland wishes to play a .45 
+Automatic, which provokes an attack of opportunity from the Goat Spawn, 
+dealing 1 damage to Roland. Roland assigns this damage to his Guard Dog, 
+which has a  ability: “When an enemy attack deals damage to Guard Dog: 
+Deal 1 damage to the attacking enemy.” Before resolving the playing of Roland’s 
+.45 Automatic, Guard Dog’s ability resolves, and 1 damage is dealt to the Goat 
+Spawn, which would defeat it. Goat Spawn has the following Forced ability: 
+“When Goat Spawn is defeated: Each investigator at this location takes 1 
+horror.” Before resolving the damage dealt to the Guard Dog, 1 horror is dealt to 
+each investigator at the location, including Agnes, who has a  ability: “After 
+1 or more horror is placed on Agnes Baker: Deal 1 damage to an enemy at your 
+location.” Before resolving the Goat Spawn’s defeat, Agnes deals 1 damage to the 
+Ghoul Minion engaged with her. Now that there are no further  or Forced 
+abilities to trigger, the players return to the previous triggering condition and 
+resolve the Goat Spawn’s defeat, and resolve any “After… ” effects that might 
+occur when it is defeated. Then, the players resolve the damage dealt to the Guard 
+Dog,  and resolve any “After… ” effects that might occur from that damage. 
+Finally, the players return to the original triggering condition, and Roland is 
+able to put his .45 Automatic into play.
+(1.5) Choices, and the Grim Rule  
+When investigators are forced to make a choice and there are multiple valid 
+options, the lead investigator decides between those options. The Grim 
+Rule does not play a part in these choices. 
+For example: Locked Door reads “Attach to the location with the most clues, 
+and without a Locked Door attached.” If there are 3 locations that are tied for 
+the most clues, and none of them already have a Locked Door attached, the lead 
+investigator decides between those 3 locations. Players are not forced to decide 
+which of those 3 options would be the objectively worst option.
+The Grim Rule only comes into effect if players are unable to find the answer 
+to a rules or timing conflict, and are thus unable to continue playing the 
+game. It is designed to keep the game moving when looking up the correct 
+answer would be too time-consuming or inconvenient for the players. The 
+Grim Rule is not an exhaustive answer to rules/timing conflicts.
+(1.6) Additional Costs  
+Some cards add additional costs that must be paid in order to perform 
+certain effects or actions, in the form of “As an additional cost to (specified 
+effect/action) you must (additional cost)” or “You must (additional cost) to 
+(specified effect/action).”
+Additional costs are costs that can be paid outside the normal timing point 
+of paying costs (for instance, during the resolution of an effect). If an effect 
+that requires an additional cost would resolve, the additional cost must be 
+paid at that time. If the additional cost cannot be paid, that aspect of the 
+effect fails to resolve.
+Additional costs do not have to be paid when a Forced effect or mandatory 
+instruction (such as in the Campaign Guide, or on the back of an Act or 
+Agenda card) requires an investigator to resolve an effect.
+For example: “Ashcan” Pete is at the Miskatonic Quad and activates Duke’s 
+second ability, which reads: “  Exhaust Duke: Investigate.  You investigate 
+with a base skill of 4. You may move to a connecting location immediately before 
+investigating with this effect.” Pete pays the cost to activate this ability, which 
+is spending one action and exhausting Duke. Then Pete resolves the ability, 
+first moving to the Orne Library, followed by investigating. The Orne Library, 
+however, reads: “You must spend 1 additional action to investigate the Orne 
+Library.” This adds an additional cost that must be paid in order to investigate 
+the Orne Library. This additional cost is paid when the investigate action would 
+resolve, outside the normal timing point for paying costs. If Pete cannot spend the 
+additional action, that aspect of Duke’s effect fails to resolve.
+(1.7) Skill Test Results and Advanced Timing  
+During Step 7 of Skill Test Timing (“Apply skill test results”), all of the 
+effects of the successful skill test are determined and resolved, one at a time. 
+This includes the effects of the test itself (such as the clue discovered while 
+investigating, or the damage dealt during an attack), as well as any “If this test 
+is successful…” effects from card abilities or skill cards committed to the test.
+ or Forced abilities with a triggering condition dependent upon the 
+skill test being successful or unsuccessful (such as “After you successfully 
+investigate,” or “After you fail a skill test by 2 or more”) do not trigger at this 
+time. These abilities are triggered during Step 6, “Determine success/failure 
+of skill test.”
+(1.8) Experience Cost for Level 0 Cards  
+When purchasing a new card during campaign play, an investigator must 
+pay a minimum of 1 experience. As a result, level 0 cards cost 1 experience 
+to purchase. This minimum only applies when purchasing new cards. It does 
+not permanently alter a card’s level or experience cost, and does not apply 
+when upgrading a card to a higher level version.
+(1.9) Wild (?) Skill Icons  
+A Wild (?) skill icon on a player card may be used to match any other skill 
+icon for the purposes of both card abilities and counting how many matching 
+icons are committed to a skill test. When using Wild icons for the purpose of 
+resolving a card ability, a player must state which icon the Wild is matching at 
+the time the card is used.
+Wild icons committed to a skill test are considered “matching” icons for the 
+purposes of card abilities.
+===== page 10 =====
+10
+FREQUENTLY ASKED QUESTIONS
+(1.10) Taking and Losing Additional Actions  
+Some card abilities grant investigators “additional actions.” If an investigator 
+has one or more additional actions during their turn, the first action they 
+take that is able to qualify as that additional action automatically uses that 
+additional action. 
+For example: Daisy Walker reads: “You may take an additional action during 
+your turn, which can only be used on Tome  abilities.” The first time Daisy 
+performs a Tome  ability each turn, it automatically uses up that additional 
+action, and not one of Daisy’s three standard actions.
+If an action qualifies as more than one of an investigator’s additional actions, 
+they may choose which additional action is used.
+If an effect causes an investigator to lose one or more actions, that 
+investigator has that many fewer standard actions to take that turn (the 
+investigator’s three standard actions are the ones that are “lost” first). If an 
+investigator only has additional actions remaining, those are then lost, in an 
+order of the investigator’s choosing.
+For example: An effect causes Daisy to lose two actions. She has two fewer 
+standard actions to take during her turn. She cannot choose to “lose” her 
+additional action unless it is the only action she has remaining.
+(1.11) Transferring Investigators to a New Campaign  
+This section expands on the ability for investigators to transfer from a 
+completed campaign to another campaign, as originally described in the 
+section “The End…or Is It?” in the Night of the Zealot campaign guide.
+Note: The standard rules of the game dictate that players start each campaign 
+with a clean state (new decks and 0 experience). The following is an optional 
+variant that is likely to affect the game’s balance. Only intrepid investigators who 
+wish to embrace the chaos should choose this option.
+When transferring one or more investigators from a completed campaign to 
+a new campaign, players should observe the following rules:
+ = Not all surviving investigators in the original campaign need to be 
+transferred. It is okay to transfer some and start fresh with others.
+ = Investigator decks remain the same. This includes all story assets and 
+weaknesses earned in the original campaign, as well as experience 
+gained and trauma suffered. Everything recorded in the campaign log 
+under that investigator’s “Earned Story Assets / Weaknesses” should 
+be transferred to the new campaign, as well.
+ = All other notes in the Campaign Log should be wiped clean and do 
+not transfer to the new campaign.
+ = The chaos bag is reset. This includes all additional chaos tokens that 
+were added to the chaos bag throughout the original campaign.
+ = If an investigator has an ability that occurs “at the beginning of 
+the campaign,” or “at deck creation,” such as Father Mateo’s bonus 
+experience, it does not trigger a second time upon transferring that 
+investigator into a new campaign.
+ = Cards and Campaign Guides are written with the assumption 
+that investigators are not being transferred from one campaign to 
+another. For this reason, campaigns are sometimes referred to as 
+“the campaign.” (For example, “ for the remainder of the campaign… ”)  
+In general, when interpreting such effects, treat each campaign as 
+being separate from one another. However, some effects should be 
+interpreted as if each campaign played is part of one continuous 
+uninterrupted campaign. This includes rules that dictate how an 
+earned weakness or story asset operates, or additional rules that a 
+specific investigator must follow. (For example, “ for the remainder of 
+the campaign, the bearer of X weakness must only speak in French.”)
+(1.12) Weaknesses With Encounter Cardtypes  
+Weaknesses with an encounter cardtype (such as enemies or treacheries) 
+are considered to be player cards while they are in their bearer’s deck, and 
+are considered to be encounter cards while they are being resolved, and 
+once they have entered play. Before a weakness with an encounter cardtype 
+is resolved, it is still considered to be a player card.
+(1.13) Shuffling A Card Into An Empty Player/Encounter Deck  
+A single card cannot be shuffled into an empty player deck or encounter 
+deck via card effect. If this shuffling would occur during the playing or 
+revelation of a card that is typically discarded after it is resolved, such as an 
+event or treachery card, it is discarded. Otherwise, the card remains in its 
+current game area.
+(1.14) Control of Attachments  
+An attachment may change control depending on the card it is attached to.
+ = If an investigator attaches a player card to a player card they control, 
+they retain control of the attachment.
+ = If an investigator attaches a player card to a player card another 
+investigator controls, that other investigator takes control of the 
+attachment.
+ = If a player card with 1 or more player attachments changes control, 
+the card’s new controller takes control of those player attachments.
+ = If an investigator attaches a player card to an encounter card, they 
+retain control of the attachment (but does not gain control of the 
+attached encounter card).
+ = A card with the permanent keyword cannot be chosen to be attached 
+to another player card unless explicitly stated. (For example, a player 
+cannot attach Sin Eater  94 to Elle Rubash  92.)
+(1.15) Deckbuilding Options  
+The following section clarifies how certain investigators’ deckbuilding 
+options function.
+ = If one of the categories of an investigator’s deckbuilding options 
+contains the word “other” in it, cards only fall into this category 
+if they fall into no other category. (For example, if an investigator’s 
+deckbuilding options reads: “Guardian cards level 0–5, up to 10 other 
+
+===== page 11 =====
+11
+FREQUENTLY ASKED QUESTIONS
+Weapon cards,” then a Guardian card with the Weapon trait would not 
+occupy one of those 10 limited slots, because it first falls into the unlimited 
+Guardian category).
+ = If one of the categories of an investigator’s deckbuilding options lists 
+card text in it, cards fall into this category if the listed text appears in 
+the card in any capacity, even if it is circumstantial. (For example, if an 
+investigator’s deckbuilding options reads: “cards that ‘heal horror’ level 
+0–5,” any card with an ability that heals any amount of horror will fall 
+into this category, even if it only heals horror under specific circumstances.)
+(1.16) Multi-class Cards  
+A multi-class card is a card which bears multiple class icons instead of one, 
+and is a card of each of those classes. For example, a card with both a Rogue 
+() and a Guardian () icon is both a Rogue card and a Guardian card for 
+all purposes. Generally, a multi-class card can be included in an investigator’s 
+deck if that investigator has access to either of that card’s classes.
+If an investigator has limited access to one of the classes on a multiclass 
+card and unlimited access to one of the other classes on that card, it will 
+still occupy one of the investigator’s limited slots unless their deckbuilding 
+options contains the word “other” in it (see 1.15, above).
+The following section clarifies how multi-class cards operate depending on 
+how an investigator’s deckbuilding options are presented.
+ = Investigators with unlimited access to more than one class   
+(i.e. All Core Set investigators, Minh Thi Phan, Sefina Rousseau, 
+William Yorick, Leo Anderson, Joe Diamond, Preston Fairmont, 
+Diana Stanley) : A multi-class card can be included in that 
+investigator’s deck if it falls into either of the listed classes.
+ = Investigators from The Dunwich Legacy expansion (i.e. Zoey 
+Samaras, Rex Murphy, Jenny Barnes, Jim Culver, “Ashcan” Pete) :  
+A multi-class card will not occupy one of these investigator’s five 
+“out of class” slots if one of its classes is the class they have unlimited 
+access to. A card cannot take up more than one “out of class” slot, 
+regardless of how many class icons the card bears.
+ = Investigators with unlimited access to one class and limited 
+access to one or more “other” classes (i.e. Marie Lambeau, Finn 
+Edwards, Carolyn Fern, investigators from Edge of the Earth) : A 
+multi-class card will not occupy one of the investigator’s limited 
+slots, because it falls into the unlimited category (see Deckbuilding 
+Options, expanded , above).
+ = Lola Hayes:  A multi-class card will count as a card of each of its 
+classes toward her Deckbuilding Requirement.
+(1.17) Nested Skill Tests 
+A skill test cannot initiate during another skill test. If during the resolution of 
+a skill test another skill test would initiate, instead the second skill test does 
+not initiate until the first skill test has finished resolving. If the first skill test 
+was part of an action, the second skill test does not initiate until that action 
+has finished resolving.
+For example: Ursula performing an investigate action. As part of this investigate 
+action, she must perform an  test. During the resolution of that skill test, she 
+plays Expose Weakness, a fast event which initiates another  test. Instead of 
+resolving the second  test during the first one, the initiation of the second  test 
+is delayed until after the first skill test (and therefore the investigate action) has 
+finished resolving.
+(1.18) Maintaining Legal Deck Size  
+If 1 or more cards are forcibly removed from an investigator’s deck and 
+returned to the collection (such as when a card is exiled, or when a 
+campaign effect forces an investigator to remove cards from their deck), 
+that investigator must purchase cards so that a legal deck size is maintained. 
+When purchasing cards in this manner, that investigator may purchase level 0 
+cards at 0 experience cost until a legal deck size is reached. 
+ = This rule also applies if an effect alters an investigator’s deck size, 
+deckbuilding restrictions, or deckbuilding options such that 1 or 
+more cards must be removed from or added to their deck as a result.
+(1.19) Bonded Card Limit 
+If an investigator’s deck contains a card that summons one or more bonded 
+cards, those bonded cards are set aside at the start of each game. The 
+number of copies of each different bonded card that are set aside in this 
+way is equal to the number of copies of that were included in the product in 
+which that bonded card was introduced. The number of cards in your deck 
+that summon the bonded card in question does not factor into this limit.
+For example: An investigator may only have 3 copies of Soothing Melody (  314) 
+set aside at the start of the game. Similarly, an investigator may only have 1 
+Essence of the Dream (  113) set aside at the start of the game, regardless of how 
+many copies of Dream Diary (  112) they include in their deck.
+(1.20) Myriad Cards in Standalone Mode  
+When counting the total amount of experience in your deck, each 
+copy of a Myriad card after the first copy does not count towards your 
+experience total.
+(1.21) Being at No Location 
+Unless explicitly specified by game text, enemies and investigators must 
+always be at a location during gameplay. If an effect (such as a “cannot 
+move” effect) would cause an investigator or enemy to not be at a location, 
+ignore that effect.
+(1.22) Hidden Cards in Hand When Eliminated  
+When an investigator is eliminated, each encounter card in their hand with 
+the hidden keyword should be placed in the encounter discard pile, in the 
+same way as encounter cards in their threat area.
+(1.23) Limbo 
+While the effects of an event or treachery card are being resolved, or while 
+a skill is committed to a skill test, it is neither in play, in the discard pile, nor 
+is it in an investigator’s hand. For the purposes of rules clarification, this 
+liminal state is called “limbo.”
+An event card enters limbo during step 3 of the Initiation Sequence, after 
+costs are paid and attacks of opportunity are made (see Appendix I in the 
+Rules Reference).  A treachery card enters limbo after it is drawn, while 
+its revelation ability is being resolved. A skill card enters limbo as it is 
+committed to a skill test. While in limbo, the card is typically placed on the 
+table to show that its effects are being resolved. It is no longer considered to 
+be in any investigator’s hand, but it has not yet been placed in any discard 
+pile. It is technically not in play, and does not count as being in play for the 
+purposes of other card effects, however its effects may still alter the game 
+state. After resolving the card’s effects in full , it is placed in its relevant 
+discard pile and is no longer in limbo. If its effects cause it to enter play (such 
+as attaching to another game element or placing it in an investigator’s threat 
+or play area), it leaves limbo and enters play at that point in time.
+===== page 12 =====
+12
+FREQUENTLY ASKED QUESTIONS
+(1.24) Shifting Slots  
+Some card effects allow an investigator to put assets of one slot type into one 
+of their other slots, allow one of an investigator’s slot types to carry assets 
+of a different slot type, or cause assets to no longer take up slots. In such an 
+event, the investigator must decide which slot is holding which asset at the 
+moment it is played. This cannot be adjusted later unless the contents or 
+quantity of the investigator’s slots changes, at which point the investigator 
+may switch which slots are holding any of their assets.
+For example: Kōhaku has Occult Reliquary (  132) in play when he plays 
+Blessed Blade (  18). He chooses to have Occult Reliquary grant him a 
+hand slot to hold Blessed Blade. If he later plays another Blessed  card, such 
+as Hallowed Mirror (  313), he can choose to have the new card take up the 
+additional slot and define the slot type, while he moves Blessed Blade to his 
+default hand slot 
+(1.25) Moving Attachments  
+If an attachment “moves” from one game element to another, or attaches to a 
+game element while already attached to a game element, it detaches from its 
+original game element and attaches to the new one.
+(1.26) Searching During Setup  
+If an investigator is instructed to search a deck for 1 or more cards during 
+setup, abilities that trigger when a deck is searched (such as Mandy 
+Thompson’s  ability or abilities on Research  cards) cannot be resolved, as 
+the game has not yet begun.
+(1.27) Weakness Events and “changing the game state”  
+Some weakness events such as Quantum Paradox (  125) do not change 
+the game state in the traditional sense when played, but nevertheless 
+provide negative effects if they are in your hand. These weakness events may 
+still be played to avoid their negative effects.
+(1.28) Clues on Player Cards  
+Some card effects such as Kate Winthrop’s (  4) ability may place clues 
+on a card controlled by an investigator. Clues that have been placed on a 
+player card are still controlled by that player and may be spent as normal. 
+If a game effect would cause a card with clues on it to leave play or leave an 
+investigator’s control, place each clue on that card on its location.
+(1.29) Controlling and Attaching Permanent Cards  
+A card with the permanent keyword cannot leave its controller’s play area 
+unless directed by scenario card effects. Cards with the permanent keyword 
+cannot be attached to other cards in an investigator’s play area. Investigators 
+cannot take control of another investigator’s permanent cards. 
+For example: an investigator cannot attach Sin-Eater (  94) to Elle Rubash  
+(  92) even if Sin-Eater has one or more doom on it.
+2. Card Ability Interpretation
+(2.1) “You/Your,” expanded 
+The following guidelines are used to interpret which investigator is 
+referenced by the words “you” and “your.”
+ = A Revelation  ability that references “you/your” refers to the 
+investigator who drew the card and is resolving the ability.
+ = When resolving a triggered ability ( , , or  ability), “you/
+your” refers to the investigator triggering the ability.
+ = If an ability contains a clause identifying whom it is targeting, 
+“you/your” in that ability refers to those investigators. For example, 
+Stubborn Detective (  103) reads: “While Stubborn Detective is at your 
+location… ” this clause identifies “you” as any investigator at his location. 
+Young Deep One reads: “After Young Deep One engages you… ” this clause 
+identifies “you” as any investigator who engages Young Deep One.
+ = Any other instance of “you/your” that does not fall into the above 
+categories refers to the investigator who controls the card, the 
+investigator who has the card in his/her threat area, or who is 
+currently interacting with the card.
+A card may have multiple different abilities in which “you/your” may be 
+interpreted differently. “You/your” may refer to a different investigator in 
+each of these abilities.
+For example: Dreams of R’lyeh reads: 
+“Revelation  – Put Dreams of R’lyeh into play in your threat area.  
+You get –1  and –1 sanity.  
+: Test  (3). If you succeed, Discard Dreams of R’lyeh.”
+These three abilities reference “you/your” in different ways. For the Revelation  
+ability, “your” refers to the investigator who drew Dreams of R’lyeh and is 
+resolving its Revelation . For its constant ability, “you” refers to the investigator 
+who has Dreams of R’lyeh in their threat area. For its  ability, “you” refers to 
+the investigator who is performing the  ability.
+(2.2) Timing of “At…” or “If…” abilities 
+Some abilities have triggering conditions that use the words “at” or “if ” 
+instead of specifying “when” or “after,” such as “at the end of the round,” or “if 
+the Ghoul Priest is defeated.” These abilities trigger in between any “when…” 
+abilities and any “after…” abilities with the same triggering condition.
+(2.3) Limits Pertaining to Play Areas  
+Some limits may pertain to a particular play area, such as “Limit 1 per deck,” 
+“Limit 1 in the victory display,” or “Limit 1 in play.” This limit restricts the 
+number of copies of that card (by title) that can exist in the specified play 
+area. Another copy of that card cannot enter the specified play area if this 
+limit has already been reached. Remember that limits are player specific 
+unless otherwise noted. For example, a card with “Limit 1 per deck” can 
+exist in two different investigator decks.
+Note: “Limit X per investigator” is a limit that pertains to an investigator’s 
+play area.
+(2.4) Engaging Enemies vs Being Engaged by Enemies  
+When an investigator engages an enemy, that enemy has also engaged that 
+investigator, and vice-versa. There is no difference between engaging an 
+enemy and being engaged by an enemy. Effects that trigger “after an enemy 
+engages you” will trigger at the same time as effects that trigger “after you 
+engage an enemy.”
+(2.5) Resolving Multiple Revealed Chaos Tokens  
+If an investigator is instructed to “resolve” multiple revealed chaos tokens, 
+any game or card effects which refer to “the revealed chaos token” in the 
+
+===== page 13 =====
+13
+FREQUENTLY ASKED QUESTIONS
+singular should be construed to apply to each of the revealed chaos tokens. 
+For example, when applying chaos symbol effects during Step 4 of a skill 
+test or applying modifiers to an investigator’s skill value during Step 5 of a 
+skill test, the effects and modifiers of all of the resolved chaos tokens should 
+be applied, even though the rules state “the revealed chaos token.” Similarly, 
+any card effects that refer to “the revealed chaos token” refer to all of the 
+resolved tokens.
+For example: An investigator plays Premonition (  199), which reads: “Put 
+Premonition into play, reveal a random chaos token from the chaos bag, and 
+seal it on Premonition.” That investigator then uses Olive McBride (  197) 
+to “reveal 3 chaos tokens instead of 1, choose 2 of those tokens to resolve, and 
+ignore the other.” In this case, both of the resolved tokens would be sealed on 
+Premonition, even though Premonition only refers to the revealed token as 
+a singular token. Likewise, when Premonition instructs that investigator to 
+“Resolve the token sealed here as if it were just revealed from the chaos bag,” the 
+investigator should resolve both of the tokens sealed on it.
+Additionally, when resolving multiple chaos tokens, any game or card 
+effects which trigger if a certain chaos token is revealed—such as the text 
+“If the named chaos token is revealed during this skill test…” on Recall 
+the Future (  158)—will trigger if any of the resolved chaos tokens meet 
+the specified conditions. Such an effect will not trigger twice if two of the 
+designated tokens are resolved.
+Note that this entry only applies when multiple chaos tokens are “resolved.” 
+If multiple chaos tokens are revealed and all but 1 of them are canceled or 
+ignored, this entry does not apply.
+(2.6) Replacing an Opening Hand  
+If an ability replaces an investigator’s opening hand with a different set 
+of cards, that set of cards is considered to be their new opening hand for 
+the purposes of effects which would alter the number of cards in their 
+opening hand.
+If an ability replaces an investigator’s opening hand with a number of cards 
+“kept” from a larger set of cards, an effect which alters the number of cards 
+in that investigator’s opening hand alters both the cards originally drawn 
+to replace that opening hand, and the number of cards “kept” from that 
+larger set.
+For example, the ability on Sefina Rousseau (  3) reads: “When you would 
+draw your opening hand: Draw 13 cards, instead. Choose up to 5 events to place 
+beneath this card and keep 8 cards as your opening hand. Discard the rest.” If a 
+card effect or game effect alters the number of cards in Sefina’s opening hand, it 
+would alter both the number of cards drawn from her ability and the number of 
+cards she keeps as her opening hand.
+(2.7) Taking Control of Set-Aside Cards  
+If an effect instructs an investigator to take control of a card that is currently 
+set-aside, that effect puts that card into play in that investigator’s play area.
+(2.8) Counting Resources  
+If an ability refers to the number of “resources you have,” “your resources,” 
+or any variation on the above, it is only referring to the number of resources 
+in that investigator’s resource pool. Resources on other cards that 
+investigator controls do not count toward this total unless explicitly stated.
+(2.9) Automatic Success/Failure, expanded  
+Some card effects make an investigator automatically succeed or 
+automatically fail a skill test. If this occurs, depending on the timing of such 
+an effect, certain steps of the skill test may be skipped in their entirety.
+ = If it is known that an investigator automatically succeeds or fails at 
+a skill test before Step 3 (“Reveal chaos token”) occurs, that step is 
+skipped, along with Step 4. No chaos token(s) are revealed from the 
+chaos bag, and the investigator immediately moves to Step 5. All 
+other steps of the skill test resolve as normal.
+ = If a chaos token effect causes an investigator to automatically succeed 
+or fail at a skill test, continue with Steps 3 and 4, as normal.
+ = If an ability “automatically evades” 1 or more enemies, this is not the 
+same as automatically succeeding at an evasion attempt. As per the 
+entry on “Evade” in the Rules Reference, if an ability automatically 
+evades 1 or more enemies, no skill test is made for the evasion 
+attempt whatsoever. Consequentially, because no skill test is made, 
+it is not considered a “successful” evasion. The investigator simply 
+follows the steps for evading an enemy (exhausting it and breaking 
+its engagement).
+For example: Patrice uses the ability on Hope (  31), which reads:  
+“ If Hope is ready, exhaust or discard him: Evade. Attempt to evade with a 
+base  value of 5. (If you discarded Hope, this test is automatically successful.)” 
+If Patrice chooses to discard Hope, the skill test automatically succeeds before 
+chaos tokens are revealed; therefore Steps 3 and 4 of the skill test are skipped. 
+However, the skill test still takes place. Cards may still be committed to the test, 
+and the investigator’s total modified skill value is still determined, as it may have 
+some bearing on other card abilities. However, if Patrice instead uses the ability 
+on Stray Cat (  76), which reads: “ Discard Stray Cat: Automatically 
+evade a non- Elite enemy at your location,” no skill test is made whatsoever.
+(2.10) “As if…” 
+Some card effects allow an investigator to resolve an ability or perform 
+an action as if a certain aspect of the game state were altered, using the 
+text “as if…” to indicate the difference. The indicated ability or action is 
+resolved with the altered game state in mind, but the actual game state 
+remains unchanged.
+ = The game state is considered to be altered throughout the duration 
+of the indicated ability or action, from its initiation (including the 
+paying of its costs, attacks of opportunity, etc) through the resolution 
+of each aspect of its effect, and up until its completion.
+ = Other card abilities or game effects resolved during this duration are 
+also resolved with the altered game state in mind.
+ = The game state is not physically altered in any way. (e.g. if you are 
+considered to be at a location, you do not move your mini-card to that 
+location, enemies at that location do not automatically move to your 
+threat area, etc.)
+For example: Luke Robinson (  4) wants to play Preposterous Sketches  
+(  186), but is at a location with no clues. One of the locations next to him 
+has a clue on it, so he uses his ability to play Preposterous Sketches as if he were 
+at that location and engaged with each enemy at that location. The game state 
+is considered to be altered in this way throughout the playing of Preposterous 
+Sketches, from its initiation to its resolution. Among other things, this might 
+mean: (a) if there is an enemy at that location, playing Preposterous Sketches 
+would provoke an attack of opportunity, (b) if that location has an ability 
+that would alter the cost of playing the card, it would do so, and (c) other card 
+abilities that might trigger from Luke drawing 1 or more cards would do so as if 
+he were at that connecting location and engaged with that enemy, and so on and 
+so forth. Once Preposterous Sketches has finished resolving and is placed in the 
+discard pile, Luke is no longer considered to be at that location and engaged with 
+each enemy at that location.
+===== page 14 =====
+14
+FREQUENTLY ASKED QUESTIONS
+(2.11) “ …unless all of (location’s) clues have been discovered.” 
+Some locations have abilities that prevent you from entering or using 
+a particular ability unless all of the clues have been discovered from a 
+particular location; for example, the Engine Car (  175–177). W hen 
+interpreting such an ability, if the location is unrevealed (and therefore has 
+no clues on it), this does not satisfy the ability; it must have been revealed at 
+some point.
+(2.12) Interpreting “You” When Taking or Being Dealt Damage  
+When an ability refers to “you” in response to taking damage or being dealt 
+damage, it also includes any assets you control. 
+For example: The  ability on Survival Knife (  17) triggers “after an enemy 
+attack deals damage to you during the enemy phase.” This ability triggers even 
+if the damage from that attack is assigned to one or more of your assets, and not 
+your investigator card. However, if all of the damage from that attack is assigned 
+to another investigator or their assets (through the use of a card effect that allows 
+them to do so), then no damage has been dealt to you.
+(2.13) “Looking at,” “Searching,” & “Finding”  
+These three terms all involve sifting through out-of-play cards (typically an 
+investigator’s deck or the encounter deck), but do not count as one another 
+for the purposes of other card effects. For example, if an investigator “looks 
+at” the top 3 cards of their deck, this is not a search effect. Additionally, while 
+“finding” a card does typically involve searching through out-of-play areas, this is 
+also not considered to be a search effect.
+(2.14) “Draw” vs “Add to hand”  
+If a card explicitly adds a card to an investigator’s hand without using the 
+word “draw,” it does not count as “drawing” a card for the purposes of other 
+card effects. (Note that some abilities such as relevation abilities on weaknesses 
+and Dilemma  cards trigger regardless of whether the card is “drawn” or “added” 
+to your hand.)
+(2.15) “Encounter cards” vs “Scenario cards”  
+These two terms are used interchangeably to mean any non-player card used 
+in a scenario, such as the contents of the encounter deck, locations, acts, 
+agendas, the scenario reference card, etc.
+(2.16) “Farthest from all investigators”  
+Some card effects instruct investigators to put a card into play at the location 
+farthest from all investigators. This is determined by finding the location with 
+the highest combined distance from each investigator (with no investigators 
+at it, if able). In the event of a tie, as usual, the lead investigator decides.
+For example: Location A is 5 connections away from investigator A and 
+1 connection away from investigator B. Location B is 3 connections away 
+from investigator A and 4 connections away from investigator B. Location B 
+is therefore the farthest from both investigators, because the total distance for 
+each investigator to get to location B is higher than location A. (This is true even 
+though location A is farther from investigator A.)
+(2.17) “Different” 
+Some card abilities refer to “different” cards. Different cards are cards with 
+different titles (excluding subtitles). (e.g. two copies of Ward of Protection are 
+not considered to be “different,” even if they have different levels.)
+Some card abilities refer to “different” actions or “different” abilities. An 
+ability or action is different from another ability/action if the two are 
+non-identical abilities, separate abilities on the same card, or abilities on 
+two different cards. (e.g. the two separate fight abilities on Sledgehammer are 
+different from one another, however identical fight abilities on two copies of 
+Machete are not different from one another, nor are two basic fight actions).
+ Æ The exception to this rule is locations. Separate location cards are, 
+by their very nature, not the same location. Therefore, multiple 
+copies of locations with the same title are still considered to be 
+different locations.
+(2.18) “ …only as your first action” 
+If a card can only be played or its ability only triggered as your “first action,” 
+it must spend one of your actions, and that action must be the first one you 
+have taken during your turn. If it is fast, a free triggered ability, ignores 
+its action cost, or takes place outside of your turn, it cannot be played or 
+triggered.
+(2.19) “Take an action” vs “Perform/resolve an action”  
+Some effects allow an investigator to “take” an action, usually of a certain 
+type—for example, the ability on Ursula Downs (  2) or Haste (  239). 
+If an effect allows an investigator to take an action, they effectively gain an 
+action and then immediately spend it in order to take the action in question, 
+meaning it follows all of the rules taking an action might normally follow: it 
+may provoke attacks of opportunity, it counts as an action for the purposes 
+of cards that count how many actions you have taken, etc.
+
+===== page 15 =====
+15
+FREQUENTLY ASKED QUESTIONS
+Some other effects, such as Quickdraw Holster (  89), allow an 
+investigator to “perform” or “resolve” an action. Such effects typically 
+specify that they ignore that action’s  cost. In this case, no action has 
+been gained or spent, and the action is resolved as specified.
+(2.20) The Silver Rule  
+If the text of two cards directly contradict one another in a way that is 
+impossible to reconcile, the encounter card takes precedence over the player 
+card. If both cards are encounter cards or both are player cards, the lead 
+investigator may decide which takes precedence.
+(2.21) Treachery Subtitles  
+Treachery cards do not have a header for their subtitle. If the title of a 
+treachery card contains 1 or more words in parentheses, that is considered 
+to be its subtitle. Other cards with the same title and a different subtitle are 
+still considered to be copies of one another. e.g. Restless Journey (Fallacy) and 
+Restless Journey (Hardship) are both copies of Restless Journey.
+(2.22) Diana Stanley  
+Diana Stanley’s ability typically interacts with events in limbo or other 
+cards that may or may not be in play. As such, Diana Stanley’s ability can be 
+triggered even if that card is currently in limbo or in the discard pile.
+(2.23) “For each” or “for every”  
+Some card effects instruct an investigator to perform an effect multiple 
+times for each instance of a particular condition (e.g. “for each horror on 
+you,” or “for each card in your hand”). If such an effect can be calculated 
+and resolved simultaneously, it should be resolved (and may be canceled, 
+ignored, or prevented) as a single cumulative effect. If it cannot be resolved 
+simultaneously (for example, if it has multiple steps, a choice, or other 
+dependencies), each instance should be resolved as a separate effect (and 
+must be canceled, ignored, or prevented independently of each other effect).
+For example: A treachery card instructs you to “take 1 horror for each point you 
+fail by.” Since you can calculate how many points you fail by and resolve the dealt 
+horror simultaneously, it should be resolved as a single instance of horror.
+A different treachery card instructs you: “For each point you fail by, you must 
+either lose 1 action or take 1 horror.” This treachery must be resolved as separate 
+effects; each point failed by requires you to make a choice, whether that choice is 
+to lose an action or to take a horror. Each instance must be resolved separately, 
+even if the resulting outcome only causes you to take horror.
+(2.24) “Ignoring all costs”  
+Some cards like Knowledge is Power (  231) or Word of Woe (  12) 
+allow an investigator to play a card or activate an ability on an asset, 
+“ignoring all costs.” These effects only ignore the costs of initiating an 
+ability. They do not ignore additional costs that must be paid when resolving 
+that ability—in other words, anything “before the colon” is ignored, but any 
+additional costs “after the colon” must be paid as normal.
+For example, if an investigator uses Knowledge is Power to activate the  
+ability on Old Book of Lore (  279), Knowledge is Power allows you to ignore 
+the action cost and exhausting of Old Book of Lore to activate its ability and 
+search your deck for a card, but does not waive the additional cost to spend a 
+secret to play that card. Likewise, playing Word of Woe waives the action cost to 
+activate the ability on Earthly Serenity (  117), but does not waive the cost to 
+spend charges to heal an investigator at your location.
+(2.25) Revelation Ability Priority  
+If an investigator has both a Dilemma  card and a weakness and/or 
+encounter card in their hand, the weakness and/or encounter card must be 
+resolved first. If a Dilemma  card is drawn while resolving a skill test, resolve 
+the skill test in full before resolving the Dilemma ’s Revelation  effect.
+Frequently Asked Questions
+This section provides answers to a number of common questions that are 
+asked about the game. The entries are presented in a question and answer 
+format, with the newest questions at the end of the list.
+Q: Can I investigate a location with no clues on it? If I do, what happens?
+A: Yes. You can investigate a location even if there are no clues on it. However, 
+you won’t be able to discover any clues there, because there are no clues on the 
+location to discover. Investigating a location with no clues might still be useful 
+to trigger card abilities such as Burglary (  45) or Scavenging (  73).
+Q: Are clues on Cover Up (  7) considered to be “at my location” for the 
+purposes of Roland’s  ability? 
+A: No. Generally speaking, cards (such as investigators, assets under your 
+control, enemies in your threat area, etc) are “at” a location. Clues are 
+only “at” a location if they are physically on that location (“Clues,” Rules 
+Reference, page 7).
+Q: Is there any difference between “at a location” and “in a location?”
+A: No. Both terms have the same meaning and are used interchangeably.
+Q: If I play an event with a Fight ability, like Backstab (  51), does it provoke 
+attacks of opportunity?
+A: No. Abilities with a bold action designator (like Fight, Evade or 
+Investigate) count as an action of that type. In this case, since Backstab 
+counts as a Fight action, no attacks of opportunity are made, because Fight 
+actions do not provoke attacks of opportunity. The same goes for Fight 
+abilities on assets, like .45 Automatic (  16).
+Q: If I use an  ability or play an event with a bold action type (like Fight, 
+Evade, or Investigate), do I need to spend one action to use the ability and 
+another action to initiate the action listed? Or just one action?
+A: Paying the cost of the ability is enough to initiate the action designated. 
+There is no need to spend an additional action.
+Q: Can I trigger the  abilities on two copies of .45 Automatic (  16) for 
++2  and +2 damage?
+A: No. Each  ability is a separate action that must be resolved in full 
+before you have the opportunity to take another action.
+Q: Can I trigger the ability  on cards like Physical Training (  17) more 
+than once per skill test?
+A: Yes. Unless the ability has a printed limitation on it, you may use it as 
+often as you like, provided you are able to pay the ability’s cost each time.
+Q: If there are clues or cards at an unrevealed location, and then that location is 
+revealed, what happens to those clues/cards?
+A: Any clues or cards at an unrevealed location remain where they are 
+when the location is revealed. This includes clues physically placed on 
+the location, enemies or assets at that location, and cards attached to that 
+location. Clues that are placed on the newly revealed location from its clue 
+value are simply added to the clues that were already on that location when 
+it was revealed.
+Q: If a card effect says to heal damage or horror but does not indicate from 
+where, can I use it to heal assets or investigators other than myself?
+===== page 16 =====
+16
+FREQUENTLY ASKED QUESTIONS
+A: No. “Heal X damage/horror” is shorthand for “Heal X damage/
+horror from your investigator.” If a card simply reads “Heal X horror” or 
+“Heal X damage,” you can only use it to heal horror or damage from your 
+investigator. Cards that allow you to heal other investigators or assets will 
+specify that.
+Q: Who gets the effects/benefits of a skill card committed to another 
+investigator’s skill test? If I commit Overpower (  91) to another investigator’s 
+skill test, do I get to draw 1 card, or does the investigator performing the skill test 
+get to draw 1 card?
+A: Generally speaking, the player who committed the skill card gets the 
+effects of any ability on that skill card. In your example, you would draw 
+the 1 card, not the investigator performing the skill test. However, if a skill 
+card changes or adds to the results of the skill test itself, the investigator 
+performing the test receives the benefit of that ability. For example, if you 
+committed Deduction (  39) to another investigator’s skill test, that 
+investigator would be discovering the additional clue, not you, because you 
+are altering the effects of their skill test.
+Q: When I use the ability on Stray Cat (  76), can I choose any enemy at my 
+location, even if they are engaged with other investigators?
+A: Yes. When you perform a standard evade action, you may only attempt to 
+evade enemies engaged with you. However, card effects (such as Stray Cat 
+or Cunning Distraction (  78) may alter or supplant this limitation.
+Q: When I attack using Shrivelling (  60) and reveal a , , , , or  
+symbol, when do I take 1 horror? 
+A: You would take 1 horror immediately as you reveal the symbol, during 
+“ST.3 Reveal chaos token” (“Skill Test Timing,” Rules Reference, page 
+26). If you had any reactions to taking that horror (such as Agnes Baker’s 
+ability), you would trigger it then, before resolving the rest of the attack.
+Q: If I automatically fail a test (from revealing a  symbol, for example), I 
+treat my skill value as if it were 0. If the difficulty of the test is 0, does that mean I 
+succeed?
+A: No. No matter what, if you automatically fail a test, you have failed the 
+test, regardless of how your skill value and the difficulty compare.
+Q: How does “searching the collection” for a random basic weakness work? Do I 
+use the same pool of weaknesses I used during deck construction? Or do I search 
+through all of my weaknesses?
+A: Anytime players are instructed to search for a random basic 
+weakness—be it during deck construction, during a scenario’s setup or 
+resolution, or during a scenario itself—players should use the same pool 
+of weaknesses, which is constructed using all of the basic weaknesses from 
+only 1 copy of each product they own. If each investigator has their own 
+collection of cards, they should each use their own pool of weaknesses 
+constructed in the same manner, so as to avoid players’ cards getting mixed 
+together accidentally.
+For example: Damon and Kelsy have each constructed decks using 
+Damon’s collection, which consists of 2 copies of the Core Set. During deck 
+construction, they each included 1 random basic weakness from a pool of 
+weaknesses consisting of only the 10 weaknesses in a single copy of the Core 
+Set. This leaves a pool of 8 weaknesses remaining. If they are later instructed 
+to each search the collection for a random basic weakness, these weaknesses 
+would be taken from that remaining pool of 8 weaknesses.
+Q: I have committed Double or Nothing (  26) and Perception (  90) to a 
+skill test during an investigation, and I also have Dr. Milan Christopher (  33) 
+in play. If I succeed, which effects are resolved twice?
+A: The effects of a successful skill test are applied during step 7, and Double 
+or Nothing causes each of these affects to be resolved twice. Dr. Milan 
+Christopher’s ability is a reaction to succeeding at a skill test, and therefore 
+is triggered and resolved during step 6, after success is determined. During 
+step 7, the game result of the investigation (discovering 1 clue), and the “if 
+this test is successful” result of Perception are both resolved twice due to 
+Double or Nothing’s effect.
+Q: Can Terror from Beyond (  101) cause weaknesses to be discarded from an 
+investigator’s hand?
+A: Terror from Beyond can cause weaknesses to be discarded, even if you 
+are the one making the choice. Terror from Beyond instructs an investigator 
+to choose a card type, and then all investigators are obligated to discard all 
+cards of the chosen card type. In this case, you aren’t optionally choosing 
+to discard 1 or more cards; you are selecting a category of cards to be 
+discarded, and the discard is mandatory.
+Q: Can I play Ward of Protection (level 5) (  307) to cancel and discard an 
+enemy on the reverse side of an act or agenda? And if so, where does it go?
+A: You cannot. When you flip to the b-side of an act or agenda and it is an 
+encounter cardtype (typically a treachery, enemy or location), you should 
+follow the rules for drawing that encounter card solely for the purposes 
+of figuring out how that card enters play and for resolving any appropriate 
+revelation effects . You should not be able to trigger effects based on having 
+“drawn” that card, as it was not actually drawn, and it is not clear who is 
+doing the drawing in such an event.
+Q: If I use Duke (  14) to move into a location that causes my turn to 
+“immediately end” in the middle of resolving Duke’s ability, does the ability 
+continue resolving?
+A: Yes. If during the resolution of an ability, your turn ends (“immediately” 
+or otherwise), you will still resolve the remainder of that ability. The rest of 
+that ability is not canceled. Note, however, that any “until the end of your 
+turn” effects would still expire at this time, since your turn has ended, but 
+you’ll still continue to play out the remainder of Duke’s ability.
+Q: What consistitutes a “skill test on a Spell card” for the purposes of cards like 
+Spirit Athame (  35) and Grounded (  113)?
+A: A “skill test on a card” is any ability that directly prompts a skill test, 
+either through the template “test skill (X),” or by initiating an action that is, 
+in itself, a skill test (for example, any card with Fight, Evade, or Investigate  
+action designators).
+Q: Can a location with no valid path to my location be the “nearest” or 
+“ farthest” location from my location?
+A: Yes, but only if there are no other eligible locations with a vaild path to 
+your location. If there are other locations with a valid path to your location, 
+the nearest or farthest of those must qualify as the “nearest” or “farthest” to 
+your location.
+Q: If an enemy is in a location with no valid path to your location, can it still be 
+the “nearest” enemy purposes of cards like Mysterious Chanting (  171) or 
+Dance of the Yellow King (  97)?
+A: Even if it has no valid path to an investigator, an enemy can still qualify 
+as the “nearest” enemy if there are no other enemies in play that are nearer. 
+That said, an effect that require an enemy to track a path to an investigator 
+(such as Dance of the Yellow King) would not cause an enemy to move if 
+there is no valid path.
+Q: How does Time Warp (  311) interact with cards being returned to decks?
+A: To the extent that cards can be returned to the same state they were in 
+before, they should be. For example, if you used Scrying (  61) to reorder 
+the top 3 cards of the encounter deck, and then an investigator played Time 
+===== page 17 =====
+17
+FREQUENTLY ASKED QUESTIONS
+Warp, you should go back and reorder those 3 cards to their original order. 
+Likewise, if you drew 1 card and then played Time Warp, the card you drew 
+should be returned to the top of your deck. If you are unable to return the 
+game state to exactly the way it was before the action was performed, the 
+effect fails.
+However, if a deck was searched and/or shuffled, there’s no way of knowing 
+the exact order of the cards as they were beforehand, so keeping the deck 
+shuffled is fine. You still don’t know the order of the cards in the deck, so the 
+game state is effectively the same. For example, let’s say you used No Stone 
+Unturned (  26) to search your deck for a card, draw it, and shuffle your 
+deck. In this case, if an investigator played Time Warp, it is fine to simply 
+shuffle the card you searched for back into your deck. As far as the game 
+state is concerned, your deck is in the same state it was before No Stone 
+Unturned was played.
+Q: What happens if a skill test both automatically succeeds and automatically 
+fails simultaneously?
+A: If a skill test both automatically succeeds and automatically fails, the 
+automatic failure takes precedence, and the test automatically fails.
+Q: If I purchase a permanent card for my deck, like Charon’s Obol (  308), can 
+I later remove it from my deck?
+A: Not unless an effect explicitly allows you to do so. Generally cards are 
+only removed from your deck if you purchase a new card and must swap out 
+an existing card in order to reach your investigator’s deck size. However, 
+since Permanent cards do not count towards your deck size, they cannot be 
+swapped out in this way. There is no rule which allows you to remove cards 
+from your deck at will.
+Q: If I use the ability on Archaic Glyphs (Prophecy Foretold) (  193) to 
+“automatically evade an engaged enemy,” does that mean an enemy engaged with 
+me, or an enemy engaged with any investigator?
+A: By default, an “engaged enemy” is an enemy currently engaged with you. If 
+a card allows you to interact with any enemy engaged with an investigator, it 
+will specify that.
+Q: If I am playing as Carolyn Fern (  1) and succeed on the skill test for Liquid 
+Courage (  24), can I trigger Carolyn’s  ability twice, or only once?
+A: Only once. The word “additional” in the second healing effect denotes 
+that the two points of healing should be lumped together into one healing 
+effect, not treated as two separate instances of 1 healing each.
+Q: Can I use two cards that replace 1 revealed chaos token with multiple tokens, 
+like Olive McBride (  197) and Grotesque Statue (  71), on the same skill 
+test?
+A: Yes, you can. When you use multiple effects that replace “revealing a 
+chaos token” with something, else, you must first declare your intention 
+so you are reacting to what you draw from the bag, because each of these 
+effects are meant to be triggered before you draw tokens from the bag.
+If you declare you’re going to trigger Olive’s ability first, you should then 
+declare which of the 3 tokens you’re about to reveal from Olive’s ability will 
+be turned into 2 tokens from the statue (For example, “I’m going to reveal 
+3 tokens using Olive, and for the first token, I’m going to reveal 2 instead of 
+1 using my statue). Then you’ll ignore one of the 2 statue tokens, and be left 
+with 3 total tokens, which you’ll then ignore 1 of. (All of these tokens are 
+considered to be revealed simultaneously, so you are not allowed to reveal the 
+first 2 tokens with Olive, and then decide whether or not to use the statue).
+If you instead trigger the statue’s ability first, you would do the same thing, 
+declaring your intent. (For example, “I’m going to reveal 2 tokens using my 
+statue, but for the second token, I’m going to use Olive’s ability to reveal 3 
+instead of 1”.) Then you would choose between resolving the first token or the 
+3 Olive tokens. (Here this may seem a little strange, because Grotesque Statue 
+says “Choose 1 of those tokens to resolve, and ignore the other,” which implies 
+that you only get to resolve 1 token and ignore 1 token, but for the purposes 
+of resolving these types of effects, the 3 tokens revealed from Olive’s ability 
+should be treated as 1 revealed token.) If you decide to resolve the 3 Olive 
+tokens you would then choose 2 to resolve and resolve the other, as usual.
+Q: When I swap Dark Pact (  38) out of my deck for The Price of Failure (
+ 39), does Dark Pact return to the pool of available basic weaknesses?
+A: Dark Pact is returned to your collection, but should not be returned to the 
+pool of available weaknesses when it is swapped out — this ensures that you 
+can always swap between Dark Pact and The Price of Failure without it being 
+unavailable later. Same goes for Doomed (  40) if it is swapped out.
+Q: Does the ability on Ursula Down (  2) allow me to take an investigate  
+action on an asset or event card?
+A: Yes. Ursula’s reaction allows you to take any investigate action, including 
+those performed via the activate action or via the play action.
+Q: Does the investigate action taken via the ability on Ursula Down (  2) 
+provoke attacks of opportunity?
+A: Yes. If an ability allows you to “take an action,” it is as though you are 
+gaining an action and immediately spending it to perform that action. This 
+is different from reaction or free triggered abilities that simply perform the 
+effects of an action directly, such as the reaction on Survival Knife (  17).
+Q: Can I use “Let me handle this!” (  22) or “You handle this one!” (  28) on 
+a weakness?
+A: No. Both of these cards are played after you or another investigator 
+draw a non-peril encounter card, but before resolving that card’s effects. 
+Weaknesses with an encounter cardtype (such as enemies or treacheries) 
+are considered to be encounter cards while they are being resolved and once 
+they have entered play, but are not considered to be encounter cards yet at 
+the time that these cards are played. Therefore, at the time these cards would 
+be played, they are still player cards and are not legal targets.
+Q: Do enemies exhaust after making attacks of opportunity, retaliate attacks, or 
+other attacks (via card effects)?
+A: No. Enemies only exhaust after attacking if they perform an attack during 
+step 3.3 of the enemy phase. Unless otherwise noted, all other enemy attacks 
+do not cause that enemy to exhaust.
+Q: If an ability refers to “your cards,” is it referring to cards you control, or cards 
+you own? For example, does the ability on Carolyn Fern  (  1) only work if a 
+card I control heals horror, or does it work if a card I own but do not control heals 
+horror?
+A: In general, “your cards” are the cards you currently control. If you own a 
+card but do not control it, it is not “yours” for the purposes of abilities.
+Q: Can I use the  ability on Track Shoes  (  36) after moving to a location 
+with no enemies?
+A: Yes. The “before enemies engage you” part of the ability is just referring to 
+the timing point at which enemies would engage you; it is not specifying that 
+there must be an enemy there in order to trigger the ability.
+Q: Does Patrice Hathaway’s (  5) card draw during the upkeep phase occur 
+all at once, or one at a time? What happens if I draw a weakness, like Amnesia (
+ 96)? 
+A: Anytime you draw one or more cards, the card draw occurs 
+simultaneously unless the effect uses the phrase “one at a time.” Then, once 
+all of the cards have been drawn, you must resolve all Revelation  abilities on 
+those cards (in an order of your choosing).
+===== page 18 =====
+18
+FREQUENTLY ASKED QUESTIONS
+Q: Can Patrice Hathaway’s (  5) ability cause her to discard hidden encounter 
+cards from her hand? 
+A: No. Hidden cards cannot be discarded from hand by any means except 
+for those described on the card.
+Q: If a card has 0 cost or no cost, is its cost even or odd?
+A: Zero is an even number, so cards with 0 cost have an even cost. Skill cards 
+and cards with a “–” cost do not have a cost at all, so their cost is neither even 
+nor odd.
+Q: Can tokens (like Tony Morgan’s bounties) be placed on swarm cards?
+A: Yes. Each swarm card counts as a separate copy of its host card and can 
+have its own tokens on it.
+Q: For Mandy Thompson’s (  2) reaction, what does it mean to “resolve 
+1 additional target of the search?”
+A: Search effects typically instruct you to resolve an effect using the card(s) 
+targeted by the search. For example, if you used an effect to “search the top 
+3 cards of your deck for a card and draw it,” drawing the searched-for card 
+would be resolving the target of the search. If you used Mandy’s reaction 
+here, you could either search the top 6 cards of your deck for a card and draw 
+it, or search the top 3 cards of your deck for 2 cards and draw them both. 
+(You must decide which before initiating the search.)
+Q: Can I play a card with a cost of “–”?
+A: No. Cards with a cost of “–” have no cost that can be paid, and therefore 
+cannot be played. For example, if Pendant of the Queen (  22) is discarded 
+from play and then shuffled back into your deck and drawn, you would be 
+unable to play it from hand. (Cards that put it directly into play bypassing its 
+cost would be able to put it into play, however.)
+Cards with a cost of “–” that are played as a copy of a different card, such 
+as Eidetic Memory (  306), use the resource cost of the copied card, and 
+therefore bypass this restriction.
+Q: Do  and  tokens have a modifier or value if they are revealed outside of a 
+skill test?
+A: No.  and  tokens revealed outside of a skill test have no modifier 
+or value.
+Q: If adding a certain number of  or  tokens to the chaos bag is part of an 
+ability’s effect, and there are not enough  or  tokens remaining to fulfill that 
+effect, what happens?
+A: You perform as much of the ability as you can, adding  or  tokens 
+until there are none left to add.
+Q: If adding a certain number of  or  tokens to the chaos bag is part of a 
+card/ability’s cost, and there are not enough  or  tokens remaining to fulfill 
+that cost, what happens?
+A: If the cost cannot be paid, the card/ability therefore cannot be  
+played/triggered.
+Q: What happens if the card beneath Amanda Sharpe would enter a different 
+play area while it is committed to a skill test?
+A: It still enters that play area—it only remains beneath Amanda if it would 
+otherwise be discarded (such as at the end of the skill test).
+Q: If a card such as Cheap Shot (  23) is returned to my hand, what areas am 
+I allowed to retrieve it from? If it is shuffled into my deck, can I still return it to 
+my hand?
+A: In general, unless otherwise specified, players can “return” such a card 
+from any play area, so long as it is in an area that allows the card to be found 
+and identified. For example, if Cheap Shot is in the discard pile or attached 
+to another card (such as a Crystallizer of Dreams (  24) and you are able 
+to find it, you may return it to your hand from that area. However, if it is in a 
+place where its position is impossible to determine (such as shuffled into your 
+deck) or facedown in a place where you are not allowed to look at its other 
+side (for example, as a swarm card), you would be unable to return it to your 
+hand, and therefore that aspect of the effect would fail.
+Additionally, if Cheap Shot is removed from the game, unless specifically 
+stated otherwise, no game effects can interact with it in any way until the 
+end of the game.
+Q: During a campaign, do  and  tokens remain in the chaos bag from 
+scenario to scenario?
+A: No,  and  tokens do not carry over from scenario to scenario.
+Q: If I use Grisly Totem (  119) after committing the card beneath Amanda 
+Sharpe (  2), how long does its bonus icon stay for?
+A: The bonus icon granted by Grisly Totem does not specify a duration, 
+so this effect should remain until the committed card leaves play. The real 
+question is: when does the committed card enter or leave play?
+Generally speaking, cards placed beneath other cards (such as the card 
+beneath Amanda Sharpe) are out of play. Cards committed to tests never 
+really “enter play,” but while they are committed to a test, their icons are 
+added to the investigator’s relevant skill and their text is active. So, while 
+the card beneath Amanda is committed to a test, its icons and text should be 
+alterable by game effects (as if you had committed it from your hand), just 
+like any other in-play card. But as soon as that test ends, it returns to its out-
+of-play state, and any lasting effects would drop.
+TL;DR: The bonus icon granted by Grisly Totem would only apply for the 
+test during which Grisly Totem is used, after which the card returns to its 
+out-of-play state, and the bonus icon would drop. 
+Q: If a swarming enemy engages Zoey Samaras, can she trigger her  ability 
+once for each enemy in total, or only once for the entire swarm?
+A: Although swarming enemies move and engage together as a single entity, 
+each swarm card is its own separate enemy. If a swarming enemy engages 
+Zoey, each of its swarm cards are also enemies that have engaged Zoey. 
+Therefore, she may trigger her  ability once for each of them.
+Q: Can I look at facedown cards beneath or attached to other cards I control? If I 
+use the  ability on Ancestral Knowledge (  303) to draw one of the cards 
+attached to it, am I allowed to know what each card is, or is it random?
+A: Unless an effect states otherwise, investigators are allowed to look at the 
+other sides of facedown cards beneath or attached to cards they control, 
+such as Ancestral Knowledge, Backpack (  37), and Diana Stanley (  4). 
+If you are given the ability to draw, play, or interact with one of those cards, 
+you may look at them to know which one you wish to draw or play.
+This is not true for facedown cards that are attached to encounter cards or 
+placed facedown via a scenario effect, such as swarm cards, empty space, 
+or tomes beneath locations in the challenge scenario Read or Die. In 
+these instances, players cannot look at the other side of those cards unless 
+instructed otherwise.
+===== page 19 =====
+19
+FREQUENTLY ASKED QUESTIONS
+Q: As Lola Hayes (  6), what role do I switch to if I resolve Crisis of Identity  
+(  19) and the discarded card is a multi-class card? What happens if my deck 
+is empty and no card is discarded?
+A: If the discarded card is a multi-class card, you may choose which of those 
+classes to switch your role to. If no card is discarded, your role stays the 
+same and is not switched.
+Q: If I have Forced Learning (  31) and I draw a weakness during my 
+upkeep phase, can I choose to discard it? What happens if both cards I draw 
+are weaknesses?
+A: Weaknesses cannot be chosen to be discarded from your hand. If you 
+draw 1 weakness and 1 non-weakness card, you must choose to discard 
+the non-weakness card, then resolve the weakness as normal. If you draw 
+2 weaknesses, you cannot discard either one, and must resolve both of them.
+Q: If I use First Watch (  110) to deal encounter cards to investigators, are 
+those dealt cards considered to be in the encounter deck for the purposes of other 
+card effects, such as On the Hunt (  263)?
+A: Cards dealt to investigators by First Watch are no longer in the encounter 
+deck, nor are they yet in play or in the encounter discard pile. That said, all 
+cards dealt via First Watch must be drawn and/or dealt with before moving 
+on to the next phase, so using On the Hunt in this manner would not avoid it.
+Q: While playing a “Return to” scenario, what do I do if a campaign guide 
+instruction or card ability refers to a card from an encounter set that has been 
+replaced with a new encounter set?
+A: If it is a setup instruction or an instruction to search for that card and 
+put it into play, the investigators should find the matching card from the 
+new encounter set that replaced it and follow the instructions using that 
+card, instead. (If it is unclear which is the matching card, use the encounter 
+numbers to help guide you. For example, Wizard of the Order is card 4/6 of 
+the Dark Cult set; if that set was replaced, the matching card would be card 
+4/6 of the new set.)
+If it is a gameplay effect other than the above, ignore it.
+Q: What happens if I am Entombed and use Ethereal Form and am already 
+engaged with an enemy? One says I cannot disengage from enemies, the other says 
+enemies cannot be engaged with me.
+A: When two cards directly contradict one another in a way that is 
+impossible to reconcile, the text of the encounter card takes precedence. In 
+this case, Entombed would take precedence over Ethereal Form, and the 
+enemy would remain engaged with you (see section 2.20—The Silver Rule ).
+Q: When exactly are bless and curse tokens removed from the chaos bag? Are 
+they still present in the chaos bag during the resolution of a scenario?
+A: Bless and curse tokens should be removed from the chaos bag when the 
+game is cleaned up after the resolution of a scenario. This occurs before 
+moving onto any subsequent story interludes, unless otherwise noted.
+Q: Can I return signature cards to my hand with Shrine of the Moirai (  310)? 
+If so, how many levels do they count as?
+A: Signature cards do not have a level, so they cannot be returned to your 
+hand with Shrine of the Moirai.
+Q: Can Defensive Stance (  24), Survey the Area (  37), Occult Theory (  
+65), or Dauntless Spirit (  78) be committed to tests from beneath Amanda 
+Sharpe (  2)?
+A: No. A card can only be committed to a skill test if it possesses 1 or more 
+skill icons matching the skill being tested. As these cards only possess 
+skill icons while they are in your hand or already committed to a test, they 
+cannot be committed to a test from anywhere else (such as beneath Amanda 
+Sharpe, or directly from your deck using another card effect).
+Q: As Lola Hayes (  6), can I use Lola’s  ability to switch roles in the 
+middle of resolving another ability?
+A: As long as it is during a  player window, yes.
+===== page 20 =====
+20
+FREQUENTLY ASKED QUESTIONS
+Q: Which triggers first: Parallel Agnes’s (  17) ability or Heirloom of 
+Hyberborea (   12 /  18)? What about Crystallizer of Dreams (  24)?
+A: An event card is placed on top of its owner’s discard pile during step 4 
+of the play/initiation sequence, so any effect that modifies where the event 
+goes (such as Parallel Agnes Baker or Crystallizer of Dreams) must occur 
+during that step. An effect that triggers “after you play” an event but does 
+not modify where the event goes (such as Heirloom of Hyberborea’s ability) 
+would naturally trigger just after step 4.
+Q: If I commit Daring (  111) to a skill test as Silas Marsh (  5) and use his 
+ability to return it to my hand, do its effects still resolve?
+A: The lasting effect that grants the enemy retaliate and alert would 
+continue for the duration of the skill test, since it is a lasting effect, and 
+lasting effects persist for the specified duration regardless of whether the 
+card that created the lasting effect is or remains in play. The second aspect 
+of the ability, however, functions like any other ability on a skill card; it 
+may only be used during the resolution of the skill test to which Daring is 
+committed. (It is not a delayed effect.)
+Q: How exactly does the ability on Discipline (Balance of Body)  (  14a) 
+work? Can I use it to trigger a fight ability that requires multiple actions, such 
+as the triple-action ability on Sledgehammer (  96)? If so, does it ignore the 
+additional action cost of that ability?
+A: This ability allows you to “take up to 3 different fight or evade actions.” 
+This effectively grants you (up to) 3 additional actions, which each must be 
+spent to trigger a different fight or evade ability (see section 2.17, “Different;” 
+and section 2.19, “Take an action” vs “Perform/resolve an action”) . One of the 
+3 fight or evade actions taken by Discipline  (Balance of Body) can be a multi-
+action ability, but if so, you must still pay the additional action cost of that 
+ability, and those additional actions would have to come from your standard 
+pool of actions or from a source other than Discipline  (Balance of Body). You 
+cannot use Discipline  (Balance of Body) to use Sledgehammer’s triple-action 
+on its own, nor can you use it to dodge the additional action cost of that 
+ability.
+Q: When I investigate using the upgraded Sixth Sense (  322) and reveal one 
+of the listed symbol tokens, how do I resolve investigating 2 locations? How do I 
+resolve any additional effects that would trigger as a result of investigating the 
+second location?
+A: To investigate 2 locations with the upgraded Sixth Sense, you perform 
+one investigation test, choosing the shroud value of either your current 
+location or the chosen location, and then you apply the results of the test to 
+both locations. Each effect on either location that would trigger during that 
+investigation still triggers, so long as you haven’t passed its initiation point. 
+For example, if you choose Experimental Therapies Ward (  72), you may 
+resolve its triggered ability of taking 1 horror to give it –2 shroud for the 
+investigation. By that same logic, the Forced effect on Grand Chamber  
+(  ) 64 will trigger if you do not succeed the skill test by at least 2.
+Q: Does Read the Signs (  117) allow me to ignore Locked Door (  174) or 
+other effects that would prevent an investigation?
+A:No. Read the Signs only allows you to ignore triggered abilities such as 
+the haunted keyword or forced effects on your location. It cannot ignore 
+constant effects, such as the one on Locked Door.
+Q: What kind of “effects of the failed skill test” does Neither Rain nor Snow  
+(  2) allow you to cancel?
+A: Neither Rain nor Snow may cancel effects that trigger during Steps 6 & 7 
+of a failed skill test. This may include keywords such as alert, retaliate, and 
+haunted, as well as negative effects on the scenario reference card that might 
+trigger as a result of the failed skill test.
+Q: How does the “ for each” or “ for every” ruling (2.23) work with a card that 
+allows me to ignore an effect, such as Deny Existence (  280)?
+A: Deny Existence only allows you to ignore a single effect, such as one 
+instance of horror, or one instance of discarding cards. Whether an effect 
+is a “single cumulative effect” or “separate effects” depends on whether the 
+effect forces the investigator to make a choice. 
+For example, Terrible Secret (  15) must be resolved as “separate effects”, 
+because the investigator is choosing whether to discard or take 1 horror 
+for each card beneath Diana Stanley. Deny Existence can only ignore 
+discarding one card or taking one horror; it cannot ignore all horror or all 
+cards that would be discarded, as these are separate effects.
+Q: When a card such as Grappling Hook (   9) or Sledgehammer (   94) 
+instructs me to perform a different number of actions than the cost of the ability, how 
+do I determine how many actions I have performed for the purposes of card effects?
+A: When resolving an ability, the investigator is considered to have 
+performed as many actions as specified by the effect. For example, 
+Grappling Hook or Discipline  (Balance of Body) (  14a) instruct you to 
+perform 3 different actions. Regardless of the cost paid to initiate the ability, 
+you have performed 3 actions (assuming you took each available action). 
+Conversely, an investigator activating the second ability on Sledgehammer 
+has only performed one action, although they spent two actions to do so.
+Q: If an effect allows you to take or perform multiple consecutive actions, such as 
+with Eon Chart (  100) or Nimble (  17), are there player windows between 
+these actions where I’d be able to play a fast card or resolve a free triggered ability? 
+A: No, there are no player windows between multiple consecutive actions. 
+Q: What does it mean to treat True Magick (  70) as a revealed Spell asset?
+A: When you reveal a Spell asset using True Magick’s ability, True Magick 
+essentially becomes a copy of the revealed asset, including its cost, name, 
+text box, and Traits. Charges on True Magick may be spent while resolving 
+that asset’s abilities. For example, when resolving the ability on Brand of 
+Cthugha (  90), you may spend up to 2 charges from True Magick to deal 
+that much damage for your attack. 
+As True Magick copies the revealed asset’s traits, it may interact with 
+abilities such as the reaction ability on Twila Katherine Price (  24 4) and 
+upgraded Sign Magick  (  8). 
+Q: Can an enemy spawn or move into Dream Gate (  15) while Luke 
+Robinson (  4) is at Dream-Gate?  
+A: Enemies cannot spawn at Dream-Gate. If an enemy would spawn at 
+Luke Robinson’s location while he is at Dream-Gate, it is discarded instead. 
+If Luke Robinson moves into Dream-Gate while engaged with an enemy, 
+that enemy disengages (but does not exhaust) and does not move with him. 
+While at Dream-Gate, Luke Robinson cannot be chosen as an investigator 
+for the purposes of enemy movement.
+Q: If Luke Robinson (  4) has Entombed (  89) in his threat area when the 
+Forced effect on Dream-Gate (Pointless Reality) (  15) triggers, what happens?
+A: While Entombed would prevent Luke Robinson from moving, an 
+investigator cannot be at “no location” unless explicitly stated. When 
+Dream-Gate’s forced effect would move Luke Robinson at the investigation 
+phase, you may ignore the effect on Entombed long enough to place Luke in 
+a revealed location. 
+Q: How does the ability of Soul Sanctification (  123) interact with Second 
+Wind (  149) when I have either 1 or no damage on my investigator?
+A: Soul Sanctification grants you the ability to heal damage or horror in 
+excess of a target’s maximum health or sanity. Normally, you would not be 
+able to play Second Wind when you have no damage on your investigator, 
+but with Soul Sanctification, you can play Second Wind when you have no 
+damage on your investigator to place 2 offerings on Soul Sanctification. 
+(Note: You will still draw 1 card from Second Wind’s effect if you used it to 
+place charges on Soul Sanctification).
+===== page 21 =====
+21
+FREQUENTLY ASKED QUESTIONS
+Q: Does the ability on Double, Double (  320) allow me to replay an event 
+that removes itself from the game such as The Painted World (  24)?
+A: No. While Double, Double’s  ability allows you to replay an event 
+“as if it were in your hand”, it does not allow you to replay an event that has 
+removed itself from the game as part of its effect.
+Q: Can Down the Rabbit Hole (  59) reduce the experience cost to upgrade a 
+customizable card (introduced in The Scarlet Keys Investigator Expansion )?
+A: Yes. Spending experience on a customizable card’s upgrade sheet counts 
+as upgrading that card. You may only use Down the Rabbit Hole’s effect 
+once per customizable card when upgrading between scenarios.
+Q: When purchasing level 0 cards to reach legal deck size, does Down the Rabbit 
+Hole (  59) increase the cost to purchase those cards?
+A: No, when purchasing level 0 cards to reach a legal deck size, those cards 
+cost 0 XP until reaching a legal deck size again, even if the investigator has 
+included Down the Rabbit Hole in their deck. 
+Q: On Your Own (  236) and On Your Own (  10) are the same level, 
+although the latter has the exceptional keyword. Can I upgrade the former into the 
+latter version?
+A: Yes, you can upgrade the version of On Your Own without exceptional 
+into the version with exceptional by spending 3 experience.
+Q: Can I commit Grizzled (  101) when investigating a location that has one of 
+its chosen traits?
+A: Yes. Location cards are considered a type of encounter card, so if a 
+location has one of the chosen traits for Grizzled, you can commit Grizzled 
+to the investigation skill test.
+Q: I’m playing Parallel “Ashcan” Pete (  46) and my Makeshift Trap (  100) 
+in play has the Explosive Device upgrade with no “time” left. Can I use Pete’s 
+ability to return it to my hand and still deal damage?  
+A: No. Using Parallel Pete’s  ability on Makeshift Trap replaces the 
+discarding of Makeshift Trap, meaning its Explosive Device upgrade ability 
+cannot resolve.
+Q: If I activate the  ability on Beguile (  10), will I provoke attacks of 
+opportunity if I choose to investigate?  
+A: No. The  ability on Beguile is one action that is multiple types 
+simultaneously; it always has the “parley” action type in addition to its 
+other types (activate/investigate/evade), so it never triggers attacks of 
+opportunity.  
+Q: If I have a copy of Beguile (  10) attached to an enemy at a different 
+location than me, what happens if I choose to activate Beguile’s  ability to 
+perform an evade action there? 
+A: If you choose to activate Beguile’s  ability and evade, you can choose 
+any enemy at the attached enemy’s location (including the attached enemy 
+itself) and perform an evasion test against that enemy’s evade value. If you 
+succeed, exhaust that enemy and disengage it from all investigators (and if 
+you fail, discard that copy of Beguile per its ability).
+Q: When playing Subject 5U-21/“Suzi” (  1), can I devour permanents, 
+investigator cards, investigator mini-cards, or weaknesses? 
+A: Suzi cannot devour permanents, investigator cards, or investigator mini-
+cards. However, Suzi can devour certain weakness cards, specifically ones 
+that enter play under their bearer’s control and that don’t have any abilities 
+preventing them from leaving play. 
+Q: When playing Subject 5U-21/“Suzi” (  1), can I play Refine (  121) to 
+upgrade customizable cards during a scenario? 
+A: Generally no. By default, Suzi can only upgrade cards from a class via the 
+ability on the back of her investigator card, meaning she can’t use Refine on 
+most cards. The one exception is Hyperphysical Shotcaster (  119); Suzi can 
+use Refine on the Shotcaster because it’s a neutral customizable card.
+Q: What types of abilities can cause me to trigger the  ability on Stylish Coat  
+(  71)? 
+A: The  ability on Stylish Coat can be used when a card effect specifically 
+instructs you to “gain” resources, such as with Salvage (  116). Any other 
+card abilities that “place” resources, such as with .45 Thompson (  186), or 
+“move” resources  from one card to another or from one card to your resource 
+pool, such as the ability on Family Inheritance (  11), do not trigger Stylish 
+Coat’s ability.
+The Dunwich Legacy
+The following questions contain light spoilers for The Dunwich Legacy 
+Campaign Expansion.
+Q: In Blood on the Altar, is the “pile of potential sacrifices”in play or out of play? 
+Are they under any player’s control? What about cards that have been placed 
+underneath the agenda deck?
+A: The “pile of potential sacrifices” (and cards underneath the agenda deck) 
+should be considered to be in play for the purposes of game rules, but these 
+cards are under no player’s control. (Since the cards are facedown, you should 
+try to remember which unique allies were kidnapped and added to the pile of 
+potential sacrifices without having to look at it.) Additionally, the cards in the 
+pile of potential sacrifices and underneath the agenda deck cannot be affected 
+by player card effects or investigator actions. 
+Thus, if a unique asset is Kidnapped! (  220), an investigator cannot play 
+another copy of that asset. Additionally, if a player resigns or is defeated, 
+any cards they own that are in the pile of potential sacrifices or facedown 
+underneath the agenda deck will remain as such.
+Q: After playing Blood on the Altar, what happens if Duke is listed under 
+“Sacrficed to Yog-Sothoth?” Is “Ashcan” Pete still playable without Duke?
+A: If a required card (such as Duke) is permanently removed from your 
+deck, it also removes the requirement of including that card. If for whatever 
+reason Duke cannot be included in “Ashcan” Pete’s deck, that requirement is 
+considered to be removed, and Pete may continue without Duke.
+Of course, since this is a significant handicap, you may also choose to 
+optionally retire Pete and continue using a new investigator at 0 experience.
+The Path to Carcosa
+The following questions contain light spoilers for scenarios in The Path to 
+Carcosa Campaign Expansion.
+Q: In “The Unspeakable Oath”, is the setup instruction regarding which version 
+of Act 2—”The Really Bad Ones” the investigators should use correct? Am I 
+supposed to be able to trigger the parley ability on Daniel Chesterfield ( …Or At 
+Least, What’s Left of Him)?
+A: Yes, it is correct, and no, there is no way to trigger it (in this reality).
+Q: What, if any, are the timing restrictions/implications of saying “Hastur” (for 
+the purposes of taking horror)? Can I say “Hastur” after revealing a chaos token 
+during a skill test to increase my skill value?
+A: Yes. For all intents and purposes, it should be treated as a Forced ability, 
+which means it can create a nested sequence if used during another ability 
+or a skill test, and it does not need to be during a player window in order for 
+it to occur.
+===== page 22 =====
+22
+FREQUENTLY ASKED QUESTIONS
+The Forgotten Age
+The following questions contain light spoilers for scenarios in The Forgotten 
+Age Campaign Expansion.
+Q: What happens if I perform an explore action and I cycle through the entire 
+exploration deck without finding either a treachery card or a location specified by 
+the explore ability?
+A: In such a case, the exploration simply ends. It is neither successful nor 
+unsuccessful. All locations drawn during the exploration should be shuffled 
+back into the exploration deck, and the investigator’s action ends.
+Q: If I am instructed to replay a scenario, do any effects from a previous 
+resolution or interlude that refer to “the next scenario” apply? What about effects 
+from the introduction that refer to “this scenario?”
+A: Yes to both. If the previous resolution or interlude affects “the next 
+scenario,” or if the scenario introduction affects “this scenario,” it should 
+be construed to mean any playthrough of that scenario, including multiple 
+playthroughs if the players are forced to replay it.
+Q: If a resolution or interlude contains effects that refer to “the next scenario,” 
+will these apply to a side-story?
+A: No; these effects refer only to the next scenario in the natural order of 
+the campaign (for example, Scenario II: “The Doom of Eztli” after playing 
+Scenario I: “The Untamed Wilds”). Additionally, for the purposes of these 
+effects, Scenarios V–A and V–B are two separate scenarios.
+Q: Does Charon’s Obol (  308) trigger its effects if a resolution instructs me to 
+replay a scenario? What about in between Scenarios V–A and V–B?
+A: Charon’s Obol’s effects occur “When earning experience during the 
+resolution of a scenario…” Therefore, Charon’s Obol will not trigger when 
+you are instructed to replay a scenario, because such resolutions state that 
+“No experience points are earned from your previous game.”
+However, in between Scenarios V–A and V–B, experience is earned, so 
+Charon’s Obol will indeed trigger, even though players are not allowed to 
+spend those experience points until after they have played Scenario V–B.
+Q: When setting up “The City of Archives”, do I follow Setup instructions or 
+constant abilities on my investigator card, such as Sefina Rosseau (  3) or Lily 
+Chen (  10)?
+A: When setting up The City of Archives, you are instructed to swap your 
+investigator card with a Body of a Yithian card (  244). This swap occurs 
+during Step 10 of Setting Up the Game, as outlined in the Rules Reference. 
+Any investigators with Setup abilities that resolve before Step 10 of Setup 
+should do so, meaning Sefina Rosseau (  3) should choose her 5 events 
+and Lola Hayes (  6) should choose her role before swapping.
+Q: In “The City of Archives,” if I am instructed to use the Body of a Yithian  
+(  244) for the remainder of the campaign, how should I set up my investigator 
+in future scenarios?  
+A: In future scenarios, you must swap your investigator card with a Body 
+of a Yithian card during Step 10 of Setting Up the Game, as outlined in the 
+Rules Reference, just as you would when playing “The City of Archives” 
+scenario (see above).
+The Circle Undone
+The following questions contain light spoilers for T he Circle Undone 
+Campaign Expansion.
+Q: In “The Wages of Sin”, When a location flips from its non- Spectral  side to 
+its Spectral  side (or vice versa), what happens to tokens, attachments, or other 
+cards at that location?
+A: When such a location flips from one side to its other side, the location 
+does not leave play. Therefore, all tokens that were on that location 
+remain on its new side, all attachments remain attached, and all enemies, 
+investigators and assets that were at that location remain as well.
+Q: Do Unfinished Business cards in an investigator’s threat area count as 
+Heretics in play for the purposes of this scenario’s resolution? (i.e. how many 
+heretics were unleashed unto Arkham?)
+A: No. Only Heretics with the Heretic side faceup count. (However, note 
+that Unfinished Business cards in an investigator’s threat area will not count 
+their victory points, either, as normal.)
+Q: In “Before the Black Throne”, when a location is connected via the Cosmos 
+deck or when the placement of a location moves during this scenario, can it be 
+placed in a spot where there is no empty space?
+A: Yes. Empty space serves as a method to judge the distance from one 
+location to another, and as a place for certain enemies to spawn or move 
+through; it is not required that there be an empty space in the spot where 
+the location is placed or moves to.
+The Dream-Eaters
+The following questions contain light spoilers for scenarios in The Dream-
+Eaters campaign.
+Q: What happens if an enemy with the swarming keyword loses swarming or is 
+blanked, such as via Mind Wipe (  68)?
+A: Swarming only resolves when the enemy with the swarming keyword 
+enters play. If it later loses the swarming keyword or its text box is blanked, its 
+swarm cards remain in play and it is still considered a host enemy.
+Q: Can I use a card effect that discards a host enemy without defeating it, such as 
+Close Call (  83)? If so, what happens to its swarm cards?
+A: A host enemy cannot be defeated while it still has swarm cards underneath 
+it, but it can still be discarded or removed through other methods. In such a 
+case, its swarm cards would also leave play.
+
+===== page 23 =====
+23
+FREQUENTLY ASKED QUESTIONS
+The Innsmouth Conspiracy
+The following questions contain light spoilers for scenarios in The Innsmouth 
+Conspiracy campaign.
+Q: Can I trigger a Flashback more than once to gain its game effects 
+multiple times?
+A: No. Generally speaking, unless otherwise noted, interludes and 
+other sections in the campaign guide (such as Flashbacks) are only ever 
+resolved once.
+Q: If an investigator starts their turn at a fully flooded location, enters an 
+unrevealed location with no flood token, and that location becomes flooded “after 
+it is revealed,” does the investigator still “struggle for air?” Or does this count as 
+entering an unflooded location?
+A: Technically the investigator has entered an unflooded location, which then 
+became flooded after it was revealed, so they would not struggle for air.
+Q: What happens if an Underground River (  104) becomes fully flooded while 
+it is unrevealed, and then becomes revealed?
+A: It cannot be fully flooded once it has been revealed, so set it to the nearest 
+state (in this case, partially flooded). Its forced effect fails.
+Q: When can I spend experience to play a side story during The Innsmouth 
+Conspiracy campaign?
+A: You may only spend experience during The Innsmouth Conspiracy 
+campaign when instructed (mostly between certain scenarios). This includes 
+spending experience to play side stories.
+The Scarlet Keys
+The following questions contain light spoilers for scenarios in The Scarlet 
+Keys campaign.
+Q: If I play On the Hunt (  263) or Kicking the Hornet’s Nest (  68) and 
+draw an enemy with the concealed keyword, where does it spawn?  
+A: Both events instruct you to spawn the searched enemy engaged with 
+you instead of its normal spawn location. For enemies with the concealed 
+keyword, their “normal spawn location” is in “the shadows.” So, playing 
+either event allows you to circumvent the concealed keyword and instead 
+spawn the searched enemy engaged with you.
+Q: How many concealed mini-cards can I expose if I resolve an ability with 
+multiple effects, such as Power Word (  81) with its Tonguetwister or Thrice 
+Spoken commands, or Breaking and Entering (  114)?
+A: An ability that contains multiple effects able to expose an enemy can 
+have just one of those effects replaced with the exposure. A concealed mini-
+card may be exposed by successfully attacking it, successfully/automatically 
+evading it, successfully investigating its location, automatically dealing 
+damage to it, or automatically discovering a clue at its location. Any of these 
+effects can be replaced with the exposing of one mini-card, and only one 
+mini-card at a time can be exposed by such an effect. 
+For example, Breaking and Entering (  114) has two effects: investigating 
+and, if successful, automatically evading an enemy. Either of these effects 
+may be replaced with exposing a concealed mini-card, but not both. 
+Likewise, if you issue the Betray and Confess commands via Power Word’s 
+Tonguetwister upgrade, only the damage or the clue discovery may be 
+replaced with an exposure; the other effect is resolved as normal. This holds 
+true even if issuing two commands to 3 enemies via Thrice Spoken: only 1 
+single concealed mini-card may be exposed even when resolving the effect 
+for 3 different enemies.
+Q: Does a concealed mini-card count as an enemy for the purposes of card effects 
+that depend on having an enemy at my location?
+A: No. A concealed mini-card can be attacked or evaded “as if it were an 
+engaged enemy”, but for all other effects, it is not considered an enemy at the 
+location. 
+For example, if Trish Scarborough (  3) discovers a clue at a location 
+with a concealed mini-card but no enemies, she is unable to trigger her  
+ability because the clue was not discovered at a location “with an enemy.” 
+Additionally, card effects that require an investigator to “choose an enemy”, 
+such as Expose Weakness (  228), cannot be used to target a concealed 
+mini-card. 
+Q: If performing the Shift ability on the Unstable  side of a key would not affect 
+each investigator or each enemy in play, can I still shift the key?
+A: To perform a Shift ability on a key, you must resolve as much of that 
+ability as possible, and if that ability changed the game state at all, you are 
+considered to have successfully shifted that key.
+For example, to shift The Last Blossom (  44) from its Unstable  side, you 
+must heal at least 1 damage from an enemy in play (though you must heal 1 
+damage from as many enemies as possible). Similarly, in order to shift The 
+Bale Engine (  269) from its Unstable  side, at minimum 1 investigator 
+needs to discard 1 resource (but each investigator must discard as many 
+resources as possible, to a max of 3).
+
+===== page 24 =====
+24
+FREQUENTLY ASKED QUESTIONS
+The List of Taboos
+The List of Taboos is a list of Arkham Horror: The Card Game  cards with 
+optional deckbuilding restrictions or text changes. This list is designed to 
+craft a healthy balance between investigator power and scenario difficulty, 
+and to enforce shifts in deckbuilding environments over time.
+Adhering to The List of Taboos is completely optional. Investigators are not 
+forced to adhere to the restrictions on this list, but if an investigator chooses 
+to do so, they must do so in full (an investigator cannot pick and choose 
+which restrictions to use).
+Chained / Unchained
+Cards from this list have their experience cost increased or decreased by the 
+amount listed below. Each card’s level remains the same—only the experience 
+spent to purchase the card is altered. This experience adjustment should also be 
+taken into account when upgrading to or from a card that is on this list.
+ Æ Scavenging (  73): +2 experience
+ Æ Scavenging (  332): +2 experience
+ Æ Pathfinder (  108): +1 experience
+ Æ Flamethrower (  305): +1 experience
+ Æ Drawing Thin (  159): +3 experience
+ Æ Knowledge is Power (  2 31): +2 experience
+ Æ The Necronomicon (Petrus de Dacia Translation) (  33): +3 experience
+ Æ Signum Crucis (  197): –2 experience
+ Æ Rite of Equilibrium (  308): –2 experience
+ Æ Sharpshooter (  27): –1 experience
+ Æ Gené Beauregard (  99): +2 experience
+ Æ Runic Axe (  22) Upgrade – Inscription of the Hunt:  +1 experience.
+ Æ Shed a Light (  108): +2 experience
+ Æ Old Keyring (  117): +1 experience
+Mutated
+Cards from this list have additional or altered text, as described below.
+ Æ Dr. Milan Christopher (  33): This card’s  ability now reads: 
+“After you successfully investigate, exhaust Dr. Milan Christopher…”
+ Æ Elusive (  50): This card now reads: “Disengage from each enemy 
+engaged with you and move to a connecting location with no enemies.”
+ Æ Rex Murphy (  2): This card’s  ability gains: “(Limit once 
+per round.)”
+ Æ Ritual Candles (  29,  5), Hypnotic Gaze (  153,  14,  23), 
+Jewel of Aureolus (  269), Voice of Ra (  16), Banish (  113) : 
+These cards now read “a symbol” instead of the list of indicated symbols.
+ Æ Delve Too Deep (  111): This card gains: “Group limit 2 copies of 
+Delve Too Deep in the victory display.”
+ Æ Springfield M1903 (  226): This card’s  ability gains: “This attack 
+may target a non -Elite enemy up to one location away from its standard 
+range, ignoring the aloof and retaliate keywords.”
+ Æ Quick Thinking (  229): At the end of its ability, this card gains: 
+“(Max once per round).”
+ Æ Strange Solution (Acidic Ichor) (  2 63): This card’s fight ability now 
+reads: “+1 damage” instead of “+2 damage.”
+ Æ Ace in the Hole (  266): This card gains: “(Max once per round.)”
+ Æ Lola Hayes (  6): This card’s forced ability is moved to its reverse 
+side, and it should instead read: “ Additional Setup: After you draw your 
+opening hand, choose a role (, , , , , or Neutral).” This card’s 
+front side additionally gains: “ : Switch roles. Does not provoke attacks 
+of opportunity.”
+ Æ Crisis of Identity (  19): This card’s revelation ability now reads: 
+“Discard 1 card in your hand or play area of your current role. Then…”
+ Æ Sleight of Hand (  29): This card’s ability now reads: “Put a level 0–3 
+Item asset into play from your hand.”
+ Æ David Renfield (  112): This card’s  ability now reads: “ …
+Gain 1 resource for each doom on David Renfield (to a maximum of 
+3 resources).”
+ Æ Key of Ys (  315): This card gains the exceptional keyword.
+ Æ Dark Prophecy (  32,  17): This cards now reads “a non-  
+symbol” instead of “a , , , , or  symbol.”
+ Æ Persuasion (  105): This card’s ability now reads “ Parley. Choose a 
+non-weakness enemy at your location…”
+ Æ Counterspell (  110): This cards now reads “a non-  symbol” 
+instead of “a , , , or  chaos token.”
+ Æ Pay Day (  233): This card’s ability now reads: “Gain 1 resource for 
+each action you spent this turn…”
+ Æ All In (  309): At the end of its ability, this card gains: “Remove All In 
+from the game.”
+ Æ Scroll of Secrets (all three versions)  (  116, 188, 189): These cards’ 
+ abilities are now  abilities.
+ Æ Interrogate (  20): This card’s ability now reads “ Parley. Choose a 
+non-Elite enemy at your location…”
+ Æ Mr. “Rook” (  153): This card’s  ability is now a  ability.
+ Æ Telescopic Sight (  230): This card loses the text: “Attached asset 
+cannot be used to attack enemies engaged with you.”
+ Æ Eucatastrophe (  32 4): This card’s ability gains: “Remove 
+Eucatastrophe from the game.”
+ Æ Mandy Thompson (  2): This investigator now reads: “Deck Size: 
+50” and “Deckbuilding Requirements (do not count toward deck size): 
+3 copies of Occult Evidence…”
+ Æ Pendant of the Queen (  22): This card’s constant ability now reads: 
+“If this card has no charges, remove it from the game.”
+ Æ .35 Winchester (  195): This card’s  ability now reads: “  Spend 
+1 ammo: Fight. You get +2  for this attack. If a chaos token with a 
+non-negative modifier is revealed during this attack, this attack deals 
++2 damage.”
+ Æ Three Aces (  199): This card’s ability gains: “Remove each 
+committed copy of Three Aces from the game.”
+ Æ Daredevil (  18): Instead of “Shuffle each weakness that was 
+discarded…”, this card’s ability now reads: “After this skill test resolves, 
+draw each weakness discarded by this effect.”
+===== page 25 =====
+25
+FREQUENTLY ASKED QUESTIONS
+ Æ Trish Scarborough (  3): This card’s  ability now reads: “After you 
+discover 1 or more clues at a location with an enemy: Either discover 1 
+additional clue at that location, or automatically evade that enemy if it is 
+non-Elite . (Limit once per round.)
+ Æ Ancient Covenant (  122): This card’s  ability now reads: “When 
+you resolve a  token during a skill test…”
+ Æ Flute of the Outer Gods (  2 68): This card loses the 
+exceptional keyword and gains “Limit 1 per deck.”
+ Æ A Watchful Peace (  269): This card’s ability gains: “Remove A 
+Watchful Peace from the game.”
+ Æ Hallow (  301): This card’s ability gains: “Remove Hallow from 
+the game.”
+ Æ Geared Up (  19): This card’s Forced effect now reads: “ Forced – 
+When your first turn of the game begins: One at a time, play up to 5 
+Item assets… ”
+ Æ Jeremiah Kirby (  32): This card’s ability gains: “(Max twice 
+per game.)”
+ Æ Prophesiae Profana (  45): This card’s constant ability now reads: 
+“ … you get +1 , +1 , and ignore the first attack of opportunity you 
+take each turn.”
+ Æ Black Market (  55): This card gains: “Max once per round.”
+ Æ Burn After Reading (  76): This card’s ability gains “(Max twice per 
+game.)”
+ Æ Eon Chart (both versions) (  98, 100): Theses cards should read 
+“basic actions” instead of “actions.” 
+ Æ Cyclopean Hammer (  187): This card’s parenthetical now reads:  
+“ …(If you succeed by 3 or more, you may exhaust Cyclopean Hammer 
+to instead deal +2 damage and move the enemy up to two locations away 
+f rom you.)”
+ Æ Research Notes (  45): This card’s second ability gains: “(max 3 
+evidence spent per round).”
+ Æ Power Word (  81): This card’s  ability now reads: “  If attached 
+enemy is at your location: Parley. Test  (3). If you succeed, give it a 
+command (limit once per round per command) – “Go.” This enemy 
+moves once in a direction of your choice.” 
+This card’s customizable sheet loses the “ Mercy ” ability and gains 
+“☐ Cower. Add the command: “= ‘Cower.’ This enemy exhausts .”
+Forbidden
+Cards from this list cannot be included in your deck.
+ Æ Double or Nothing (  26)
+===== page 26 =====
+26
+FREQUENTLY ASKED QUESTIONS
+Elder Sign 
+
+
+
+
+
+Chaos Token Names
+Auto-fail
+Elder Thing
+Cultist
+Skull
+Tablet
+Quick Reference
+This section provides standard play information in an abbreviated, quick-
+reference format that can be helpful in clarifying some common situations 
+in the game.
+Spawning an Enemy
+1. If an enemy is being spawned without an investigator drawing it, the 
+effect spawning the enemy will typically indicate where that enemy 
+should spawn. After spawning the enemy at that location, it will 
+automatically engage investigators at its location using the rules for 
+Enemy Engagement (Rules Reference, page 10), unless it is aloof.
+2. If an investigator draws an enemy, check to see if the enemy has a 
+“Spawn –” instruction.
+ = If the enemy has a “Spawn –” instruction, the enemy spawns at the 
+indicated location. After spawning the enemy at that location, it will 
+automatically engage investigators at its location using the rules for 
+Enemy Engagement (Rules Reference, page 10), unless it is aloof.
+ = If the enemy does not have a “Spawn –” instruction, the investigator 
+drawing the enemy spawns it engaged with him/her, unless it is aloof.
+“Prey –” instructions have no direct impact on which location an 
+enemy will spawn at.  The only time “Prey –” instructions will impact 
+this process is when an enemy spawns unengaged at a location with 
+multiple investigators, and you use the rules for Enemy Engagement 
+(Rules Reference, page 10) to determine which investigator it should 
+automatically engage.
+Campaign Product Icons
+This section lists each campaign along with their associated icon so players 
+can tell, at a glance, what campaign a particular card is from.
+ Core Set (Night of the Zealot)
+ Return to the Night of the Zealot
+ The Dunwich Legacy
+ Return to the Dunwich Legacy
+ The Path to Carcosa
+ Return to the Path to Carcosa
+ The Forgotten Age
+ Return to the Forgotten Age
+ The Circle Undone
+ Return to the Circle Undone
+ The Dream-Eaters
+ The Innsmouth Conspiracy
+ Edge of the Earth (Investigator Expansion)
+ Edge of the Earth (Campaign Expansion)
+ The Scarlet Keys (Investigator Expansion)
+ The Scarlet Keys (Campaign Expansion)
+ The Feast of Hemlock Vale (Investigator Expansion)
+ The Feast of Hemlock Vale (Campaign Expansion)
+Standalone Product Icons
+This section lists each standalone product along with their associated icon 
+so players can tell, at a glance, what product a particular card is from.
+ Curse of the Rougarou
+ Carnevale of Horrors
+ Labyrinths of Lunacy
+ Guardians of the Abyss
+ The Blob That Ate Everything
+ Murder at the Excelsior Hotel
+ War of the Outer Gods
+ Machinations Through Time
+ The Blob That Ate Everything ELSE
+Starter Deck Product Icons
+This section lists each investigator starter deck along with their associated 
+icon so players can tell, at a glance, what product a particular card is from.
+ Nathaniel Cho
+ Harvey Walters
+ Winifred Habbamock
+ Jacqueline Fine
+ Stella Clark
+Promo Icons
+ Novella
+ Parallel
+Bless
+Curse
+
+
+Frost
